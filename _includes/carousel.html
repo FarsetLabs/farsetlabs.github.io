@@ -4,14 +4,16 @@
     <div class="item {% if forloop.index0 == 0 %} active {% endif %}">
       <div class="container ">
         <div class="row-fluid">
-          <div class="span3">
+          <div class="span3 text-center">
+            <center>
             <a href="{{site.base}}/{{item.url}}">
               {% if item.image_url %}
-              <img src="{{{site.base}}/{item.image_url}}" class="thumbnail"/>
+              <img src="{{{site.base}}/{item.image_url}}" class="thumbnail carousel-img" />
               {% else %}
-              <img src="{{site.base}}/assets/img/posts/default.jpg" class='thumbnail'/>
+              <img src="{{site.base}}/assets/img/posts/default.jpg" class='thumbnail carousel-img'/>
               {% endif %}
             </a>
+          </center>
           </div>
           <div class="span8  carousel-post">
             <h2><a href="{{site.base}}/{{item.url}}">{{item.title}}</a></h2>
