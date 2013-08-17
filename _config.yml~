@@ -1,5 +1,0 @@
-name: BUILDS
-pygments: true
-exclude: [README.md, _scripts]
-plugins: ./_plugins
-base: http://builds-.github.io/builds-static
