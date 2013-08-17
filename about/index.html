@@ -1,0 +1,33 @@
+---
+layout: default
+title: BUILDS - About
+---
+
+<div id="about">
+	<div class="row-fluid">
+		<h1>About BUILDS</h1>
+		{% capture about_builds %}
+			{% include about_builds.md  %}
+		{% endcapture %}
+		{{ about_builds | unindent | markdownify}}
+	</div>
+
+	<div class="officers row-fluid">
+		<h1>Officers</h1>
+
+		<div class="officer row-fluid">
+			<h3>Chris Woodall</h3>
+		</div>
+		
+		<div class="officer row-fluid">
+			<h3>Allan Wirth</h3>
+		</div>			
+		
+		<div class="officer row-fluid">
+			<h3>George Silvis</h3>
+		</div>
+		<div class="officer row-fluid">
+			<h3>Andrew Mohn</h3>
+		</div>			
+	</div>
+</div>

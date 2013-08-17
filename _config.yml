@@ -1,0 +1,4 @@
+name: BUILDS
+pygments: true
+exclude: [README.md, _scripts]
+plugins: ./_plugins
