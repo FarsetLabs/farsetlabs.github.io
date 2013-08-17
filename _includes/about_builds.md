@@ -1,6 +1,1 @@
-About builds text can go here!!!
-
-Yes we can have lists:  
-- A 
-- B
-- C
+BUILDS is a student-run research lab and workshop that provides BU students with tools and resources for conducting collaborative student-led tech projects. Access is open to members 24 hours a day, 7 days a week. Contact us to set up a visit or swing by MCS B28 to check out this unique student-supported hackerspace.

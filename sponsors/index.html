@@ -6,8 +6,40 @@ title: BUILDS - Sponsors
 <div id="sponsors">
 	<div class="row-fluid">
 		<h1>Sponsors</h1>
-		<ul>
-			<li>List of sponsors</li>
-		</ul>
-	</div>
+			<p>The creative research atmosphere at BUILDS is made possible by the kindness and generosity of many individuals. Below is a list of people whose continued support is vital to the success of this unique student space.</p>
+
+			<p>If you wish to make a donation to BUILDS you can contact us at acm@bu.edu, or call 617-358-1164.</p>
+			{% capture sponsors_list %}
+### Main Monentary Contributors
+- James Store &ndash; Community Benefactor  
+-- Donations to date: $12,920
+
+### Boston University: Computer Science Administrative Benefactors
+
+- Dan Sclaroff &ndash; Department Chair
+- Ellen Grady &ndash; Finanical administrator
+- Jennifer Streubel &ndash; Staff Coordinator
+- Charles Willis &ndash; Staff Coordinator
+- Paul Stauffer &ndash; Systems Administrator
+
+### Boston University: Computer Science Academic Benefactors
+
+- Margrit Betke &ndash; Associate Professor
+- Leo Reyzin &ndash; associate Professor
+- Richard West &ndash; Associate Professor
+- Azer Bestavros &ndash; Professor
+- peter Gacs &ndash; Professor
+
+### Boston University; Other Academic Benefactors
+
+- Anders Sandvik &ndash; Professor, Physics Department
+- Information Sevices &amp; Technology
+
+### Community Benefactors
+
+- Daniel Clark &ndash; Founder, [Freedom Included](http://www.freedomincluded.com)
+- Jshua Horowitz &ndash; Vagrant
+			{% endcapture %}
+			{{sponsors_list | unindent | markdownify }}
+    </div>
 </div>

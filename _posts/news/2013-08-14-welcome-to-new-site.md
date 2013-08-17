@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to New Site!"
+title:  "Welcome to the New Site!"
 date:   2013-08-14 13:07:36
 categories: news jekyll
 tag: front

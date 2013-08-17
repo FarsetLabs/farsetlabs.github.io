@@ -5,10 +5,31 @@ carousel: true
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.tags.front %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<div class="row-fluid">
+		<h1> About BUILDS </h1>
+		<p>	
+			BUILDS is a student-run research lab and workshop that provides BU students with tools and resources for conducting collaborative student-led tech projects. Access is open to members 24 hours a day, 7 days a week. Contact us to set up a visit or swing by MCS B28 to check out this unique student-supported hackerspace.
+		</p>
+		<a class="btn btn-danger" href="/about">Read more about us!</a>
+	</div>
+	<hr />
+	<div class="row-fluid">
+		<div class="span6 ">
+		  <h1>Recent Stories</h1>
+  		<ul class="posts">
+    		{% for post in site.posts | first: 3 %}
+      	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    	{% endfor %}
+ 		 </ul>
+ 		</div>
+
+ 		<div class="span6">
+		  <h1>Featured Projects</h1>
+  		<ul class="posts">
+    		{% for post in site.posts | first: 3 %}
+      	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    	{% endfor %}
+ 		 </ul>
+ 		</div>
+ 	</div>
 </div>
