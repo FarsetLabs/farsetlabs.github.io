@@ -1,7 +1,28 @@
 # BUILDS Static Website
 
-This is a static site for BUILDS based powered by [Github's Jekyll][0] and [Twitter Bootstrap][1].
+This is a static site for [BUILDS][builds] based powered by [Jekyll][jekyll] and [Twitter Bootstrap][bootstrap].
 
+## Requirements
 
-[0]: #  
-[1]: # 
+builds-static uses [Jekyll][jekyll] which requires Ruby 1.9.3. To setup your ruby environment it is suggested that you use [RVM][rvm].
+
+- Ruby 1.9.3
+- bundler `$ gem install bundler`
+- jekyll `$ gem install jekyll`
+
+A Gemfile is included so you can run `$ bundle install` after you install bundler with `$ gem install bundler`.
+
+## Setting Up
+
+In `_config.yml` there is a parameter called `base`, which needs to be set to the base url. For example, if I were to launch `builds-static` to "http://www.builds.cc" I would replace the current base parameter with:
+
+    base: http://www.builds.cc
+
+Once this is done you can build the website with `$ jekyll build` and copy the contents of `_site` to the location the website will be hosted from.
+
+If you want to do local testing you should set `base: ""`. Then you can allow jekyll to serve the website locally with `$ jekyll serve`
+
+[builds]: http://builds.cc
+[jekyll]: http://jekyllrb.com
+[bootstrap]: http://getbootstrap.com/2.3.2
+[rvm]: https://rvm.io/
