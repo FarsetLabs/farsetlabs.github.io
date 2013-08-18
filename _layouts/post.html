@@ -2,7 +2,11 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<p class="meta">Posted at {{ page.date | date_to_string }} by {{ page.author }}</p>
+
+	<center>
+		<img src="{{site.base}}/{{page.image_url}}" class="thumbnail" style="width:auto;height:300px"/>
+	</center> <br />
 
 <div class="post">
 {{ content }}

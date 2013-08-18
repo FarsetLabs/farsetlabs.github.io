@@ -52,8 +52,7 @@ color: #cc2200;}
   }
 #builds-carousel {
   margin-top: 40px;
-  min-height:250px;
-  min-width:400px;
+  min-height:260px;
   padding-bottom: 10px;
   background-color: #f5f5f5;
   border-bottom-color: #e3e3e3;
@@ -69,9 +68,10 @@ color: #cc2200;}
     margin-right:75px;
   }
   #builds-carousel .item .carousel-img {
-    max-height: 200px;
+    max-height: 150px;
   }
-.carousel-post p { line-height:150% !important;}
+
+.carousel-post p { line-height:125% !important;}
 
 .officers {
 
