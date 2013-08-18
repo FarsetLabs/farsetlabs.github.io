@@ -6,6 +6,9 @@
 
 a { 
 color: #cc2200;}
+a:hover {
+  color: #442200;
+}
 .logo {
   color:#fff !important;
   font-family: "Verdana", "Helvetica", "Arial", sans-serif;
@@ -81,25 +84,3 @@ color: #cc2200;}
     padding-bottom: 20px;
   }
 
-.row-fluid .mobile-one {
-  width: 31.491712707182323%;
-  *width: 31.43852121782062%;
-}
-
-.row-fluid .mobile-three {
-  width: 65.74585635359117%;
-  *width: 65.69266486422946%;
-}
-
-.row-fluid .mobile-two {
-  width: 48.61878453038674%;
-  *width: 48.56559304102504%;
-}
-
-.row-fluid .mobile-one,
-.row-fluid .mobile-two,
-.row-fluid .mobile-three {
-  float:left;
-  margin-left: 2.7624309392265194%;
-  *margin-left: 2.709239449864817%;
-}
