@@ -68,7 +68,8 @@ color: #cc2200;}
     margin-right:75px;
   }
   #builds-carousel .item .carousel-img {
-    max-height: 150px;
+    height: 250px;
+    width: auto;
   }
 
 .carousel-post p { line-height:125% !important;}
