@@ -5,10 +5,12 @@
 /*****************************************************************************/
 
 a { 
-color: #cc2200;}
-a:hover {
-  color: #442200;
-}
+  color: #cc2200;
+  }
+  a:hover {
+    color: #442200;
+  }
+
 .logo {
   color:#fff !important;
   font-family: "Verdana", "Helvetica", "Arial", sans-serif;
@@ -53,6 +55,7 @@ a:hover {
   padding-top: 10px;
   margin-bottom:10px;
   }
+
 #builds-carousel {
   margin-top: 40px;
   min-height:260px;
@@ -69,13 +72,12 @@ a:hover {
     margin-bottom:25px;
     margin-left:75px;
     margin-right:75px;
-  }
-  #builds-carousel .item .carousel-img {
-    height: 250px;
-    width: auto;
-  }
-
-.carousel-post p { line-height:125% !important;}
+    }
+    #builds-carousel .item .carousel-img {
+      height: 250px;
+      width: auto;
+      } 
+      .carousel-post p { line-height:125% !important;}
 
 .officers {
 

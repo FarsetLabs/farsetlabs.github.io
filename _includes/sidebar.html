@@ -16,7 +16,7 @@
   <div class="sidebar-location sidebar-item row-fluid">
     <h4>Contact Us</h4>
     <p><strong>Email:</strong> acm@bu.edu</p>
-    <p><strong>Address:</strong> <a href="https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=111+Cummington+St,+Boston,+MA&aq=0&oq=111+Cummington&sll=42.35366,-71.106691&sspn=0.035837,0.076818&vpsrc=0&ie=UTF8&hq=&hnear=111+Cummington+St,+Boston,+Suffolk,+Massachusetts+02215&t=m&z=16" target="_blank">111 Cummington St Rm. B26, Boston MA 02215</a></p> 
+    <p><strong>Address:</strong> <br /><a href="http://www.openstreetmap.org/?way=29680807#map=18/42.34917/-71.10383" target="_blank">111 Cummington St Rm. B26, Boston MA 02215</a></p> 
 
     <center>
       <div class="btn-group">
@@ -36,15 +36,9 @@
 
   <div class="sidebar-links sidebar-item last row-fluid">
     <h4>Links</h4>
-    <ul>
-      <li><a href="#">BU</a></li>
-      <li><a href="#">BU SAO</a></li>
-      <li><a href="#">Artisan's Asylum</a></li>
-      <li><a href="#">MITERS</a></li>
-      <li><a href="#">Sprout</a></li>
-      <li><a href="#">DIY BIO</a></li>
-      <li><a href="#">hackerspaces.com</a></li>
-      <li><a href="#">Hack-A-Day</a></li>
-    </ul>
+    {% capture sidebar_links %}
+      {% include sidebar-links.md %}
+    {% endcapture %}
+    {{ sidebar_links | unindent | markdownify }}
   </div>
         </div> <!-- end sidebar -->
