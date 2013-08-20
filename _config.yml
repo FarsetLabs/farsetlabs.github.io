@@ -2,6 +2,6 @@ name: BUILDS
 pygments: true
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock]
 plugins: ./_plugins
-base: "http://ohm.bu.edu/~cwoodall/builds-static"
+base: "http://localhost:4000"
 paginate_path: "news/page:num"
 paginate: 5

@@ -7,17 +7,9 @@ title: BUILDS - About
 	<div class="row-fluid">
 		<h1>About BUILDS</h1>
 		{% capture about_builds %}
-### Who We Are
-We are a inclusive group of students, artists, hackers, and organizers that believe strongly in experimental learning and the Do-It-Yourself ethic. We facilitate student-led technology initiatives and encourage hands-on learning by maintaining an open workshop and creative space that is freely available to all students. We maintain an inclusive membership policy, and strive to apply the principles of the open-software and open-hardware movements within our design policies. In short, we are an immersive experiment into the hacker ethic.
-
-### Location &amp; Hours
-We are located in the basement of the Math and Computer Science building at Boston University, room B26. We are accessible 24/7 to cardholding members, and are available by appointment to non-members. Please e-mail acm@bu.edu to schedule a meeting with us.
-
-### Want to be a Member?
-You can join us by e-mailing acm@bu.edu and expressing your interest. Please include your name, university affiliation (if any), and an e-mail address where we can reach you.
-
-{% endcapture %}
-		{{ about_builds | unindent | markdownify}}
+			{% include pages/about_builds.md %}
+		{% endcapture %}
+		{{ about_builds | unindent | markdownify }}
 	</div>
 	<hr/>
 	<div class="officers row-fluid">
@@ -26,7 +18,8 @@ You can join us by e-mailing acm@bu.edu and expressing your interest. Please inc
 		<div class="officer row-fluid">
 			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/officers/cwoodall.jpg" /></div>
 			<div class="span9">
-				<h3>Chris Woodall: President 2013-2014</h3>
+				<h3>Chris Woodall (ENG 2014)</h3>
+				<h4>President 2013-2014, VP 2012-2013</h4>
 				<p>Chris has a passion for making music, programming microcontrollers, and soldering. Sometimes he is writing software and sometimes he is debugging a circuit, but usually he is doing both. You can see some of his
 				work over on <a href="http://www.cjwoodall.com">his website</a>.</p>
 			</div>
@@ -35,7 +28,8 @@ You can join us by e-mailing acm@bu.edu and expressing your interest. Please inc
 		<div class="officer row-fluid">
 			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/officers/awirth.jpg" /></div>
 			<div class="span9">
-				<h3>Allan Wirth: Vice President 2013-2014</h3>
+				<h3>Allan Wirth (CAS 2015)</h3>
+				<h4>Vice President 2013-2014</h4>
 				<p>Allan is a Computer Science major interested in security. He plays CTFs
 with BUILDS and <a href="bostonkeyparty.net">Boston Key Party</a>. Sometimes he even writes
 software and posts it on his <a href="http://allanwirth.com/">website</a>.</p>
@@ -44,15 +38,17 @@ software and posts it on his <a href="http://allanwirth.com/">website</a>.</p>
 		<div class="officer row-fluid">
 			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/officers/gsilvis.jpg" /></div>
 			<div class="span9">
-				<h3>George Silvis: Secretary 2013-2014</h3>
+				<h3>George Silvis (CAS 2014)</h3>
+				<h4>Secretary 2013-2014, Treasurer 2012-2013</h4>
 				<p>George is a math, classics and who knows what else major. Commonly he CTFs with BUILDS and writes math inspired Free, Libre and Open Source Software.</p>
 			</div>
 		</div>
 		<div class="officer row-fluid">
 			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/officers/amohn.jpg" /></div>
 			<div class="span9">
-				<h3>Andrew Mohn: Treasurer 2013-2014</h3>
-				<p>Andrew is math.</p>
+				<h3>Andrew Mohn (CAS 2014)</h3>
+				<h4>Treasurer 2012-2013</h4>
+				<p>Andrew is a math major with a lot of programming experience behind him, making for a dangerous combo.</p>
 			</div>
 		</div>
 	</div>
