@@ -6,7 +6,8 @@ title: BUILDS - Acknowledgements
 <div id="sponsors">
 	<div class="row-fluid">
 		{% capture acknowledgements_text %}
-			{% endcapture %}
+			{% include pages/acknowledgements.md %}
+		{% endcapture %}
 		{{ acknowledgements_text | unindent | markdownify }}
     </div>
 </div>

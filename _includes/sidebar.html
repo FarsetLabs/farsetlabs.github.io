@@ -2,11 +2,12 @@
   <div class="sidebar-events sidebar-item  first row-fluid">
     <h4>Upcoming Events</h4>
     
-    <iframe src="https://www.google.com/calendar/embed?showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ttub0pskjfclvhdsjkgfbo69m0%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="200" frameborder="0" scrolling="no"></iframe>
-
+    <p>
+      <iframe src="https://www.google.com/calendar/embed?showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ttub0pskjfclvhdsjkgfbo69m0%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+    </p>
+    
     <div class="text-center" >
-      <a class="btn btn-small" href="{{site.base}}/events"> 
-
+      <a class="btn btn-danger" href="{{site.base}}/events"> 
         Goto calendar &rsaquo;&rsaquo;
       </a>
     </div>
@@ -15,22 +16,39 @@
 
   <div class="sidebar-location sidebar-item row-fluid">
     <h4>Contact Us</h4>
-    <p><strong>Email:</strong> acm@bu.edu</p>
-    <p><strong>Address:</strong> <br /><a href="http://www.openstreetmap.org/?way=29680807#map=18/42.34917/-71.10383" target="_blank">111 Cummington St Rm. B26, Boston MA 02215</a></p> 
+    <div class="row-fluid">
+      <div class="span3 text-right"><strong>Email</strong></div> <div class="span9">acm@bu.edu</div>
+    </div>
 
-    <center>
+    <div class="row-fluid">
+      <div class="span3 text-right"><strong>Address</strong></div> 
+      <div class="span9 ">
+        <address>
+          <strong>BUILDS</strong><br>
+          111 Cummington Mall, Room B26<br />
+          Boston, MA 02215<br />
+        </address>
+      </div>
+    </div>
+
+    <div class="text-center">
       <div class="btn-group">
-        <a href="https://www.facebook.com/groups/438143755634/" class="btn btn-small btn-danger">
+        <a href="https://www.facebook.com/groups/438143755634/" class="btn btn-danger">
           Facebook
         </a>
       </div>
-    </center>
+    </div>
   </div> <!-- end sidebar-location -->
 
   <div class="sidebar-mailinglist sidebar-item row-fluid">
     <h4>Join Mailing List</h4>
-    <p>The BUILDS mailing list is hosted at builds-list at cs.bu.edu. Please click on the button below and follow the ensuing instructions to join. You can unsubscribe yourself at the same website</p>
-    <a class='btn btn-danger btn-large' href="http://cs-mailman.bu.edu/mailman/listinfo/builds-list">Subscribe/Unsubscribe from Mailing List</a>
+    <p>The BUILDS mailing list is <i>builds-list@cs.bu.edu</i> and is hosted on CS IT's mailman server.</p>
+
+    <p>Please click on the button below and follow the ensuing instructions to join. You can unsubscribe yourself using the same website.</p>
+
+    <div class="text-center">
+      <a class='btn btn-danger btn text-center' href="http://cs-mailman.bu.edu/mailman/listinfo/builds-list">Subscribe/Unsubscribe from Mailing List</a>
+    </div>
   </div> <!-- end sidebar-mailinglist -->
 
 

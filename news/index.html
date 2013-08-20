@@ -9,8 +9,8 @@ title: BUILDS - News
 	  <h1><a href="{{site.base}}/{{ post.url }}">{{ post.title }}</a></h1>
 	  <p class="author">
 
-	    <span class="date">{{ post.date | date: "%m-%d-%Y"}}</span> 
-	    {%if post.author %} - {{post.author}} {%endif%}
+	    
+	    Posted by {%if post.author %} {{post.author}} {%else%} BUILDS {%endif%} on <span class="date">{{ post.date | date: "%m/%d/%Y"}}</span> 
 	  </p>
 	  <div class="content">
 	  		<center>
