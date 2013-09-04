@@ -6,9 +6,9 @@
         <div class="row-fluid">
           <div class="span4 text-center">
             <center>
-            <a href="{{site.base}}/{{item.url}}">
+            <a href="{{site.base}}{{item.url}}">
               {% if item.image_url %}
-              <img src="{{site.base}}/{{item.image_url}}" class="thumbnail carousel-img" />
+              <img src="{{site.base}}{{item.image_url}}" class="thumbnail carousel-img" />
               {% else %}
               <img src="{{site.base}}/assets/img/posts/default.jpg" class='thumbnail carousel-img'/>
               {% endif %}
@@ -16,13 +16,13 @@
           </center>
           </div>
           <div class="span8  carousel-post">
-            <h2><a href="{{site.base}}/{{item.url}}">{{item.title}}</a></h2>
+            <h2><a href="{{site.base}}{{item.url}}">{{item.title}}</a></h2>
             {%  if item.content contains "<!-- more -->" %}
             {{ item.content | split:"<!-- more -->" | first }}
             {% else %}
             {{ item.content | strip_html | truncatewords:200 }} ...
             {% endif %}
-            <a class="btn btn-danger" href="{{site.base}}/{{item.url}}">Read More &rsaquo;&rsaquo;</a>
+            <a class="btn btn-danger" href="{{site.base}}{{item.url}}">Read More &rsaquo;&rsaquo;</a>
           </div>
         </div>
       </div>

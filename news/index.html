@@ -6,7 +6,7 @@ title: BUILDS - News
 <div id="news">
 	{% for post in paginator.posts %}
 	 <div class='row-fluid news-item'>
-	  <h1><a href="{{site.base}}/{{ post.url }}">{{ post.title }}</a></h1>
+	  <h1><a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></h1>
 	  <p class="author">
 
 	    
@@ -14,7 +14,7 @@ title: BUILDS - News
 	  </p>
 	  <div class="content">
 	  		<center>
-		  		<img src="{{site.base}}/{{post.image_url}}" class="thumbnail" style="width:auto;height:200px"/>
+		  		<img src="{{site.base}}{{post.image_url}}" class="thumbnail" style="width:auto;height:200px"/>
 		  	</center> <br />
 
             {%  if post.content contains "<!-- more -->" %}
@@ -25,7 +25,7 @@ title: BUILDS - News
 
             <br />
             <center>
-	            <a class="btn btn-danger" href="{{site.base}}/{{post.url}}">Read More &rsaquo;&rsaquo;</a>
+	            <a class="btn btn-danger" href="{{site.base}}{{post.url}}">Read More &rsaquo;&rsaquo;</a>
 	        </center>
 	  </div>
 	 </div>
