@@ -24,9 +24,29 @@ If you want to do local testing you should set `base: ""`. Then you can allow je
 
 ## Adding/Changing Content
 
-This website uses jekyll, and has a few things built in inorder to make changing content easier
+This website uses jekyll and all new News/Blog posts go under the _posts folder. The current
+method of organizing the _posts folder is this: "category/YYYY-MM-DD-title.md" The only part 
+which is required (by jekyll) is the YYYY-MM-DD part. The category part is optional and
+should correspond to the category in the YAML header. A standard yaml header can be found
+below:
 
-### Editing Sidebar Lins
+```yaml
+---
+layout: post
+title:  "Full Title"
+date:   2012-03-22 13:07:36
+author: "Author Name"
+categories: category
+image_url: /assets/img/posts/category/filename/banner.jpg
+tag: front
+---
+```
+
+Note: A ruby program (nicknamed `potion`) is in the works for maintaining the directory
+structure, deleting posts, adding images to posts.  `potion` will be released seperately
+and configured to the project with a `_potion.yml` file.
+
+### Editing Sidebar Links
 
 Sidebar links are included from `_includes/sidebar-links.md` it is just a markdown 
 list which gets parsed when the jekyll site is compiled. To change the links just edit
