@@ -10,6 +10,9 @@ tag:
 Notes recorded from BUILDS meeting
 Recorded 9/11/13
 
+<!-- more -->
+
+<pre>
 Introduce officers again.
 
 Upcoming events:
@@ -34,6 +37,7 @@ Upcoming events:
     - Artificial Intelligence, too
     - Thursday, 6 PM
 
+
 Projects that people are interested in working on
   - Allan:  Offline genome viewer
     - Current genome sequencing serivices give you a large file with little anotation
@@ -52,3 +56,4 @@ Introduce students
 
 Please come by whenever!  The door is open as often as we can manage it, and
 people are often working and hacking here late into the night.
+</pre>
