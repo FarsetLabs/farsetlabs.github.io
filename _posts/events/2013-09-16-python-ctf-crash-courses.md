@@ -3,7 +3,7 @@ layout: post
 title:  "Intro to Python/Unix and CTF Crash Courses"
 date:   2013-09-16 13:07:36
 author: "Chris Woodall"
-categories: projects
+categories: events
 image_url: /assets/img/posts/events/2013-09-16-python-ctf-crash-courses/banner.jpg
 tag: front
 ---
