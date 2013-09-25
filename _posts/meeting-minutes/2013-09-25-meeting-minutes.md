@@ -10,6 +10,9 @@ tag:
 Notes recorded from BUILDS meeting
 Recorded 9/25/13
 
+NOTE that we were wrong about the time of MIT/LL CTF during the meeting.  It's
+been updated in the notes.
+
 <!-- more -->
 
 <pre>
@@ -28,7 +31,7 @@ Coming Up:
       - If you run into problems, arrive a bit early
     - Also make a GitHub account (github.com)
       - If you know what an SSH key is and have one, set it up!
-  - MIT/LL CTF: Weekend after this
+  - MIT/LL CTF:    OCTOBER 25-27
     - Attack/defense CTF
     - 48 hours, but they make you go home at night, and it won't be continuous
     - 8 person teams, of which we currently have 5 or 6
