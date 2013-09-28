@@ -3,7 +3,7 @@ layout: post
 title:  "Good Luck at CSAW 2013"
 date:   2013-09-19 13:07:36
 author: "Chris Woodall"
-categories: news
+categories: events
 image_url: /assets/img/posts/news/2013-09-19-goodluck-csaw-2013/banner.jpg
 tag: front
 ---
