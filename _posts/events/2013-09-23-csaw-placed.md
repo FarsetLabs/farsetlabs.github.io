@@ -3,7 +3,7 @@ layout: post
 title:  "BUILDS Has Qualified for CSAW Finals"
 date:   2013-09-23 13:07:36
 author: "Chris Woodall and Danny Cooper"
-categories: news
+categories: events
 image_url: /assets/img/posts/news/2013-09-23-csaw-placed/banner.jpg
 tag: front
 ---
