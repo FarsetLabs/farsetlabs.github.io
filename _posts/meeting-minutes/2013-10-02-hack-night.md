@@ -60,7 +60,7 @@ Recorded 10/02/13
 - Talk to Chris [cwoodall@bu.edu](mailto:cwoodall@bu.edu)
 - LED Panel
 - Meeting again this Saturday, around 2 PM
-- Talk to Chris [cwoodall@bu.edu]
+- Talk to Chris [cwoodall@bu.edu](mailto:cwoodall@bu.edu)
 - Part of the Revitalize the Ceiling Panels initiative
   - I just made that name up
 
