@@ -44,6 +44,7 @@ Recorded 10/09/13
 - Science Hack Day, and the associated project competition
   - October 19-20, Harvard Campus
   - Sign up for the event here: https://[sciencehackdayboston.eventbrite.com](sciencehackdayboston.eventbrite.com)/
+  
 # Ongoing Projects
 - Kenshin's Machine Learning Group
   - This Friday at 5 PM:  Solving 'Cookie Clicker'
