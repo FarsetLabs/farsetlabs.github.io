@@ -17,7 +17,6 @@ Recorded 10/30/13
 Recent Events:
   - MIT/Lincoln Labs CTF: Last Weekend
     - Attack/Defense security competition
-    - 36 hours with no time off...
     - Some other teams there:  MIT (several), WPI, Rensellaer, NYU Poly, Northeastern, Wellesley
     - Talk to Danny (dannyc@bu.edu) and Allan (wirtha@bu.edu) if you're curious
   - Soldering Workshop:
@@ -32,7 +31,7 @@ Upcoming Events:
     - http://www.bu.edu/bucld/
     - Friday to Sunday, this weekend
     - At the GSU
-    - Friday 9-10:30 AM:  Kenshin (ben10@bu.edu) is going to 
+    - Friday 9-10:30 AM:  Kenshin (ben10@bu.edu) is going to several talks
   - Boston Data Festival
     - November 4-11 (Monday)
     - http://smg26.wpengine.com/
@@ -47,7 +46,6 @@ Upcoming Events:
       - We do have two spare ones, and people can share
     - Talk to Chris (cwoodall@bu.edu)
     - Dates will be set by next week.
-
   - Hack Princeton and YHack (Yale)
     - Both offer travel reimbursements
     - Same weekend, November 8-9
