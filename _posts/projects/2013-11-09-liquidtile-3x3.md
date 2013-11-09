@@ -13,6 +13,8 @@ William Gullotta, Nathan Hepler and Danny Cooper. The goal of the LiquidTile pro
 with a software interface for computer control. The current version is a 3x3 RGB LED tile and a video is available
 [here][video].
 
+<!-- more -->
+
 The project source is available on [Github][github] and we are currently working on an 8x8 system.
 
 [video]: http://www.youtube.com/watch?v=dNm_WUBZWgU&feature=youtu.be
