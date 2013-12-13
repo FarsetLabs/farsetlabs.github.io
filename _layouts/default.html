@@ -44,6 +44,7 @@
       </div>
     </div> <!-- end nav -->
     <!-- Set carousel: true in YAML text header for pages to get carousel -->
+    {% if page.carousel %}
     <div id="builds-carousel" class='carousel slide'>
       <div class='carousel-inner'>
         <div class='item active'>
@@ -76,7 +77,7 @@
         </div>
       </div>
     </div>
-
+    {% endif %}
 
     <div class="container" style="background-color:white; margin-top:50px">
       <div class="main row-fluid">
