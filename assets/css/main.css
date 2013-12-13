@@ -74,8 +74,8 @@ a {
     margin-right:75px;
     }
     #builds-carousel .item .carousel-img {
-      height: 250px;
-      width: auto;
+      height: auto;
+      width: 100%;
       } 
       .carousel-post p { line-height:125% !important;}
 
