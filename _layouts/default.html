@@ -44,9 +44,38 @@
       </div>
     </div> <!-- end nav -->
     <!-- Set carousel: true in YAML text header for pages to get carousel -->
-    {% if page.carousel %} 
-      {% include carousel.html %}
-    {% endif %}
+    <div id="builds-carousel" class='carousel slide'>
+      <div class='carousel-inner'>
+        <div class='item active'>
+          <div class="container ">
+            {% for item in site.tags.front limit: 1%}
+            <div class="row-fluid">
+              <div class="span4 text-center">
+                <center>
+                <a href="{{site.base}}{{item.url}}">
+                  {% if item.image_url %}
+                  <img src="{{site.base}}{{item.image_url}}" class="thumbnail carousel-img" />
+                  {% else %}
+                  <img src="{{site.base}}/assets/img/posts/default.jpg" class='thumbnail carousel-img'/>
+                  {% endif %}
+                </a>
+              </center>
+              </div>
+              <div class="span7  carousel-post">
+                <h2><a href="{{site.base}}{{item.url}}">{{item.title}}</a></h2>
+                {%  if item.content contains "<!-- more -->" %}
+                {{ item.content | split:"<!-- more -->" | first }}
+                {% else %}
+                {{ item.content | strip_html | truncatewords:200 }} ...
+                {% endif %}
+                <a class="btn btn-danger" href="{{site.base}}{{item.url}}">Read More &rsaquo;&rsaquo;</a>
+              </div>
+            </div>
+            {%endfor%}
+          </div>
+        </div>
+      </div>
+    </div>
 
 
     <div class="container" style="background-color:white; margin-top:50px">
