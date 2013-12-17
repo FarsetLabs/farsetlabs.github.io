@@ -1,8 +1,0 @@
-- [Boston University](http://www.bu.edu)
-- [BU Student Activities Office](http://www.bu.edu/studentactivities/)
-- [Boston Key Party (Boston CTF Team)](http://bostonkeyparty.net/)
-- [Artisan's Asylum](http://artisansasylum.com/)
-- [BU Design and Engineering](http://www.bu.edu/studentactivities/group/design-and-engineering-society/)
-- [MITERS](http://miters.mit.edu/)
-- [Sprout](http://thesprouts.org/)
-- [BOSSLAB](http://bosslab.org/)
