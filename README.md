@@ -2,7 +2,7 @@
 
 This is a static site for [Farset Labs][farsetlabs] based powered by [Jekyll][jekyll] and [Twitter Bootstrap][bootstrap].
 
-TOTALLY taken with full attribution from [Farset Labs][builds]
+TOTALLY taken with full attribution from [BUILDS][builds]
 
 ## Requirements
 
