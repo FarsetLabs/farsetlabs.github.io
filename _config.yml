@@ -2,6 +2,6 @@ name: Farset Labs
 pygments: true
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock]
 plugins: ./_plugins
-base: "farsetlabs.github.io"
+base: ""
 paginate_path: "news/page:num"
 paginate: 5
