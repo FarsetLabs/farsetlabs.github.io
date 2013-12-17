@@ -1,0 +1,35 @@
+---
+layout: default
+title: Farset Labs - Home
+carousel: true
+---
+
+<div id="home">
+	<div class="row-fluid">
+		<h1> About Farset Labs </h1>
+		<p>	
+    Farset Labs is a hackerspace that provides a place for creativity and technological tinkering. We’re open to everyone, no matter what you want to do, and we welcome people from all walks of life to use our space, come to our events, and get involved at a low level to foster the maker community in Northern Ireland.
+		</p>
+		<a class="btn btn-danger" href="{{site.base}}/about">Read more about us!</a>
+	</div>
+	<hr />
+	<div class="row-fluid">
+		<div class="span6 ">
+		  <h1>Recent Stories</h1>
+  		<ul class="posts">
+    		{% for post in site.posts | first: 3 %}
+      		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></li>
+    		{% endfor %}
+ 		 </ul>
+ 		</div>
+
+ 		<div class="span6">
+		  <h1>Featured Projects</h1>
+  		<ul class="posts">
+    		{% for post in site.categories.projects | first: 3 %}
+      		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></li>
+    	{% endfor %}
+ 		 </ul>
+ 		</div>
+ 	</div>
+</div>

@@ -1,0 +1,63 @@
+---
+layout: default
+title: Farset Labs - About
+---
+
+<div id="about">
+	<div class="row-fluid">
+		<h1>About Farset Labs</h1>
+		{% capture about_farset %}
+			{% include pages/about_farset.md %}
+		{% endcapture %}
+		{{ about_farset | unindent | markdownify }}
+	</div>
+	<hr/>
+	<div class="directors row-fluid">
+		<h1>Current Directors</h1>
+
+		<div class="director row-fluid">
+			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/directors/bolster.jpg" /></div>
+			<div class="span9">
+				<h3>Andrew Bolster</h3>
+				<h4>Founding Director (2011)</h4>
+				<p>Chris has a passion for making music, programming microcontrollers, and soldering. Sometimes he is writing software and sometimes he is debugging a circuit, but usually he is doing both. You can see some of his
+				work over on <a href="http://andrewbolster.info">his website</a>.</p>
+			</div>
+		</div>
+		
+		<div class="director row-fluid">
+			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/directors/kane.jpg" /></div>
+			<div class="span9">
+				<h3>David Kane</h3>
+				<h4>Founding Director (2011)</h4>
+				<p>Allan is a Computer Science major interested in security. He plays CTFs
+with Farset Labs and <a href="bostonkeyparty.net">Boston Key Party</a>. Sometimes he even writes
+software and posts it on his <a href="http://allanwirth.com/">website</a>.</p>
+			</div>
+		</div>
+		<div class="director row-fluid">
+			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/directors/bland.jpg" /></div>
+			<div class="span9">
+				<h3>Ben Bland</h3>
+				<h4>Director (2013)</h4>
+				<p>George is a math, classics and who knows what else major. Commonly he CTFs with Farset Labs and writes math inspired Free, Libre and Open Source Software.</p>
+			</div>
+		</div>
+		<div class="director row-fluid">
+			<div class="span3"><img class="thumbnail" style="height:150px;width:150px" src="{{site.base}}/assets/img/directors/wylie.jpg" /></div>
+			<div class="span9">
+				<h3>Dylan Wylie</h3>
+				<h4>Director (2013)</h4>
+				<p>Andrew is a math major with a lot of programming experience behind him, making for a dangerous combo.</p>
+			</div>
+		</div>
+	</div>
+	<hr/>
+	<div class="founding-directors row-fluid">
+		<h1>Farset Labs Former Directors</h1>
+		<p>All former directors are listed with last office held</p>
+		<ul>
+			<li>Ellen Murray: Founding Director (2011-2013)</li>
+		</ul>
+	</div>
+</div>

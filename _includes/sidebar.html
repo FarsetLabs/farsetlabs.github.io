@@ -1,0 +1,48 @@
+<div class="span4 sidebar">
+  <div class="sidebar-events sidebar-item  first row-fluid">
+    <h4>Upcoming Events</h4>
+    
+    <p>
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=farsetlabs.org.uk_srmqnkn373auq51u00s2nijrq8%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="318" height="200" frameborder="0" scrolling="no"></iframe>
+    <div style="width:195px; text-align:center;"><iframe  src="https://www.eventbrite.com/calendar-widget?eid=5765782611" frameborder="0" height="200" width="100%" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+    </p>
+    
+    <div class="text-center" >
+      <a class="btn btn-danger" href="{{site.base}}/events"> 
+        Goto calendar &rsaquo;&rsaquo;
+      </a>
+    </div>
+
+  </div> <!-- end sidebar-events -->
+
+  <div class="sidebar-location sidebar-item row-fluid">
+    <h4>Contact Us</h4>
+    <div class="row-fluid">
+      <div class="span3 text-right"><strong>Email</strong></div> <div class="span9">info@farsetlabs.org.uk</div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span3 text-right"><strong>Address</strong></div> 
+      <div class="span9 ">
+        <address>
+          <strong>Farset Labs</strong><br>
+          1 Weavers Court Business Park<br />
+          Linfield Road<br />
+          Belfast BT12 5GH<br />
+        </address>
+      </div>
+    </div>
+
+    <div class="text-center">
+      <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFarsetLabs&amp;width=318&amp;height=558&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=true&amp;show_border=false&amp;appId=218300458266006" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:318px; height:558px;" allowTransparency="true"></iframe>
+    </div>
+  </div> <!-- end sidebar-location -->
+
+  <div class="sidebar-links sidebar-item last row-fluid">
+    <h4>Links</h4>
+    {% capture sidebar_links %}
+      {% include sidebar-links.md %}
+    {% endcapture %}
+    {{ sidebar_links | unindent | markdownify }}
+  </div>
+</div> <!-- end sidebar -->

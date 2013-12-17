@@ -1,0 +1,13 @@
+---
+layout: default
+title: Farset Labs - Acknowledgements
+---
+
+<div id="sponsors">
+	<div class="row-fluid">
+		{% capture acknowledgements_text %}
+			{% include pages/acknowledgements.md %}
+		{% endcapture %}
+		{{ acknowledgements_text | unindent | markdownify }}
+    </div>
+</div>
