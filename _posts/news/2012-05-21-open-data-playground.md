@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /open-data-playground/
 categories:
-  - Events
+  - events
 tags:
   - Auto
   - buzzword

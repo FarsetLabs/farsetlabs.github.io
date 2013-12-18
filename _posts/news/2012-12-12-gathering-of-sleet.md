@@ -16,7 +16,7 @@ networkpub_ogtype_facebook:
 networkpub_post_image_video:
   - image
 categories:
-  - Events
+  - events
 tags:
   - aka
   - Community

@@ -10,7 +10,7 @@ networkpub_twitterhandle:
 networkpub_twitterhash:
   - blackboardtuesdays
 categories:
-  - Events
+  - events
 tags:
   - 5th Anniversary
   - Anniversary

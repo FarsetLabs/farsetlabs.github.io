@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /free-it-for-business-training-sessions/
 categories:
-  - Events
+  - events
 tags:
   - Business Process Improvement
   - Farset Labs

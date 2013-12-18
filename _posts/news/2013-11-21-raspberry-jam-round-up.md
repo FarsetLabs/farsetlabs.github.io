@@ -4,7 +4,7 @@ author: benbland
 layout: post
 permalink: /raspberry-jam-round-up/
 categories:
-  - Events
+  - events
 tags:
   - audio interpretation
   - blind person

@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /donation-day/
 categories:
-  - Events
+  - events
   - Uncategorized
 tags:
   - equipment

@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /new-lookgathering-of-lightning/
 categories:
-  - Events
+  - events
   - News
 tags:
   - Auto

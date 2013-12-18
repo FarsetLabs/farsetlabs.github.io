@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /coder-dojo-weavers-court/
 categories:
-  - Events
+  - events
 tags:
   - Coder Dojo
   - Coder Dojo @ Weavers Court

@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /diy-guitar-pedal-workshop/
 categories:
-  - Events
+  - events
 tags:
   - creativity
   - dcal

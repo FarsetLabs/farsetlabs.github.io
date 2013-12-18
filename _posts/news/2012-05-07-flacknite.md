@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /flacknite/
 categories:
-  - Events
+  - events
   - News
 tags:
   - attachment

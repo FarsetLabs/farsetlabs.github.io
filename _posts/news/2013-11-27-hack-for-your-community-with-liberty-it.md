@@ -4,7 +4,7 @@ author: David Kane
 layout: post
 permalink: /hack-for-your-community-with-liberty-it/
 categories:
-  - Events
+  - events
 tags:
   - corporate
   - Farset

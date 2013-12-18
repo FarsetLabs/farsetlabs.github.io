@@ -4,7 +4,7 @@ author: David Kane
 layout: post
 permalink: /retro-rejuvenation/
 categories:
-  - Events
+  - events
   - Uncategorized
 tags:
   - Commodore International

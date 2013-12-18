@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /planned-event-embedded-programming-fun-with-boards/
 categories:
-  - Events
+  - events
   - News
   - Uncategorized
 tags:

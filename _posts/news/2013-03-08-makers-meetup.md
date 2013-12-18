@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /makers-meetup/
 categories:
-  - Events
+  - events
 ---
 [<img class="alignright size-medium wp-image-1105" alt="Makers-Do-It-With-Tools_12347-l" src="http://i0.wp.com/farsetlabs.org.uk/blog/wp-content/uploads/2013/03/Makers-Do-It-With-Tools_12347-l-300x200.jpg?fit=300%2C200" data-recalc-dims="1" />][1]
 

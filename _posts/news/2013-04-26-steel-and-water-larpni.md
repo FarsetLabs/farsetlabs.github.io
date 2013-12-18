@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /steel-and-water-larpni/
 categories:
-  - Events
+  - events
 tags:
   - alternate history
   - Belfast

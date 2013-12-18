@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /flacknite-roundup/
 categories:
-  - Events
+  - events
 tags:
   - Auto
   - cctv

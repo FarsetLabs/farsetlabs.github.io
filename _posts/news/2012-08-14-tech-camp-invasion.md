@@ -10,7 +10,7 @@ networkpub_twitterhandle:
 networkpub_twitterhash:
   - 
 categories:
-  - Events
+  - events
 tags:
   - afternoon
   - Auto

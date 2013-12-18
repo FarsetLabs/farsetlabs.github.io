@@ -4,7 +4,7 @@ author: benbland
 layout: post
 permalink: /springup-launching-five-startups-in-28-hours/
 categories:
-  - Events
+  - events
   - News
   - Uncategorized
 tags:

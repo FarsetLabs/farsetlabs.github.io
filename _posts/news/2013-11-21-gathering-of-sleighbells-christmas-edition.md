@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /gathering-of-sleighbells-christmas-edition/
 categories:
-  - Events
+  - events
 tags:
   - BCS
   - Billy Goat Entertainment

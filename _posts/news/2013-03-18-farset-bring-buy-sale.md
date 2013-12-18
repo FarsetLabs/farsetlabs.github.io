@@ -4,7 +4,7 @@ author: Claire Wilgar
 layout: post
 permalink: /farset-bring-buy-sale/
 categories:
-  - Events
+  - events
 tags:
   - arts
   - bring and buy

@@ -10,7 +10,7 @@ networkpub_twitterhandle:
 networkpub_twitterhash:
   - opengov
 categories:
-  - Events
+  - events
   - News
 tags:
   - analysis

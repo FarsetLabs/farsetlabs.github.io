@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /farset-labs-plays-host-bbc-creative-collisions-clinic/
 categories:
-  - Events
+  - events
 tags:
   - Auto
   - BBC

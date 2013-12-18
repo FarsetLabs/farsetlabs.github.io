@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /coming-soon-bloc54-flacknite-electronics-3d-printer/
 categories:
-  - Events
+  - events
   - News
 tags:
   - 3D Printer

@@ -4,7 +4,7 @@ author: gbaman
 layout: post
 permalink: /raspberry-jam-is-back/
 categories:
-  - Events
+  - events
 tags:
   - Raspberry Jam
   - Raspberry Pi

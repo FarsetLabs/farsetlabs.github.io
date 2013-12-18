@@ -4,7 +4,7 @@ author: David Kane
 layout: post
 permalink: /december-town-hall/
 categories:
-  - Events
+  - events
 ---
 Our next Town Hall meeting is scheduled for Monday 2nd December at 7pm in the Event Space\* at Farset.
 

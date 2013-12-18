@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /liveblog-launch-day-lunacy/
 categories:
-  - Events
+  - events
   - Uncategorized
 tags:
   - beta

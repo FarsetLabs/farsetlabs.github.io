@@ -4,7 +4,7 @@ author: benbland
 layout: post
 permalink: /its-pi-approximation-day-anyone-want-to-launch-a-raspberry-pi-into-space-with-us/
 categories:
-  - Uncategorized
+  - projects
 tags:
   - Farset Labs
   - Flickr

@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /flacknite-the-story-so-far/
 categories:
-  - Events
+  - events
 tags:
   - Auto
   - Draft

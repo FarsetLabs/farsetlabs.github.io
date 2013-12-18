@@ -12,7 +12,7 @@ networkpub_twitterhash:
 networkpub_ogtype_facebook:
   - 
 categories:
-  - Events
+  - events
 tags:
   - Auto
   - BCS

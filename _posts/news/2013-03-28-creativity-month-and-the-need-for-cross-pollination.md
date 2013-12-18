@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /creativity-month-and-the-need-for-cross-pollination/
 categories:
-  - Events
+  - events
   - News
 tags:
   - art

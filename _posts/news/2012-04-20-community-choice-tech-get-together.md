@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /community-choice-tech-get-together/
 categories:
-  - Events
+  - events
   - Uncategorized
 tags:
   - alignright

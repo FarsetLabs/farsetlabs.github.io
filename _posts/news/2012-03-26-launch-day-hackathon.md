@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /launch-day-hackathon/
 categories:
-  - Events
+  - events
   - Uncategorized
 tags:
   - budget

@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /mad-march-town-hall/
 categories:
-  - Events
+  - events
   - News
 tags:
   - anonymous

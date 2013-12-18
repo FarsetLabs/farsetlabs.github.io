@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /back-to-dojo/
 categories:
-  - Events
+  - events
 tags:
   - coderdojo
   - Weavers Court CoderDojo

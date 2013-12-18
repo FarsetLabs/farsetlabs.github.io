@@ -4,7 +4,7 @@ author: Andrew Bolster
 layout: post
 permalink: /gathering-of-lightening/
 categories:
-  - Events
+  - events
 tags:
   - clouds
   - Community
