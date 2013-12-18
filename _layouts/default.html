@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="{{site.base}}/assets/css/main.css">
   </head>
   <body>
-    <div class="navbar navbar-inverse navbar-fixed-top" >
+    <div class="navbar navbar-default navbar-fixed-top" >
       <div class="navbar-inner">
         <div class="container">
           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -69,7 +69,7 @@
                 {% else %}
                 {{ item.content | strip_html | truncatewords:200 }} ...
                 {% endif %}
-                <a class="btn btn-danger" href="{{site.base}}{{item.url}}">Read More &rsaquo;&rsaquo;</a>
+                <a class="btn btn-default" href="{{site.base}}{{item.url}}">Read More &rsaquo;&rsaquo;</a>
               </div>
             </div>
             {%endfor%}

@@ -11,39 +11,6 @@ a {
     color: #99ca3c;
   }
 
-.navbar-inner {
-  min-height: 40px !important;
-  padding-right: 20px !important;
-  padding-left: 20px !important;
-  background-color: rgb(245, 245, 245) !important;
-  background-image: -moz-linear-gradient(top, rgb(245, 245, 245), #f2f2f2) !important;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgb(245, 245, 245)), to(#f2f2f2)) !important;
-  background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), #f2f2f2) !important;
-  background-image: -o-linear-gradient(top, rgb(245, 245, 245), #f2f2f2) !important;
-  background-image: linear-gradient(to bottom, rgb(245, 245, 245), #f2f2f2) !important;
-  background-repeat: repeat-x !important;
-  border: 1px solid #d4d4d4 !important;
-  -webkit-border-radius: 4px !important;
-     -moz-border-radius: 4px !important;
-          border-radius: 4px !important;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0) !important;
-  *zoom: 1 !important;
-  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065) !important;
-     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065) !important;
-          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065) !important;
-}
-
-.btn.danger {
-   background-color: #353895 !important;
-  *background-color: #353895 !important;
-  background-image: -moz-linear-gradient(top, #ffffff, #353895) !important;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#353895)) !important;
-  background-image: -webkit-linear-gradient(top, #ffffff, #353895) !important;
-  background-image: -o-linear-gradient(top, #ffffff, #353895) !important;
-  background-image: linear-gradient(to bottom, #ffffff, #353895) !important;
-  background-repeat: repeat-x !important;
-}
-
 .logo {
   color:#fff !important;
   font-family: "Verdana", "Helvetica", "Arial", sans-serif;
