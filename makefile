@@ -28,3 +28,11 @@ install: configure build
 serve:
 	@cd _site && python -m SimpleHTTPServer 4000
 
+.PHONY: assets
+assets:
+	@cat assets/iridium/css/normalize.css \
+		 assets/iridium/css/foundation.css \
+		 assets/iridium/css/iridium.css > iridium.concat.css
+	@./bin/yuicompressor iridium.concat.css > assets/iridium/css/iridium.min.css
+	@rm iridium.concat.css
+
