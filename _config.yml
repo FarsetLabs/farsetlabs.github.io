@@ -1,6 +1,6 @@
 name: Farset Labs
 pygments: true
-exclude: [README.md, _scripts, Gemfile, Gemfile.lock]
+exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
 plugins: ./_plugins
 base: ""
 paginate_path: "news/page:num"
