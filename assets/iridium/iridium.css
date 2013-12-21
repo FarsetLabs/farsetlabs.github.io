@@ -1,0 +1,122 @@
+
+html, body {
+    height: 100%;
+}
+#page-wrap {
+    background-color: #fff;
+    height: auto;
+    min-height: 100%;
+    margin-bottom: -40px;
+    padding-top: 20px;
+}
+
+#page-wrap:after {
+    content: "";
+    display: block;
+    height: 40px;
+}
+
+#header {
+    margin-bottom: 0.75em;
+}
+#page-content {
+    margin-top: 1.5em;
+    margin-bottom: 3em;
+}
+
+#footer {
+    position: relative;
+    height: 40px;
+    clear: both;
+}
+.attribution {
+    color: #efefef;
+    background-color: #3e3e3e;
+    padding: 12px 0 12px;
+}
+.attribution a, .attribution a:visited {
+    color: gold;
+}
+
+.row {
+    max-width: 780px;
+}
+
+h1.banner {
+    border-bottom: solid 0px #9e9e9e;
+    line-height: inherit;
+    margin-bottom: 0.55rem;
+}
+
+h1.banner a {
+    color: rgb(0, 140, 186);
+}
+
+ul.inline-icons {
+    margin-bottom: -0.2em;
+    padding-top: 0.8em;
+}
+
+ul.inline-icons i {
+    font-size: 1.6em;
+}
+
+.welcome {
+    margin-top: 0;
+    padding-top: 0.1em;
+    border: 0;
+}
+
+fieldset {
+    margin-top: 0.2em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+}
+
+ul li .block {
+    height: 350px;
+    min-height: 350px;
+}
+
+.top-bar-section ul li > a {
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.top-bar i {
+    font-size: 1.35em;
+    color: white;
+    padding-left: 8px;
+}
+
+dd {
+    padding-left: 14px;
+}
+
+ul.block-list {
+    list-style: none inside none;
+    margin-left: 0;
+}
+ul.posts li .date {
+    font-style: italic;
+    margin-right: 0.2em;
+}
+
+ul.posts li .title {
+    margin-left: 0.2em;
+}
+
+.user-content h1 {
+    font-size: 1.5em;
+}
+
+.user-content h2 {
+    font-size: 1.3em;
+    color: rgb(100, 10, 100);
+}
+.user-content h3, .user-content h4, .user-content h5, .user-content h6 {
+    font-size: 1.1em
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

@@ -1,112 +1,80 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en">
+<head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="{{site.keywords}}">
+    <meta name="description" content="{{site.description}}">
     <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width">
-
-    <!-- syntax highlighting CSS -->
-    <link rel="stylesheet" href="{{site.base}}/assets/css/syntax.css">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="{{site.base}}/assets/css/bootstrap.min.css">
-
-    <!-- Bootstrap Responsive CSS -->
-    <link rel="stylesheet" href="{{site.base}}/assets/css/bootstrap-responsive.min.css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{site.base}}/assets/css/main.css">
-  </head>
-  <body>
-  <a href="https://github.com/FarsetLabs/farsetlabs.github.io"><img style="z-index: 9999; position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
-    <div class="navbar navbar-default navbar-fixed-top" >
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-
-          <a class='brand logo' href="{{site.base}}/"><span class='logo-purple'>Farset</span><span class='logo-green'>Labs</span></a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-              <li><a href="{{site.base}}/">Home</a></li>
-              <li><a href="{{site.base}}/about">About</a></li>
-              <li><a href="{{site.base}}/events">Events</a></li>
-              <li><a href="http://farsetlabs.org.uk/blog/" target="_blank">Old Blog</a></li>
-              <li><a href="{{site.base}}/acknowledgements">Acknowledgements</a></li>
-              <li><a href="{{site.base}}/news">News</a></li>
-
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div> <!-- end nav -->
-    <!-- Set carousel: true in YAML text header for pages to get carousel -->
-    {% if page.carousel %}
-    <div id="builds-carousel" class='carousel slide'>
-      <div class='carousel-inner'>
-        <div class='item active'>
-          <div class="container ">
-            {% for item in site.tags.front limit: 1%}
-            <div class="row-fluid">
-              <div class="span4 text-center">
-                <center>
-                <a href="{{site.base}}{{item.url}}">
-                  {% if item.image_url %}
-                  <img src="{{site.base}}{{item.image_url}}" class="thumbnail carousel-img" />
-                  {% else %}
-                  <img src="{{site.base}}/assets/img/posts/default.jpg" class='thumbnail carousel-img'/>
-                  {% endif %}
-                </a>
-              </center>
-              </div>
-              <div class="span7  carousel-post">
-                <h2><a href="{{site.base}}{{item.url}}">{{item.title}}</a></h2>
-                {%  if item.content contains "<!-- more -->" %}
-                {{ item.content | split:"<!-- more -->" | first }}
-                {% else %}
-                {{ item.content | strip_html | truncatewords:200 }} ...
-                {% endif %}
-                <a class="btn btn-default" href="{{site.base}}{{item.url}}">Read More &rsaquo;&rsaquo;</a>
-              </div>
+    <link rel="shortcut icon" href="{{site.base}}/assets/favicon.ico">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/normalize.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/foundation.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/general_foundicons.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/accessibility_foundicons.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/social_foundicons.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/iridium/iridium.css">
+    <script src="{{site.base}}/assets/foundation/js/vendor/custom.modernizr.js"></script>
+</head>
+<body>
+    <div id="page-wrap">
+        <div id="banner-wrap">
+            <div class="row">
+                <div class="small-6 columns">
+                    <h1 class="banner"><a href="/"><span class="logo-first">Farset</span><span class="logo-second">Labs</span><small class="subheader"> BELFAST</small></a></h1>
+                </div>
+                <div class="small-6 columns">
+                    <ul class="inline-icons inline-list right">
+                        <li><a href="#"><i class="social foundicon-facebook"></i></a></li>
+                        <li><a href="#"><i class="social foundicon-twitter"></i></a></li>
+                        <li><a href="#"><i class="social foundicon-github"></i></a></li>
+                    </ul>
+                </div>
             </div>
-            {%endfor%}
-          </div>
         </div>
-      </div>
+        <div id="primary-nav">
+            <div class="row">
+                <div class="small-12 columns">
+                    <nav class="top-bar" data-topbar>
+                        <section class="top-bar-section">
+                            <ul class="left">
+                                <li><a href="{{site.base}}/">Home</a></li>
+                                <li><a href="{{site.base}}/news/">News</a></li>
+                                <li><a href="{{site.base}}/events/">Events</a></li>
+                                <li><a href="{{site.base}}/membership/">Membership</a></li>
+                                <li><a href="{{site.base}}/acknowledgements/">Acknowledgements</a></li>
+                                <li><a href="{{site.base}}/about/">About</a></li>
+                            </ul>
+                        </section>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        <section id="page-content" class="content">
+            <div class="row">
+                <div class="small-12 columns">
+                    {{content}}
+                </div>
+            </div>
+        </section>
     </div>
-    {% endif %}
-
-    <div class="container" style="background-color:white; margin-top:50px">
-      <div class="main row-fluid">
-        <div class="span8 main-content">
-          {{ content }}
-        </div> <!-- end content -->
-
-        {% include sidebar.html %}
-
-
-      </div> <!-- end main -->
-
-      <div class="footer row-fluid">
-        <div class="span4">Copyright  &copy; Farset Labs 2013</div>
-        <div class="span4">Report Issues or Contribute on <a href="https://github.com/FarsetLabs/farsetlabs.github.io">Github</a></div>
-        <div class="span4 text-right pull-right">Powered by <a href="http://getbootstrap.com/2.3.2/">Bootstrap 2.3.2</a> and <a href="http://jekyllrb.com">Jekyll</a></div>
-      </div> <!-- end footer -->
-    </div> <!-- end container -->
-    <script src="{{site.base}}/assets/js/jquery-1.10.2.min.js" ></script>
-    <script src="{{site.base}}/assets/js/bootstrap.js" ></script>
-    <script src="{{site.base}}/assets/js/bootstrap-carousel.js" ></script>
-
-    <script>
-      $(function(){
-        // carousel demo
-        $('#builds-carousel').carousel()
-      })
-    </script>
-    {% include google_analytics.html %}
-  </body>
+    <footer id="footer">
+        <section class="attribution">
+        <div class="row">
+            <div class="small-6 columns">
+                Copyright  &copy; Farset Labs 2013.
+            </div>
+            <div class="small-6 columns text-right">
+<a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://averagehuman.org">averagehuman</a>.
+            </div>
+        </div>
+        </section>
+    </footer>
+    <script src="{{site.base}}/assets/foundation/js/vendor/jquery.js"></script>
+    <script src="{{site.base}}/assets/foundation/js/foundation.js"></script>
+    <script src="{{site.base}}/assets/foundation/js/foundation.topbar.js"></script>
+    <script> $(document).foundation(); </script>
+</body>
 </html>
+

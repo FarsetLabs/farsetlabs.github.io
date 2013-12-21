@@ -3,48 +3,47 @@ layout: default
 title: Farset Labs - News
 ---
 
-<div id="news">
-	{% for post in paginator.posts %}
-	 <div class='row-fluid news-item'>
-	  <h1><a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></h1>
-	  <p class="author">
+<ul class="block-list news-items">
+{% for post in paginator.posts %}
+<li>
+    <section class="news-item">
+        <div class="news-item-content">
+            <h2 class="news-item-title"><a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></h2>
+        <h4 class="subheader">Posted by {%if post.author %}{{post.author}}{%else%}Farset Labs{%endif%} on <span class="date">{{post.date | date:"%-d %B %Y"}}</h4> 
+            <div class="news-item-body">
+                <div class="user-content">
+                    {%if post.image_url %}
+                        <img src="{{site.base}}{{post.image_url}}" class="news-item-thumb" />
+                    {%endif%}
+                    {%  if post.content contains "<!-- more -->" %}
+                    {{ post.content | split:"<!-- more -->" | first }}
+                    {% else %}
+                    {{ post.content | truncatewords:200 }} ...
+                    {% endif %}
+                </div>
+            </div>
+        </div>
 
-	    
-	    Posted by {%if post.author %} {{post.author}} {%else%} Farset Labs {%endif%} on <span class="date">{{ post.date | date: "%m/%d/%Y"}}</span> 
-	  </p>
-	  <div class="content">
-	  		{%if post.image_url %}
-	  		<center>
-		  		<img src="{{site.base}}{{post.image_url}}" class="thumbnail" style="width:auto;height:200px"/>
-		  	</center> <br />
-		  	{%endif%}
-            {%  if post.content contains "<!-- more -->" %}
-            {{ post.content | split:"<!-- more -->" | first }}
-            {% else %}
-            {{ post.content | strip_html | truncatewords:200 }} ...
-            {% endif %}
+        <p>
+        <a class="button" href="{{site.base}}{{post.url}}">Read More &rsaquo;&rsaquo;</a>
+        </p>
+    </section>
+</li>
+{% endfor %}
+</ul>
 
-            <br />
-            <center>
-	            <a class="btn btn-danger" href="{{site.base}}{{post.url}}">Read More &rsaquo;&rsaquo;</a>
-	        </center>
-	  </div>
-	 </div>
-	{% endfor %}
+<!-- Pagination links -->
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{site.base}}/news/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{site.base}}/news/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</nav> 
 
-	<!-- Pagination links -->
-	<div class="pagination">
-	  {% if paginator.previous_page %}
-	    <a href="{{site.base}}/news/page{{ paginator.previous_page }}" class="previous">Previous</a>
-	  {% else %}
-	    <span class="previous">Previous</span>
-	  {% endif %}
-	  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	  {% if paginator.next_page %}
-	    <a href="{{site.base}}/news/page{{ paginator.next_page }}" class="next">Next</a>
-	  {% else %}
-	    <span class="next ">Next</span>
-	  {% endif %}
-	</div> 
-
-</div>
