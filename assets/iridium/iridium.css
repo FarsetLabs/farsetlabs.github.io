@@ -7,7 +7,6 @@ html, body {
     height: auto;
     min-height: 100%;
     margin-bottom: -40px;
-    padding-top: 20px;
 }
 
 #page-wrap:after {
@@ -15,6 +14,24 @@ html, body {
     display: block;
     height: 40px;
 }
+
+#banner-wrap {
+    padding-top: 18px;
+}
+/*****************************************************************************/
+/* Add background to the top banner to give full width effect
+/*****************************************************************************/
+/*
+#banner-wrap {
+    padding-top: 40px;
+    background-color: #FAFAFA;
+    background-image: linear-gradient(to bottom, #FFFFFF, #F2F2F2);
+    background-repeat: repeat-x;
+}
+#primary-nav {
+    background-color: rgb(51, 51, 51);
+}
+*/
 
 #header {
     margin-bottom: 0.75em;
