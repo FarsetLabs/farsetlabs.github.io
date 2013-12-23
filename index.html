@@ -3,32 +3,51 @@ layout: default
 title: Farset Labs - Home
 carousel: false
 ---
-<div id="home">
-  <div class="row-fluid">
-    <h1> About Farset Labs </h1>
-    <p>	
-    Farset Labs is a hackerspace that provides a place for creativity and technological tinkering. We’re open to everyone, no matter what you want to do, and we welcome people from all walks of life to use our space, come to our events, and get involved at a low level to foster the maker community in Northern Ireland.
-    </p>
-    <a class="btn btn-default" href="{{site.base}}/about">Read more about us!</a>
-  </div>
-  <hr />
-  <div class="row-fluid">
-    <div class="span6 ">
-      <h1>Recent Stories</h1>
-      <ul class="posts">
-        {% for post in site.posts | first: 3 %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
+    <h5>
+<blockquote class="welcome">
+        Farset Labs is a place for creativity and technological tinkering. We’re open to everyone, no matter what you want to do, and we welcome people from all walks of life to use our space, come to <a href="{{site.base}}/events/">our events</a>, and get involved with the maker community in Northern Ireland.
+    <a href="{{site.base}}/about/">Read more about us!</a>
+</blockquote>
+    </h5>
 
-    <div class="span6">
-      <h1>Featured Projects</h1>
-      <ul class="posts">
-        {% for post in site.categories.projects | first: 3 %}
-        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.base}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-</div>
+<section class="latest-news">
+<fieldset>
+    <legend><h4>Latest News</h4></legend>
+<ul class="block-list posts">
+{% for post in site.posts limit: 10 %}
+    <li><a href="{{site.base}}{{ post.url }}"><span class="date">{{ post.date | date_to_string }}</span> &ndash; <span class="title">{{ post.title | truncate: 70 }}</span></a></li>
+{% endfor %}
+    <li class="text-right"><a href="{{site.base}}/news/">More News...</a></li>
+</ul>
+
+</fieldset>
+</section>
+
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2">
+    <li>
+        <fieldset class="block">
+            <legend><h4>Upcoming Events</h4></legend>
+    <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=200&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=farsetlabs.org.uk_srmqnkn373auq51u00s2nijrq8%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="318" height="240" frameborder="0" scrolling="no"></iframe>
+
+    <p class="text-right"><a href="{{site.base}}/events/">More Events...</a></p>
+        </fieldset>
+    </li>
+    <li>
+        <fieldset class="block">
+            <legend><h4>Contact Us</h4></legend>
+        <dl>
+            <dt>Email</dt>
+            <dd><a href="mailto:info@farsetlabs.org.uk">info@farsetlabs.org.uk</a></dd>
+            <dt>Address</dt>
+            <dd>
+            <address>
+              Farset Labs<br>
+              1 Weavers Court Business Park<br />
+              Linfield Road<br />
+              Belfast BT12 5GH<br />
+            </address>
+            </dd>
+        </dl>
+        </fieldset>
+    </li>
+</ul>
