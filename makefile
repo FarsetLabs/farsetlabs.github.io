@@ -36,3 +36,7 @@ assets:
 	@./bin/yuicompressor iridium.concat.css > assets/iridium/css/iridium.min.css
 	@rm iridium.concat.css
 
+.PHONY: deploy.s3
+deploy.s3:
+	@s3cmd sync --delete-removed ${CURDIR}/_site/ s3://farsetlabs.beta/
+
