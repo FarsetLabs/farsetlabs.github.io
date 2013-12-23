@@ -137,3 +137,15 @@ ul.posts li .title {
     text-transform: uppercase;
 }
 
+div.block {
+    margin-bottom: 12px;
+}
+
+div.block p {
+    color: rgb(101, 101, 101);
+}
+
+div.block .th-container {
+    padding-top: 10px;
+}
+
