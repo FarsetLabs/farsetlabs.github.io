@@ -106,6 +106,21 @@ ul.inline-icons {
 ul.inline-icons i {
     font-size: 1.6em;
 }
+i.social.foundicon-twitter {
+    color: rgb(0, 172, 238);
+}
+i.social.foundicon-facebook {
+    color: rgb(59, 89, 152);
+}
+i.social.foundicon-github {
+    font-size: 1.8em;
+    color: #222;
+}
+a.github-icon {
+    margin-top: -0.2em;
+}
+
+
 
 .welcome {
     margin-top: 0;
