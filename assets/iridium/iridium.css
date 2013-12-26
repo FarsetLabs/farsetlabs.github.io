@@ -75,13 +75,23 @@ img.logo {
     clear: both;
 }
 
+#footer .links {
+    background-color: #F5FAEC;
+    border-top: 1px solid #EBF4D8;
+    padding: 40px 0 35px;
+}
+#footer h6 {
+    text-transform: uppercase;
+    border-bottom: solid 1px #E0EFC4;
+}
+
 .attribution {
     color: #efefef;
-    background-color: #3e3e3e;
+    background-color: #252525;
     padding: 12px 0 12px;
 }
 .attribution a, .attribution a:visited {
-    color: gold;
+    color: #B8DA77;
 }
 
 .row {
