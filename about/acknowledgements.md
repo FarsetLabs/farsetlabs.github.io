@@ -1,9 +1,17 @@
 ---
 layout: default
-title: Farset Labs - Acknowledgements
+title: Acknowledgements
 parent: "About"
 ---
 
+<div id="sponsors">
+	<div class="row-fluid">
+		{% capture acknowledgements_text %}
+			{% include pages/acknowledgements.md %}
+		{% endcapture %}
+		{{ acknowledgements_text | unindent | markdownify }}
+    </div>
+</div>
 # Acknowledgements
 
 Farset Labs would like to thank our membership for making the world a more interesting place. 

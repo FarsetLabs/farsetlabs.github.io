@@ -51,9 +51,6 @@ html, body {
     background-color: #3e3e3e;
     padding: 12px 0 12px;
 }
-.attribution a, .attribution a:visited {
-    color: gold;
-}
 
 .row {
     max-width: 780px;

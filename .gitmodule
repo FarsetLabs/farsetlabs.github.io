@@ -1,0 +1,3 @@
+[submodule "assets/jekyll-table-of-contents"]
+  path = assets/jekyll-table-of-contents
+  url = https://github.com/ghiculescu/jekyll-table-of-contents.git

@@ -10,10 +10,13 @@
     <title>{{ page.title }}</title>
     <link rel="shortcut icon" href="{{site.base}}/assets/favicon.ico">
     <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/normalize.css">
-    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/foundation.css">
-    <link rel="stylesheet" href="{{site.base}}/assets/iridium/iridium.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/foundation.min.css">
     <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/general_foundicons.css">
     <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/social_foundicons.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/accessibility_foundicons.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/iridium/iridium.css">
+    <link rel="stylesheet" href="{{site.base}}/assets/css/fsl-style.css">
+    <script src="{{site.base}}/assets/foundation/js/vendor/jquery.js"></script>
     <script src="{{site.base}}/assets/foundation/js/vendor/custom.modernizr.js"></script>
 </head>
 <body>
@@ -21,13 +24,14 @@
         <div id="banner-wrap">
             <div class="row">
                 <div class="small-6 columns">
-                    <h1 class="banner"><a href="/"><span class="logo-first">Farset</span><span class="logo-second">Labs</span><small class="subheader"> BELFAST</small></a></h1>
+                    <h1 class="banner"><a href="/"><span class="fsl-purple">Farset</span><span class="fsl-green">Labs</span><small class="subheader"> BELFAST</small></a></h1>
                 </div>
                 <div class="small-6 columns">
                     <ul class="inline-icons inline-list right">
-                        <li><a href="#"><i class="social foundicon-github"></i></a></li>
-                        <li><a href="#"><i class="social foundicon-twitter"></i></a></li>
-                        <li><a href="#"><i class="social foundicon-facebook"></i></a></li>
+                      <li><a href="//github.com/{{site.social.github}}"><i class="social foundicon-github"></i></a></li>
+                      <li><a href="//twitter.com/{{site.social.twitter}}"><i class="social foundicon-twitter"></i></a></li>
+                      <li><a href="//facebook.com/{{site.social.facebook}}"><i class="social foundicon-facebook"></i></a></li>
+                      <li><a href="http://farsetlabs.org.uk/blog/feed/"><i class="social foundicon-rss"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -40,11 +44,49 @@
                         <section class="top-bar-section">
                             <ul class="left">
                                 <li><a href="{{site.base}}/">Home</a></li>
-                                <li><a href="{{site.base}}/news/">News</a></li>
-                                <li><a href="{{site.base}}/events/">Events</a></li>
-                                <li><a href="{{site.base}}/membership/">Membership</a></li>
-                                <li><a href="{{site.base}}/acknowledgements/">Acknowledgements</a></li>
-                                <li><a href="{{site.base}}/about/">About</a></li>
+                                {% for p in site.pages %}
+                                  {% for weight in (1..10) %}
+                                    {% if p.category == "nav" and p.weight == weight %}
+                                      {% if p.haschildren %}
+                                      <li class="has-dropdown">
+                                        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+                                            {{ p.title }}
+                                          </a>
+                                        <ul class="dropdown">
+                                          {% for child in site.pages %}
+                                            {% if child.parent == p.title %}
+                                              <li><a href={{child.url}}>{{child.title}}</a></li>
+                                            {% endif %}
+                                          {% endfor %}
+                                        </ul>
+                                      </li>
+                                      {% else %}
+                                      <li>
+                                        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+                                          {% if p.icon %}<i class="{{p.icon}}"></i>{% endif %}
+                                          {{ p.title }}
+                                        </a>
+                                      </li>
+                                      {% endif %}
+                                    {% endif %}
+                                  {% endfor %}
+                                {% endfor %}
+
+                                {% for link in site.links %}
+                                  {% if link.list %}
+                                  <li class="has-dropdown">
+                                    <a href="#">{{link.name}}</a>
+                                    <ul class="dropdown">
+                                      {% for item in link.list %}
+                                      <li><a href={{item.url}}>{{item.name}}</a></li>
+                                      {% endfor %}
+                                    </ul>
+                                  </li>
+                                    {% else %}
+                                    <li><a href={{link.url}}>{{link.name}}</a></li>
+                                  {% endif %}
+
+                                {% endfor %}
                             </ul>
                         </section>
                     </nav>
@@ -55,6 +97,14 @@
         <section id="page-content" class="content">
             <div class="row">
                 <div class="small-12 columns">
+                  {% if page.toc %}
+                  <dl class="accordion" data-accordion>
+                    <dd>
+                      <a href="#toc">Table of Contents</a>
+                      <div id="toc" class="content toc"></div>
+                    </dd>
+                  </dl>
+                  {% endif %}
                     {{content}}
                 </div>
             </div>
@@ -72,9 +122,9 @@
         </div>
         </section>
     </footer>
-    <script src="{{site.base}}/assets/foundation/js/vendor/jquery.js"></script>
     <script src="{{site.base}}/assets/foundation/js/foundation.js"></script>
     <script src="{{site.base}}/assets/foundation/js/foundation.topbar.js"></script>
+    <script src="{{site.base}}/assets/js/toc.js"></script>
     <script> $(document).foundation(); </script>
 </body>
 </html>

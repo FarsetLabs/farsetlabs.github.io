@@ -1,7 +1,30 @@
 name: Farset Labs
+description: "Northern Ireland's Hackerspace"
+tags: "hackerspace, makerspace, belfast, technology, maker movement"
 pygments: true
+markdown: maruku
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
 plugins: ./_plugins
 base: ""
 paginate_path: "news/page:num"
 paginate: 5
+social:
+  github: FarsetLabs
+  facebook: FarsetLabs
+  twitter: FarsetLabs
+links:
+  - name: Blog
+    url: "http://farsetlabs.org.uk/blog/"
+  - name: Social
+    url: ""
+    list:
+    - name: Facebook
+      url: "http://facebook.com/FarsetLabs"
+    - name: Twitter
+      url: "http://twitter.com/FarsetLabs"
+    - name: Forum
+      url: "http://discourse.farsetlabs.org.uk/"
+    - name: Flickr
+      url: "http://www.flickr.com/groups/farset_labs"
+    - name: Wiki
+      url: "http://wiki.farsetlabs.org.uk/"
