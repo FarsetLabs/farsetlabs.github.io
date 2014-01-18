@@ -11,15 +11,13 @@ toc: True
 
 # The Basics
 
-Farset Labs is a [hackerspace ](http://en.wikipedia.org/wiki/Hackerspace)that
+Farset Labs is a [hackerspace](http://en.wikipedia.org/wiki/Hackerspace) that
 provides a place for creativity and technological tinkering. We're open to
 everyone, no matter what you want to do, and we welcome people from all walks
 of life to use our space, come to our events, and get involved at a low level
 to foster the maker community in Northern Ireland.
 
-> For a low membership fee, students, hobbyists, and all members of the local
-community will be able to come together, hack at projects, build stuff and
-bring some life to Belfast!
+For a low membership fee, students, hobbyists, and all members of the local community will be able to come together, hack at projects, build stuff and bring some life to Belfast!
 
 Additionally, we've got communal manufacturing equipment, computing facilities
 and electronic resources to let you play and build to your heart's content. We
@@ -42,11 +40,7 @@ content/uploads/2012/01/2012-08-20-20.22.38.jpg)
 It's possible the level of
 freedom in the labs is occasionally misguided...
 
-> We simply provide a space and tools for people, and members are under no
-obligations or requirements at all. Members can come as little or as often as
-they like, 24 hours a day, and can use as many of the resources as they
-please. Farset doesn't ask for anything extra, and we certainly, certainly
-don't take any stake in your wildly-successful ideas!
+ We simply provide a space and tools for people, and members are under no obligations or requirements at all. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please. Farset doesn't ask for anything extra, and we certainly, certainly don't take any stake in your wildly-successful ideas!
 
 # The Space
 
@@ -65,10 +59,7 @@ The Event Space, Workshop, and Lounge
 can be booked for private events/meetings/projects, but are generally
 available on a 'fair use' basis.
 
-> Farset Labs is a welcome, free place to explore technology and it's effect
-on society, whether it be academic, comedic, artistic, or pedantic; It's a
-place where knowledge is freely shared and experience is gained not only
-through successes, but also in failures.
+Farset Labs is a welcome, free place to explore technology and it's effect on society, whether it be academic, comedic, artistic, or pedantic; It's a place where knowledge is freely shared and experience is gained not only through successes, but also in failures.
 
 [![](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01
 /gol_eoghan_wheelchair-300x200.png)](http://farsetlabs.org.uk/blog/wp-

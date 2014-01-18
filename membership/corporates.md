@@ -18,7 +18,7 @@ If you are interested in becoming a Corporate Member, please get in touch atsupp
 
 ## Intel <div style="float: right"><a href="http://aepona.intel.com/"><img src="http://farsetlabs.org.uk/blog/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
 
-Intel recently acquired Belfast based Anaeko, whose awarding-winning software
+Intel recently acquired Belfast based Aepona, whose awarding-winning software
 platform bridges the enterprise with the network, enabling Service Providers
 to offer communications, context, commerce and control features that enrich
 business applications using cloud-based APIs. This allows Service Providers to
