@@ -1,8 +1,8 @@
 ---
-title: Get Involved
+title: Pricing & Benefits
 layout: default
 category : pages
-parent : "About"
+parent : "Membership"
 toc : False
 tags : []
 ---
@@ -37,16 +37,4 @@ If you don't wish to use PayPal, or wish to pay for the discounted year-long mem
 
 [^cards]: All student members must hold current, valid, student ID's for the duration of their membership at that level
 
-# Corporate Benefits
-
-For companies that think what we're doing is great, we offer them a way to help us financially in return for a similar level of involvement as normal individual membership. Each corporate membership has the same voting power as a single individual, to keep things community-focused.
-
-*   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
-*   **Access to space** for all employees (under single identity)[^corp]
-*   **Community Presence** both online and within the space
-*   **One free evening event** slot per month
-*   **One free job/opportunity/project posting** per month
-*   Limited **Attendance to Member Only Events**[^corp]
-*   **Knowledge sharing** with local technical communities
-[^corp]: These corporate benefits are limited to two passes per event/day
 
