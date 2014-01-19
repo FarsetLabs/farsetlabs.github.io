@@ -42,20 +42,19 @@
                 <div class="small-12 columns">
                     <div class="contain-to-grid sticky">
                     <nav class="top-bar" data-topbar>
-                      <ul class="title-area">
-                        <li class="name">
-                          <h1><a href="{{site.base}}">Home</a></h1>
-                        </li>
-                        <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-                      </ul>                     
                         <section class="top-bar-section">
-                            <ul class="left">
-                                <li><a href="{{site.base}}/">Home</a></li>
+                            <ul class="title-area">
+                              <li class="name">
+                                <a href="{{site.base}}">Home</a>
+                              </li>
+                              <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+                            </ul>                     
+                            <ul class="right">
                                 {% for p in site.pages %}
                                   {% for weight in (1..10) %}
                                     {% if p.category == "nav" and p.weight == weight %}
                                       {% if p.haschildren %}
-                                      <li class="has-dropdown">
+                                      <li class="has-dropdown name">
                                         <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
                                             {{ p.title }}
                                           </a>
