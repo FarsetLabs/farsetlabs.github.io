@@ -1,23 +1,10 @@
 ---
-title: Rules
+title: Code Of Conduct
 layout: default
 category : pages
-parent : "About"
-toc : False
+toc : True
 tags : []
 ---
-
-# Dem Rules 
-
-Any community needs a few rules to stay safe and fun, and we don't like making more than we have to. 
-
-This document can be summarised in two statements:
-
-* Leave the space better than you found it
-
-* Treat others (and their stuff) as you expect you (and your stuff) to be treated.
-
-If this is somehow not clear or you believe you have found a loophole, please read on.
 
 # Summary of Code of Conduct 
 
@@ -26,43 +13,34 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 ### Access
 
  * Do not lend access cards or keys to anyone;
-
  * Do not try to access areas you are not allowed to.
 
 ### Projects &amp; Equipment
 
  * Do not take others’ equipment or materials without permission;
-
  * Do not use equipment:
     * Without training;
     * If it is unsafe to do so;
     * That others are currently using;
     * That is marked as out of order or not to be used.
  * Store your projects and materials safely and with care;
-
  * Do not bring or use banned or unsafe materials or equipment.
 
 ### Housekeeping
 
  * Tidy after yourself;
-
  * Power down and store equipment properly after use;
-
  * Keep the space clean, tidy, and pleasant;
-
  * Live and let live.
-
  * Park safely &amp; respect the tenants at Weavers’ Court
 
 ### Health &amp; Safety
 
  * Do not try to disable safety guards or preventative measures;
-
  * Be safe and reasonable in everything you do;
-
  * Report and repair any accidents or damage.
 
-# Code of Conduct (Full Text)
+# Code of Conduct
 
 Below is the full text of the Farset Labs Code of Conduct for Members, which all members agree to upon joining Farset Labs. It is available to all members in other formats (See Section 3.2.2) on request.
 
@@ -92,7 +70,16 @@ Farset Labs is not to be a pasture for red tape, and so this document should alw
 
 ### 1.5 Handling of Complaints and Breaches
 
-If members have a complaint about a fellow member or visitor about behaviour, wastefulness or abuse, they should raise it with other members or the Board of Directors. The complaint will then be investigated and appropriate action taken. Farset Labs aims to be lenient on what is permitted in the space, and therefore personal conflicts and grudges will not be considered in most cases. Complaints should only be made if the Code of Conduct is being breached, or if unlawful or illegal activity is evident.
+It is expected that for minor complaints or concerns that Members and Directors should be capable of settling differences of opinion directly, and it is expected that this direct resolution is the ‘normal operation’ of the space. 
+
+However, in the event that a more formalised approach is required, the procedure is:
+1. Issue an on-the-record complaint to one or all of the [directors](../about) (via either their individual Farset Labs email addresses or the [blanket address](mailto:admin@farsetlabs.org.uk))
+1. The Directors will, at their discretion, query if the matter has been discussed with the people involved directly.
+1. Issue raised at Directors’ meeting, via either Directors or NEMs.
+1. Issue investigated independently by Directors and/or NEMs
+1. After at most one weekly director meeting after the issue has been raised with the Directors (i.e. 2 weeks if falling on a monthly town hall), a response will be made by either all or one of the directors. The publicity and dissemination of this response is at the discretion of the responding director, and in the case of anonymous complaints, may not necessarily be shared beyond the joint Director / NEMs meetings.
+
+Such discussions should always be treated by both sides with respect, patience, and understanding.
 
 If you are in breach of the Code of Conduct, you may be asked to account for your actions or to reimburse Farset Labs for any damage caused to property or equity. These liabilities are outlined in the Members’ Charter which all members agree to when they join.
 
