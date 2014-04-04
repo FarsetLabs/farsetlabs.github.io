@@ -25,5 +25,6 @@ If this is somehow not clear or you believe you have found a loophole, please re
 * [Operations Manual](ops_manual.html)
 * [Child Protection Policy](child_protection.html)
 * [Equality Policy](equality.html)
+* [Hardware Donation License](hardware_donation_license.html)
 
 

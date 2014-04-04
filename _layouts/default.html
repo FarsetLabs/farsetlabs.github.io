@@ -2,7 +2,7 @@
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html class="no-js" lang="en">
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" http-equiv="encoding">
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="{{site.keywords}}">
@@ -18,6 +18,12 @@
     <link rel="stylesheet" href="{{site.base}}/assets/css/fsl-style.css">
     <script src="{{site.base}}/assets/foundation/js/vendor/jquery.js"></script>
     <script src="{{site.base}}/assets/foundation/js/vendor/custom.modernizr.js"></script>
+    {% if page.carousel %}
+    <!-- Flexslider Library  -->
+    <script src="/assets/js/jquery.flexslider-min.js"></script>
+    <!-- Initialisation Code  -->
+    <script src="/assets/js/slider.js"></script>
+    {% endif %}
 </head>
 <body>
     <div id="page-wrap">
@@ -102,6 +108,22 @@
             </div>
         </div>
         <section id="page-content" class="content">
+          {% if page.carousel %}
+          <div class="row">
+            <div class="flex-container">
+              <div class="flexslider">
+                <ul class="slides">
+                  {% for slides in page.carousel %}
+                  <li>
+                  <img src="{{ slides.image }}">
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+          {% endif %}
+
             <div class="row">
                 <div class="small-12 columns">
                   {% if page.toc %}
@@ -112,7 +134,7 @@
                     </dd>
                   </dl>
                   {% endif %}
-                    {{content}}
+                                       {{content}}
                 </div>
             </div>
         </section>
