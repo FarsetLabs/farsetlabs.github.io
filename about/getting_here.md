@@ -1,4 +1,3 @@
----
 layout: default
 title: Directions
 parent: "About"
@@ -7,28 +6,9 @@ parent: "About"
 # Directions & Getting Here
  
 **Farset Labs** is located in **Unit 1 Weavers Court Business Park, Belfast, BT12 5GH**, in the centre of Belfast in Northern Ireland. We are a five-minute walk from the **Great Victoria Street train and bus station** and a ten-minute drive from the **George Best Belfast City Airport**. 
-<style>
-.google-maps {
-position: relative;
-padding-bottom: 75%; // This is the aspect ratio
-height: 0;
-overflow: hidden;
-}
-.google-maps iframe {
-position: absolute;
-top: 0;
-left: 0;
-width: 100% !important;
-height: 100% !important;
-}
-</style>
-   
-<div class="google-maps">
+ 
+{% include gmap.html %}
 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9246.004902577382!2d-5.936897373694083!3d54.595162242550906!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486108f686ba0491%3A0xf206df9d70d81d76!2sFarset+Labs!5e0!3m2!1sen!2suk!4v1397162360704" width="400" height="300" frameborder="0" style="border:0"> </iframe>
-</div> 
-  
-  
 #Public Transport
  
  

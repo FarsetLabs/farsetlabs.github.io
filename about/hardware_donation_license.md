@@ -17,7 +17,7 @@ This license provides granularity to owners and allows them to pick a middle gro
 This license may be adopted by any hackerspace or equivalent community organisation that accepts donations or loans of equipment, parts or other items from members or outsiders. If a community agrees to adopt this license, all equipment donated to that community is assumed to be licensed under XHDL v1.0 or a later version.
 Any organisations adopting this license for their use should make it clear to donators where applicable that the license exists, and should explain how it works. It should also be provided in plain and full forms on request. In storage areas, a notice should be posted outlining that the community is operating under the XHDL v1.0 
 ### Assumptions
-Donated items are assumed to be licensed under the most liberal version of XHDL v1.0 unless otherwise made clear or agreed by the donator. This means that unrestricted donations to the community are not limited in use by any means except those set out in SECTION.
+Donated items are assumed to be licensed under the most liberal version of XHDL v1.0 unless otherwise made clear or agreed by the donator. This means that unrestricted donations to the community are not limited in use by any means except those limitations set out in this document.
 ### The Succession of common sense
 It is important that all equipment is treated with respect and that even if no restrictions are put on use by donators, community equipment should be used responsibly and wanton destruction and misuse must be avoided.
 ## Versions of this license
