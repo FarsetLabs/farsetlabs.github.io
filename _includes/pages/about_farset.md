@@ -9,9 +9,9 @@ The space is availiable to members 24/7 but if you would like to pop in, give us
 ### Want to be a Member?
 Membership comes in three levels, roughly related to how often you feel you will be using the space
 * £15/m for Students,
-* £25/m for Entheusiasts,
+* £25/m for Enthusiasts,
 * £35/m for Freelancers
 
-All levels include 24/7 access to the space, flexible hotdesking, project storage, and preferential attendence to all Farset Labs Events
+All levels include 24/7 access to the space and our [wide range of facilities](/about/facility.html), flexible hotdesking, project storage, and preferential attendence to all Farset Labs Events.
 
-[Join Up Instantantly via PayPal](http://farsetlabs.org.uk/blog/membership/)
+[Join Up Instantly via PayPal](http://farsetlabs.org.uk/blog/membership/)
