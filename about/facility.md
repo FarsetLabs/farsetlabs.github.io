@@ -7,6 +7,7 @@ toc: True
 # Facilities & Resources
 
 [![](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01/IMG_1768_1-682x1024.jpg)](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01/IMG_1768_1.jpg)
+
 The half-life of any project is around 14 days...
 
 # The Basics
