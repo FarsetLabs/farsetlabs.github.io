@@ -2,7 +2,7 @@ name: Farset Labs
 description: "Northern Ireland's Hackerspace"
 tags: "hackerspace, makerspace, belfast, technology, maker movement"
 pygments: true
-markdown: maruku
+markdown: kramdown
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
 plugins: ./_plugins
 base: ""
