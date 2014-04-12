@@ -13,4 +13,6 @@ Membership comes in three levels, roughly related to how often you feel you will
 * £25/m for Entheusiasts,
 * £35/m for Freelancers
 
-All levels include 24/7 access to the space, flexible hotdesking, and preferential attendence to all Farset Labs Events
+All levels include 24/7 access to the space, flexible hotdesking, project storage, and preferential attendence to all Farset Labs Events
+
+[Join Up Instantantly via PayPal](http://farsetlabs.org.uk/blog/membership/)
