@@ -14,7 +14,7 @@ Any community needs a few rules to stay safe and fun, and we don't like making m
 
 These can be summarised in two statements:
 
-* Leave the space better than you found it
+* Leave the space better than you found it.
 
 * Treat others (and their stuff) as you expect you (and your stuff) to be treated.
 
