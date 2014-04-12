@@ -116,7 +116,7 @@ _Members must not vandalise the space or its equipment, and must not deliberatel
 
 -----------
 
-**The following sections outline the detailed requirements and expectations of Farset Labs, its members and its visitors while on Farset Labs property or at events. **
+**The following sections outline the detailed requirements and expectations of Farset Labs, its members and its visitors while on Farset Labs property or at events.**
 
 ### 2.1 Rules for Use of Electrical, Mechanical &amp; Power Tools
 
