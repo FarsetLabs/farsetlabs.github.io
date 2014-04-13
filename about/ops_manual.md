@@ -53,6 +53,7 @@ Non-Executive Managers (NEMs) are the primary Points of Contact (PoC) for certai
 
 ## Collective Role
 NEMs represent a limited, non-executive, role in Farset Labs, with no special legal responsibilities or liabilities with respect to the Company. See below for specific responsibilities.
+
 ## Individual Role
 Their primary role is to act as PoCs within the fields delegated to them. They are not expected to perform every action encompassed by their fields but to be ‘person of responsibility’ for that area.
 
