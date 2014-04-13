@@ -91,6 +91,7 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * AV, Electrics, Lighting, Heating, General physical ‘stewardship’ of the coworking and communal areas.
 
 # Member Role
+
 ## Summary
 Members of the hackerspace are permitted access and use of the resources controlled by and shared within the space. This includes both equipment and resources directly owned and operated by Farset Labs the company, and equipment and resources donated by members (with per-donation terms attached to each item, primarily covered under the [Hardware Donation Licence](hardware_donation_license.html).
 
