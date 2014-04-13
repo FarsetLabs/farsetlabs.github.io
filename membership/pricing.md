@@ -26,7 +26,7 @@ We're funded mostly by the hackers, developers and inventors that use the space 
 There are three Individual Membership rates that we think represent three core uses of the space; 
 
 * Students (£15pm), that are occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^cards]
-* Entheusiasts (£25pm), that regularly use the space in the evenings and make regular use of the equipment and space, less strapped for cash
+* Enthusiasts (£25pm), that regularly use the space in the evenings and make regular use of the equipment and space, less strapped for cash
 * Freelancers (£35pm), that are consistently in the space, regularly hot-desking with ongoing long term projects under their belts
 
 We're currently moving to a new membership management system, but until then, [sign up here](http://farsetlabs.org.uk/blog/membership/) to join instantly!
