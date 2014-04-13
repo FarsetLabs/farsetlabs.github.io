@@ -15,7 +15,7 @@ that help the membership, and each has the same voting power as only one
 individual member. For their ongoing support and participation in our
 community, we thank them on this page.
 
-If you are interested in becoming a Corporate Member, please get in touch at supportus@farsetlabs.org.uk
+If you are interested in becoming a Corporate Member, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk)
 
 ## Intel 
 

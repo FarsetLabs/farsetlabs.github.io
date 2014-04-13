@@ -9,6 +9,7 @@ The space is availiable to members 24/7 but if you would like to pop in, give us
 
 ### Become a Member Today
 Membership comes in three levels, roughly related to how often you feel you will be using the space
+
 * £15/m for Students,
 * £25/m for Enthusiasts,
 * £35/m for Freelancers

@@ -9,7 +9,7 @@ The Eventspace and the Workshop can both be booked for private events, and the l
 
 If you'd like to book any of these spaces, first check the regular events calendar to make sure they're not in use. 
 
-Then contact booking@farsetlabs.org.uk to discuss dates and fees.
+Then contact [booking@farsetlabs.org.uk](mailto:booking@farsetlabs.org.uk) to discuss dates and fees.
 
 # Want to start something?
 
@@ -19,4 +19,4 @@ User groups have a free block-booking of Wednesday evenings, allowing any group 
 ## "Have you guys thought about running....?"
 If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch with admin@farsetlabs.org.uk to chat about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
 
-If you're a member and you want to run something, just start discussing it on [Discourse](http://discourse.farsetlabs.org.uk), get a plan together, and talk to admin@farsetlabs.org.uk (or any of the [directors]() directly to book it into the open calendar. 
+If you're a member and you want to run something, just start discussing it on [Discourse](http://discourse.farsetlabs.org.uk), get a plan together, and talk to [admin@farsetlabs.org.uk](mailto:admin@farsetlabs.org.uk) (or any of the [directors]() directly to book it into the open calendar. 

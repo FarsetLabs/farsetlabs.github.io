@@ -52,5 +52,6 @@ Any inquiries in regards to press should be sent to admin@farsetlabs.org.uk, whe
   * 17/1/14: [Intel Joins Farset Labs to Collaborate with the Local Technology Community](http://newsroom.intel.com/community/en_ie/blog/2014/01/17/intel-joins-farset-labs-to-collaborate-with-the-local-technology-community)- Intel Newsroom
 
 # Press Packs
+
 ##2014
-* [January](/assets/docs/14-jan-presspack.zip) - Global Game Jam and Intel Corporate Membership
+  * [January](/assets/docs/14-jan-presspack.zip) - Global Game Jam and Intel Corporate Membership
