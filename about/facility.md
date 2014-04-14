@@ -4,9 +4,14 @@ title: Facilities
 parent: "About"
 toc: True
 ---
+<style>
+.three-hundred-width {  text-align: center; width: 300px;}
+.six-hundred-width {  text-align: center; width: 600px;}
+</style>
 # Facilities & Resources
 
-[![](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01/IMG_1768_1-682x1024.jpg)](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01/IMG_1768_1.jpg)
+{:.six-hundred-width}
+![](/about/fac-top.jpg)
 
 The half-life of any project is around 14 days...
 
