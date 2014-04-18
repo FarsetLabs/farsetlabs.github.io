@@ -1,12 +1,10 @@
 ---
-title: Pricing & Benefits
 layout: default
-category : pages
-parent : "Membership"
-toc : False
-tags : []
+title: Membership
+category: nav
+weight: 6
+haschildren: True
 ---
-
 # Individual Benefits
 
 We're funded mostly by the hackers, developers and inventors that use the space every day for their ideas and projects. Every member has a say in what goes on and has voting powers in decisions made at Town Hall meetings. They also get unlimited access to all of our equipment and events, as well as the affiliation with great like-minded people.
@@ -16,7 +14,7 @@ We're funded mostly by the hackers, developers and inventors that use the space 
 *   **Communal** **electronics equipment**, tools, and components
 *   **Kitted-out workshop** with a growing selection of hand tools &amp; machines
 *   **3D prototyping facilities**
-*   **Free entry** to _all_ Farset Labs events
+*   **Free entry** to _all_ Farset Labs events[^events]
 *   **Free workshops** on all sorts of topics, from soldering to accounting
 *   **Networking opportunities** with the best and brightest in Belfast
 *   **Belonging** to an intelligent and creative community
@@ -33,8 +31,8 @@ We're currently moving to a new membership management system, but until then, [s
 
 **All Membership Dues go towards the core operation of the space; events and projects are normally funded by additional donations / sponsorships**
  
-If you don't wish to use PayPal, or wish to pay for the discounted year-long memberships, contact us on [membership@farsetlabs.org.uk](mailto:membership@farsetlabs.org.uk) to discuss alternative payment systems
+ If you don't wish to use PayPal, or wish to pay for the discounted year-long memberships, contact us on [membership@farsetlabs.org.uk](mailto:membership@farsetlabs.org.uk) to discuss alternative payment systems
 
-[^cards]: All student members must hold current, valid, student ID's for the duration of their membership at that level
-
+ [^cards]: All student members must hold current, valid, student ID's for the duration of their membership at that level
+ [^events]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate
 
