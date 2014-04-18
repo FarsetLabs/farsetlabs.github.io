@@ -57,8 +57,9 @@
                               <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
                             </ul>                     
                             <ul class="right">
-                                {% for p in site.pages | sort:"title" %}
-                                  {% for weight in (1..10) %}
+                              {% assign sorted_pages = site.pages | sort:"name" %}
+                                {% for weight in (1..10) %}
+                                  {% for p in sorted_pages %}
                                     {% if p.category == "nav" and p.weight == weight %}
                                       {% if p.haschildren %}
                                       <li class="has-dropdown name">
@@ -66,7 +67,7 @@
                                             {{ p.title }}
                                           </a>
                                         <ul class="dropdown">
-                                          {% for child in site.pages | sort:"title" %}
+                                          {% for child in sorted_pages | sort:"name" %}
                                             {% if child.parent == p.title %}
                                               <li><a href={{child.url}}>{{child.title}}</a></li>
                                             {% endif %}
