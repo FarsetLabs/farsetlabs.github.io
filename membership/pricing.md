@@ -29,7 +29,7 @@ There are three Individual Membership rates that we think represent three core u
 * **Enthusiasts** (£25pm), that regularly use the space in the evenings and make regular use of the equipment and space, less strapped for cash
 * **Freelancers** (£35pm), that are consistently in the space, regularly hot-desking with ongoing long term projects under their belts
 
-We're currently moving to a new membership management system, but until then, [sign up here](http://farsetlabs.org.uk/blog/membership/) to join instantly!
+We're currently moving to a new membership management system, but until then, [sign up here](http://blog.farsetlabs.org.uk/membership/) to join instantly!
 
 **All Membership Dues go towards the core operation of the space; events and projects are normally funded by additional donations / sponsorships**
  
