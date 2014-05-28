@@ -73,10 +73,15 @@ Farset Labs is not to be a pasture for red tape, and so this document should alw
 It is expected that for minor complaints or concerns that Members and Directors should be capable of settling differences of opinion directly, and it is expected that this direct resolution is the ‘normal operation’ of the space. 
 
 However, in the event that a more formalised approach is required, the procedure is:
+
 1. Issue an on-the-record complaint to one or all of the [directors](../about) (via either their individual Farset Labs email addresses or the [blanket address](mailto:admin@farsetlabs.org.uk))
+
 1. The Directors will, at their discretion, query if the matter has been discussed with the people involved directly.
+
 1. Issue raised at Directors’ meeting, via either Directors or NEMs.
+
 1. Issue investigated independently by Directors and/or NEMs
+
 1. After at most one weekly director meeting after the issue has been raised with the Directors (i.e. 2 weeks if falling on a monthly town hall), a response will be made by either all or one of the directors. The publicity and dissemination of this response is at the discretion of the responding director, and in the case of anonymous complaints, may not necessarily be shared beyond the joint Director / NEMs meetings.
 
 Such discussions should always be treated by both sides with respect, patience, and understanding.
