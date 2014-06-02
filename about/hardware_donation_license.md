@@ -10,6 +10,8 @@ tags : []
 
 The Extendible Hardware Donation License is an open and flexible license which is applicable by members of hackerspaces and similar organisations to equipment or items they wish to donate or lend to the community. It allows owners to specify to what degree their donated or loaned equipment may be used by the community at large, and what restrictions they wish to implement on use.
 
+Feel free to skip to the bottom for how you can actually *use* the HDL, but here's some legalese background if you are that way inclined.
+
 ## Guide to words and terms
 
 In this document, the Hardware Donation License v1.0 is referred to as “this license”, “this agreement”, “XHDL” and “XHDL v1.0”.
