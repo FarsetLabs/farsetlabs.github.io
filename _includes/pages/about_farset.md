@@ -16,4 +16,4 @@ Membership comes in three levels, roughly related to how often you feel you will
 
 All levels include 24/7 access to the space and our [wide range of facilities](/about/facility.html), flexible hotdesking, project storage, and preferential attendence to all Farset Labs Events. Join the community.
 
-[Join Up Instantly via PayPal](http://farsetlabs.org.uk/blog/membership/)
+[Join Up Instantly via PayPal](http://blog.farsetlabs.org.uk/membership/)

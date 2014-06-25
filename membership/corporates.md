@@ -19,7 +19,7 @@ If you are interested in becoming a Corporate Member, please get in touch at [su
 
 ## Intel 
 
-<div style="float: right"><a href="http://aepona.intel.com/"><img src="http://farsetlabs.org.uk/blog/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
+<div style="float: right"><a href="http://aepona.intel.com/"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
 
 Intel recently acquired Belfast based Aepona, whose awarding-winning software
 platform bridges the enterprise with the network, enabling Service Providers
@@ -43,7 +43,7 @@ internet marketplace.
 
 ## Evorack 
 
-<div style="float: right"><a href="http://www.evorack.com"><img src="http://farsetlabs.org.uk/blog/wp-content/uploads/2012/04/evorack-logo.png"/></a></div>
+<div style="float: right"><a href="http://www.evorack.com"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/evorack-logo.png"/></a></div>
 
 [Evorack.com](http://www.evorack.com) provides Linux and Windows virtual
 server hosting solutions based on the [Xen
@@ -53,7 +53,7 @@ datacentre locations and gigabit connectivity, to name but a few.
 
 ## Weavers Court Business Park 
 
-<div style="float: right"><a href="http://www.weaverscourt.com"><img src="http://farsetlabs.org.uk/blog/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
+<div style="float: right"><a href="http://www.weaverscourt.com"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
 
 Special thanks have to go to [Weavers Court Business
 Park](http://www.weaverscourt.com/); without the confidence and tireless

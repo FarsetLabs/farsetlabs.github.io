@@ -41,8 +41,8 @@ Typical projects and events for all skill levels include:
   * Local user & interest groups.
   * _**anything and everything you want to do!**_
 
-[![](http://farsetlabs.org.uk/blog/wp-content/uploads/2012/01/2012
--08-20-20.22.38-300x225.jpg)](http://farsetlabs.org.uk/blog/wp-
+[![](http://blog.farsetlabs.org.uk/wp-content/uploads/2012/01/2012
+-08-20-20.22.38-300x225.jpg)](http://blog.farsetlabs.org.uk/wp-
 content/uploads/2012/01/2012-08-20-20.22.38.jpg)
 
 We provide space, tools and community. Members are under no obligations or requirements at all. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please. Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a code of conduct to avoid injury, upset... and fires.
