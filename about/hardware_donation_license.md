@@ -10,6 +10,8 @@ tags : []
 
 The Extendible Hardware Donation License is an open and flexible license which is applicable by members of hackerspaces and similar organisations to equipment or items they wish to donate or lend to the community. It allows owners to specify to what degree their donated or loaned equipment may be used by the community at large, and what restrictions they wish to implement on use.
 
+Feel free to skip to the bottom for how you can actually *use* the HDL, but here's some legalese background if you are that way inclined.
+
 ## Guide to words and terms
 
 In this document, the Hardware Donation License v1.0 is referred to as “this license”, “this agreement”, “XHDL” and “XHDL v1.0”.
@@ -74,4 +76,50 @@ Any Restrictions adopted by the community outside the core set provided by this 
 
 By default, it is assumed that the individual(s) who violate the Restrictions are responsible for their actions.
   
+# Exemplar of Restrictions on Use
 
+These are not exclusive; feel free to make up your own when [donating equipment](donations.html), but all non-standard licence clauses must be confirmed by officers of the adopting community via email before completion of donations.
+
+## Give Back (GB) clause
+
+The GB clause states that it is expected that donated equipment be returned to the donor on request given a notice period, no questions asked. 
+
+Notice periods are not governed or restricted, but most often, these are 30-day terms. Best efforts will be made to return equipment before that term.
+
+These terms are added to the licence in number of days suffixing the 'GB', eg, 'GB30'. If no term is given, GB30 is assumed.
+
+The Adopting community is not responsible for the removal or delivery of a donated item back to it's doner.
+
+## Do Not Disassemble/Destroy (DND) clause
+
+The DND clause states that donated equipment / consumables cannot be taken apart, used for spare parts, exploded, or blasted into the sun. 
+
+This does not in any way exclude or reduce the possibility of accidental damage through reasonable use.
+
+## Do Not Remove (DNR) clause
+
+The DNR clause states that equipment may not be removed from the adopting community's facilities for any reason.
+
+## Advance Training Required (ATR) clause
+
+The ATR clause states that prior to the use of the donated equipment, any potential user must be trained in its operation. 
+
+The ATR clause must be associated with at least two current members of the adopting community who the donor deems compotent to conduct training.
+
+This association must take the form of either and email address or a twitter username for the associated trainers.
+
+The Adopting Community takes no responsibility for the provision of training for any equipment donated under this clause.
+
+## Do What Thou Wilt (DWTW) clause
+
+The DWTW clause removes all claim, agency, and responsibility from the donor. _This is incompatible with all other clauses except ATR._
+
+# Example Licenses
+
+* _"GB30 DNR ATR(@janebloggs/@tommyatkins)"_ - Equipment must be given back within at most 30 days from request, must not be removed from the facility, and requires additional training before use that can be given by Jane Bloggs or Tommy Atkins.
+
+* _"GB60 DND"_ - Must be given back within at most 60 days from request and must not be intentionally disassembled or destroyed
+
+# Ultimate TLDR
+
+* If 'lending' equipment to the space you want back, write your name/contact details along with "GB DND"
