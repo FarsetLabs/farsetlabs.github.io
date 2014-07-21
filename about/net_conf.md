@@ -3,6 +3,7 @@ title: Network Configuration
 layout: default
 ---
 # Network Configuration
+
 ## DNS Record Sets
 
 Farset's DNS records are controlled via Amazon Route 53 and any changes must be authenticated by the Directors.
