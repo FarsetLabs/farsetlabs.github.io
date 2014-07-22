@@ -32,7 +32,7 @@ If this is somehow not clear or you believe you have found a loophole, please re
 
 Farset Labs will reimburse a member or appointed person for company related travel expenditures within the limits set below when appropriate approval has been given.
 
-Approval should be obtained prior to travel otherwise expenses are incurred at the traveler’s risk. Member travel expenses require the approval of a single active Director by either written or emailed approval. Director travel expenses require the approval of a Director other than the requester by either written or emailed approval.
+Approval should be obtained prior to travel otherwise expenses are incurred at the travelers risk. Member travel expenses require the approval of a single active Director by either written or emailed approval. Director travel expenses require the approval of a Director other than the requester by either written or emailed approval.
 
 It is the responsibility of those approving and handing out reimbursements to ensure that
 
@@ -46,4 +46,4 @@ It is the responsibility of those approving and handing out reimbursements to en
 |-------------------  |-------------------------  |
 | Public Transport    | Lowest cost up to £30     |
 | Private Car         | Up to £30 @ £0.35 / mile  |
-| Taxis               | up to £20 @ £2.50 / mile  |
+| Taxis               | Up to £20 @ £2.50 / mile  |
