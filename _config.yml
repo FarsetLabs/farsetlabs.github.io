@@ -10,6 +10,7 @@ gems:
   - jekyll-sitemap
 paginate_path: "news/page:num"
 paginate: 5
+url: "http://www.farsetlabs.org.uk"
 social:
   github: FarsetLabs
   facebook: FarsetLabs
