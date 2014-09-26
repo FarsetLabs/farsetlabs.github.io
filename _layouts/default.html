@@ -167,7 +167,10 @@
         <section class="attribution">
         <div class="row">
             <div class="small-6 columns">
-                Copyright  &copy; Farset Labs 2014.
+              {% capture footer %}
+                {% include pages/footer.md %}
+              {% endcapture %}
+              {{ footer | unindent | markdownify }}
             </div>
             <div class="small-6 columns text-right">
 <a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://averagehuman.org">averagehuman</a>.
