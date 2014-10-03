@@ -33,3 +33,59 @@ links:
       url: "http://www.flickr.com/groups/farset_labs"
     - name: Wiki
       url: "http://wiki.farsetlabs.org.uk/"
+officers:
+  - name: Andrew Bolster
+    username: bolster
+    year: 2011
+    title: "Director/Founder"
+    blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](http://andrewbolster.info)"
+    email: "bolster@farsetlabs.org.uk"
+
+  - name: David Kane
+    username: kane
+    year: 2011
+    title: "Director/Founder"
+    blurb: "Physics student, photographer, electrical engineer and embedded developer, [among other things](http://www.davidkanecreative.co.uk/about.html)"
+    email: "david@farsetlabs.org.uk"
+
+  - name: Dylan Wylie
+    username: wylie
+    year: 2013
+    title: "Director"
+    blurb: "Co-founder of rapidly growing health consultancy startup,  [We Slim Together](http://www.weslimtogether.co.uk), physicist, developer & technologist."
+    email: "wylie@farsetlabs.org.uk"
+
+  - name: Ben Bland
+    username: bland
+    year: 2013
+    title: "Director"
+    blurb: "Digital strategist (purveyor of fine bullshit). 10 years’ web marcomms & business. Loves science, technology, ecology & travel. Writer, filmmaker, photographer"
+    email: "ben@farsetlabs.org.uk"
+
+  - name: Conor Robinson
+    username: robinson
+    year: 2014
+    title: "Director"
+    blurb: "Electrical and Electronic Engineer, Amateur Radio Course Tutor, Red Cross First Aider. Fixes stuff that's broken"
+    email: "conor@farsetlabs.org.uk"
+
+  - name: Daniel Porter
+    username: porter
+    year: 2014
+    title: "Digital Infrastructure NEM"
+
+  - name: Glenn Davidson
+    username: davidson
+    year: 2014
+    title: "Events NEM"
+
+  - name: Rachel Gregg
+    username: gregg
+    year: 2014
+    title: "Community NEM"
+
+  - name: Claire Wilgar
+    username: wilgar
+    year: 2014
+    title: "Projects NEM"
+
