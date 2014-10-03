@@ -5,8 +5,6 @@ parent: "Membership"
 category: pages
 ---
 
-
-# Corporate Members
 While the majority of Farset Labs is maintained by the community, we are also
 supported by local companies and bodies that recognise the transformational
 effect that our resources, projects and initiatives can have on the local
@@ -15,7 +13,23 @@ that help the membership, and each has the same voting power as only one
 individual member. For their ongoing support and participation in our
 community, we thank them on this page.
 
+
+# Membership Impacts
+
+For companies that think what we're doing is great, we offer them a way to help us financially in return for a similar level of involvement as normal individual membership. Each corporate membership has the same voting power as a single individual, to keep things community-focused.
+
+*   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
+*   **Access to space** for all employees (under single identity)[^corp]
+*   **Community Presence** both online and within the space
+*   **One free evening event** slot per month
+*   **One free job/opportunity/project posting** per month
+*   Limited **Attendance to Member Only Events**[^corp]
+*   **Knowledge sharing** with local technical communities
+
 If you are interested in becoming a Corporate Member, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk)
+
+
+# Corporate Members
 
 ## Intel 
 
@@ -59,18 +73,6 @@ Special thanks have to go to [Weavers Court Business
 Park](http://www.weaverscourt.com/); without the confidence and tireless
 support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset
 Labs simply couldn't be.
-
-# Membership Benefits
-
-For companies that think what we're doing is great, we offer them a way to help us financially in return for a similar level of involvement as normal individual membership. Each corporate membership has the same voting power as a single individual, to keep things community-focused.
-
-*   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
-*   **Access to space** for all employees (under single identity)[^corp]
-*   **Community Presence** both online and within the space
-*   **One free evening event** slot per month
-*   **One free job/opportunity/project posting** per month
-*   Limited **Attendance to Member Only Events**[^corp]
-*   **Knowledge sharing** with local technical communities
 
 [^corp]: These corporate benefits are limited to two passes per event/day
 

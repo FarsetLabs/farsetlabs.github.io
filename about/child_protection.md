@@ -25,10 +25,15 @@ Exceptions may be made in the case of student placement or for specific projects
 # What to know about events at Farset Labs involving Children
  
 In order to safeguard children during mixed-group FSL events:-
+
 * At least two agents remain in the event area at all times
+
 * No unidentified individuals will be permitted in the event area 
+
 * All Under 14’s are accompanied by their parent or guardian or a named agent operating in loco parentis
+
 * No Under-18’s are permitted in the building after 8pm unless accompanied by a parent or guardian
+
 * Unless you are AccessNI cleared, you may not engage in any Regulated Activity in relation to children, defined in the Safeguarding Vulnerable Groups (SVG) Act 2006 and the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007, both as amended (in particular by respectively, section 64 and Schedule 7, Protection of Freedoms Act 2012). This is taken to be as per the latest version of [this DHSSPSNI note on the matter](http://www.dhsspsni.gov.uk/regulated-activity-children.pdf).
 
 #Handling Disclosures
