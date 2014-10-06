@@ -14,6 +14,15 @@ a:hover{
   color:#6467c8;
 }
 
+.button {
+  background-color:#353895;
+}
+.button:hover{
+  background-color:#6467c8;
+}
+
+
+
 .attribution a{
   color:#99ca3c;
 }
