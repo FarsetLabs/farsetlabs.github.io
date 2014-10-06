@@ -13,43 +13,76 @@ haschildren: True
 		{{ about_farset | unindent | markdownify }}
 	<hr/>
 <h2>Current Officers</h2>
+
+<h3 id="directors">Directors</h3>
+<p>Farsets Directors are legally, fiscally, and socially responsible for the strategic health and operation of the Labs</p>
+<p>They are collectively, ultimately responsible for the growth and health of the organisation and it’s community, but are primarily concerned with the financial, legal and strategic running of the organisation.<p>
 {% assign sorted_officers = site.officers | sort:"year" %}
   {% for officer in sorted_officers reversed %}
     {% if officer.title contains "Director" %}
     <div class="block row">
         <div class="small-3 columns th-container">
           <img class="th" src="{{site.base}}/assets/img/profiles/{{officer.username}}.jpg" class="headline-image" />
+          <ul class="inline-icons inline-list right">
+            {% if officer.github %}<li><a href="//www.github.com/{{officer.github}}"><small><i class="social foundicon-github"></i></small></a>{% endif %}
+            {% if officer.twitter %}<li><a href="//www.twitter.com/{{officer.twitter}}"><small><i class="social foundicon-twitter"></i></small></a></li> {% endif %}
+            {% if officer.facebook %}<li><a href="//www.facebook.com/{{officer.facebook}}"><small><i class="social foundicon-facebook"></i></small></a></li>{% endif %}
+            {% if officer.flickr %}<li><a href="//www.flickr.com/{{officer.flickr}}"><small><i class="social foundicon-flickr"></i></small></a></li>{% endif %}
+        {% if officer.website %}<li><a href={{officer.website}}><small><i class="general foundicon-website"></i></small></a></li>{% endif %}
+      {% if officer.linkedin %}<li><a href="//www.linkedin.com/in/{{officer.linkedin}}"><small><i class="social foundicon-linkedin"></i></small></a></li>{% endif %}
+          </ul>
+
         </div>
         <div class="small-9 columns">
             <h4>{{officer.name}}</h4>
             <h5 class="subheader">{{officer.title}} ({{officer.year}})</h5>
             {{ officer.blurb | unindent | markdownify }}
-            <a class="button right round" href="mailto:{{officer.email}}">{{officer.email}}</a>
+            <ul class="small button-group round right">
+              {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
+              {% if officer.discourse %}<li><a class="small button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
+            </ul>
         </div>
     </div>
     {% endif %}
 {% endfor %}
 <hr/>
+<h3 id="nems">Non Executive Managers</h3>
+<p>Non-Executive Managers (NEMs) are the primary Points of Contact (PoC) for certain areas, equipment, and activities within the day-to-day operation of the space.</p>
+<p>NEMs represent a limited, non-executive, role in Farset Labs, with no special legal responsibilities or liabilities with respect to the Company.</p>
 {% assign sorted_officers = site.officers | sort:"year" %}
   {% for officer in sorted_officers %}
     {% unless officer.title contains "Director" %}
     <div class="block row">
-        <div class="small-3 columns th-container">
-          <img class="th" src="{{site.base}}/assets/img/profiles/{{officer.username}}.jpg" class="headline-image" />
-        </div>
+      <div class="small-3 columns th-container">
+        <img class="th" src="{{site.base}}/assets/img/profiles/{{officer.username}}.jpg" class="headline-image" />
+        <ul class="inline-icons inline-list right">
+          {% if officer.github %}<li><a href="//www.github.com/{{officer.github}}"><small><i class="social foundicon-github"></i></small></a>{% endif %}
+          {% if officer.twitter %}<li><a href="//www.twitter.com/{{officer.twitter}}"><small><i class="social foundicon-twitter"></i></small></a></li> {% endif %}
+          {% if officer.facebook %}<li><a href="//www.facebook.com/{{officer.facebook}}"><small><i class="social foundicon-facebook"></i></small></a></li>{% endif %}
+          {% if officer.flickr %}<li><a href="//www.flickr.com/{{officer.flickr}}"><small><i class="social foundicon-flickr"></i></small></a></li>{% endif %}
+          {% if officer.website %}<li><a href={{officer.website}}><small><i class="general foundicon-website"></i></small></a></li>{% endif %}
+          {% if officer.linkedin %}<li><a href="//www.linkedin.com/in/{{officer.linkedin}}"><small><i class="social foundicon-linkedin"></i></small></a></li>{% endif %}
+        </ul>
+
+      </div>
         <div class="small-9 columns">
             <h4>{{officer.name}}</h4>
             <h5 class="subheader">{{officer.title}} ({{officer.year}})</h5>
             {% if officer.blurb %}
               {{ officer.blurb | unindent | markdownify }}
             {% endif %}
-            {% if officer.email %}
-              <a class="button right round" href="mailto:{{officer.email}}">{{officer.email}}</a>
-            {% endif %}
+            <ul class="button-group round right">
+              {% if officer.email %}<li><a class="button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
+              {% if officer.discourse %}<li><a class="button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
+            </ul>
+            
         </div>
     </div>
     {% endunless %}
 {% endfor %}
+
+For more information about the roles and responsibilities of the officers of Farset Labs, see the <a href="/about/ops_manual.html">Ops Manual</a>
+
 
 <h2>Farset Labs Former Officers</h2>
 <div class="block row">

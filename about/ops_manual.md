@@ -8,9 +8,13 @@ tags : []
 # {{ page.title }}
 Within the community of Farset Labs, there are four organisational roles. The relationship between these roles forms the core functionality of the hackerspace as a continuing entity.
 These roles are:
+
 * Farset Labs, the Limited Company
+
 * Named Company Directors
-* Non-Executive Managers \[Pending Appointment\]
+
+* Non-Executive Managers
+
 * Members
 
 # Company Role
@@ -80,14 +84,13 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * Ensuring appropriate and timely pre- and post- event marketing.
   * Ensuring appropriate hosting of external visitors.
   * While the responsibility for high level inter-organisational relations lies with the Directors, responsibility for some liaison with external organisations may be adopted at the discretion of the NEM.
-* Project-Room: _(It has been suggested that this be merged with "Projects")_
+* Project-Room: (Vacant!) _(It has been suggested that this be merged with "Projects")_
   * Management and monitoring (not technical maintenance) of ‘dirty room’ equipment and resources including but not limited to 3D printer.
   * Partially responsible for ensuring storage is kept reasonably organised.
-  * (Should probably be merged with “Projects”, pending TH approval of renaming of ‘The Area Formerly Known as Workshop”
 * Digital Infrastructure:
   * Comms, CCTV, Network, maintenance of online presences.
   * Maintenance of Documentation on the networks and systems of the space including authentication procedures for all core systems within the space.
-* Facilities:
+* Facilities (Vacant!):
   * AV, Electrics, Lighting, Heating, General physical ‘stewardship’ of the coworking and communal areas.
 
 # Member Role

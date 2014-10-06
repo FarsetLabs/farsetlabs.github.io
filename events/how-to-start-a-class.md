@@ -17,6 +17,6 @@ Then contact [booking@farsetlabs.org.uk](mailto:booking@farsetlabs.org.uk) to di
 User groups have a free block-booking of Wednesday evenings, allowing any group with an interest in something vaguely technical to use the space for free (assuming noone else has got it first!).
 
 ## "Have you guys thought about running....?"
-If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch with admin@farsetlabs.org.uk to chat about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
+If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
 
-If you're a member and you want to run something, just start discussing it on [Discourse](http://discourse.farsetlabs.org.uk), get a plan together, and talk to [admin@farsetlabs.org.uk](mailto:admin@farsetlabs.org.uk) (or any of the [directors]() directly to book it into the open calendar. 
+If you're a member and you want to run something, just start discussing it on [Discourse](http://discourse.farsetlabs.org.uk/category/events), get a plan together, and fire an email in to [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) (or any of the [directors](/about/index.html#directors)) to book it into the calendar.
