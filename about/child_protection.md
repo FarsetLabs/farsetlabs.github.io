@@ -9,7 +9,7 @@ tags : []
 # {{ page.title }}
 Farset Labs (FSL) is committed to a practice which promotes the welfare of children and protects them from harm.  We wish to ensure that all children and young people can participate in an enjoyable and safe environment in which they can have fun, learn, and feel valued.
  
-Directors, Managers, Members and volunteers (agents) within this organisation accept and recognise our responsibilities to develop awareness of the issues which may cause harm, and to establish and maintain a safe environment for children and young people.
+Directors, Managers, Members and Volunteers (agents) within this organisation accept and recognise our responsibilities to develop awareness of the issues which may cause harm, and to establish and maintain a safe environment for children and young people.
  
 Farset Labs will review its policy, procedures and practice in this regard at regular intervals, at least every 3 years. 
  
@@ -20,7 +20,7 @@ Under the SVG (NI) Order 2007 FSL is aware that it is a criminal offence to empl
 # What to know about Child Membership of Farset Labs
 No Under-18’s are permitted to join FSL as members.
 
-Exceptions may be made in the case of student placement or for specific projects, however these exceptions will require signed Parental Consent notifications to the Directors, naming an adult who will accompany the young person and act in loco parentis while the child is in the space. Notices of consent will be stored and locked on site, accessible only to FSL Directors
+Exceptions may be made in the case of student placement or for specific projects, however these exceptions will require signed Parental Consent notifications to the Directors, naming an adult who will accompany the young person and act in loco parentis while the child is in the space. Notices of consent will be stored and locked on site, accessible only to FSL Directors and designated agents.
 
 # What to know about events at Farset Labs involving Children
  
@@ -41,56 +41,61 @@ In order to safeguard children during mixed-group FSL events:-
 "Disclosure" occurs when a child or youth tells you or lets you know in some other way that she or he has been, or is being abused. Disclosure can be direct, indirect, or a third-party disclosure. You need to report all disclosures of abuse to the FSL directors immediately, no matter where or when they happened.
 
 When a child discloses abuse:
-* Stay calm and listen.
-* Go slowly.
-* Reassure them that they have not done anything wrong.
-* Be supportive.
-* Gather essential facts.
-* Tell what will happen next.
-* Report.
-* Make notes.
 
-1. Stay calm
+## 1. Stay calm
 An abused or neglected child or youth needs to know that you are available to help them.
+
 Reactions of shock, outrage, or fear make them feel more anxious or ashamed.
+
 A calm response reassures that what has happened is not so bad and can be worked through.
 
-2. Go slowly
+## 2. Go slowly
 It is normal to feel inadequate or unsure about what to do or say when a child or youth tells you about their abuse.
+
 Proceed slowly.
+
 Gentle and open-ended questions such as: "Can you tell me more about what happened?" are helpful.
+
 Avoid questions that begin with "why".
 
-3. Be reassuring
+## 3. Be reassuring
 Reassure the child or youth that they have not done anything wrong.
 Avoid questions that are usually associated with getting into trouble. Avoid using "why" questions.
 
-4. Be supportive
+## 4. Be supportive
 Let the youth or child know:
-they are not in trouble.
-they are safe with you.
-you are glad that they have chosen to tell you about this.
-they have done the right thing telling about this..
-you are sorry that they have been hurt or that this has happened to them.
-you will do everything you can to make sure they are not hurt again.
-you know others who can be trusted to help solve this problem.
+* they are not in trouble.
+* they are safe with you.
+* you are glad that they have chosen to tell you about this.
+* they have done the right thing telling about this..
+* you are sorry that they have been hurt or that this has happened to them.
+* you will do everything you can to make sure they are not hurt again.
+* you know others who can be trusted to help solve this problem.
 
-5. Get only the essential facts
+## 5. Get only the essential facts
 Be brief.
+
 Limit your discussion to finding out generally what took place.
+
 When you have sufficient information and reason to believe that abuse and/or neglect has occurred, gently stop gathering facts and be supportive.
 
-6. Tell what will happen next
+## 6. Tell what will happen next
 Don't make promises to the child about what may or may not happen next.
+
 Provide only reassurance that is realistic and achievable.
+
 Discuss with the child what you think will happen next and who will be involved.
 
-7. Report to the child protection worker
+## 7. Report to the child protection worker
+
 Report disclosures of abuse or neglect immediately to a child protection worker for follow-up and investigation.
+
 Express your willingness to help the youth or child through the steps which will follow, if appropriate.
 
-8. Make notes
+## 8. Make notes
+
 Make notes of all comments. Use the child's or youth's exact words where possible.
+
 Save all drawings and artwork. This information may need to be shared with social workers and/or the police if appropriate.
 
 
