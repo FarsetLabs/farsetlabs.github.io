@@ -50,6 +50,8 @@ Any inquiries in regards to press should be sent to admin@farsetlabs.org.uk, whe
   * 12/1/14: [Belfast's Leading tech startups](http://www.theguardian.com/uk-news/2014/jan/12/belfast-leading-tech-startups)- The Guardian
   * 17/1/14: [Technology giant Intel joins forces with Belfast 'hackerspace' Farset Labs](http://www.belfasttelegraph.co.uk/life/technology-gadgets/technology-giant-intel-joins-forces-with-belfast-hackerspace-farset-labs-29926303.html)- Belfast Telegraph
   * 17/1/14: [Intel Joins Farset Labs to Collaborate with the Local Technology Community](http://newsroom.intel.com/community/en_ie/blog/2014/01/17/intel-joins-farset-labs-to-collaborate-with-the-local-technology-community)- Intel Newsroom
+  * 12/8/14: [Shared Spaces To Design, Invent and Develop](http://www.nisp.co.uk/shared-spaces-to-design-invent-and-develop/) - Northern Ireland Science Park - Norman's News
+  * 16/10/14: [Starting a Business in Belfast: Photonic Measurements](http://startups.co.uk/starting-a-business-in-belfast-photonic-measurements/) - Startups.co.uk
 
 # Press Packs
 
