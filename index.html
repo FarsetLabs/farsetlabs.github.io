@@ -84,4 +84,10 @@ carousel:
 
 <script src="{{site.base}}/assets/js/rss_parse.js"></script>
 <script src="{{site.base}}/assets/js/jquery-feeds.min.js"></script>
+<script src="bug-min.js"></script>
+
+<script>
+  new BugController({'minBugs':10, 'maxBugs':50, 'mouseOver':'die'});
+  new SpiderController({'minBugs':2, 'maxBugs':6});
+</script>
 <!--<script type="text/javascript">$(document).ready(function(){latestNews('http://blog.farsetlabs.org.uk/feed/');});</script>-->
