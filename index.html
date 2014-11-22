@@ -22,13 +22,19 @@ carousel:
         <dd><a  href="/membership/index.html" class="button expand round">Join as a Member</a></dd>
       </dl>
       <dl>
-        <dt class="text-center">If you're only popping in or don't plan on using the space very often, please don't run away! We offer Day-Passes for occasional users </br> <em>(£5/day)</em></dt>
-          <form class="text-centre" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="VN7JQEFMYQ3F8">
-            <input type="hidden" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-            <input type="submit" name="submit" class="button round expand" value="Buy a Day Pass">
+        <dt class="text-center">If you're only popping in or don't plan on using the space very often, please don't run away! We offer Day-Passes for occasional users </br> <em>(£5 per day or £3 after 17:00)</em></dt>
+          <form class="center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="VN7JQEFMYQ3F8">
+          <table>
+          <tr><td><input type="hidden" name="on0" value="Day Pass">Day Pass</td></tr><tr><td><select name="os0">
+            <option value="Day Pass">Day Pass £5.00 GBP</option>
+            <option value="Evening Pass (After 5pm)">Evening Pass (After 5pm) £3.00 GBP</option>
+          </select> </td></tr>
+          </table>
+          <input type="hidden" name="currency_code" value="GBP">
+          <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
           </form>
         </dd>
       </dl>
