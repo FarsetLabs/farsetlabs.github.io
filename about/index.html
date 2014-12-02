@@ -35,7 +35,7 @@ haschildren: True
         </div>
         <div class="small-9 columns">
             <h4>{{officer.name}}</h4>
-            <h5 class="subheader">{{officer.title}} ({{officer.year}})</h5>
+            <h5 class="subheader">{{officer.title}} ({{officer.year}} )</h5>
             {{ officer.blurb | unindent | markdownify }}
             <ul class="small button-group round right">
               {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
@@ -67,7 +67,7 @@ haschildren: True
       </div>
         <div class="small-9 columns">
             <h4>{{officer.name}}</h4>
-            <h5 class="subheader">{{officer.title}} ({{officer.year}})</h5>
+            <h5 class="subheader">{{officer.title}} ({{officer.year}} )</h5>
             {% if officer.blurb %}
               {{ officer.blurb | unindent | markdownify }}
             {% endif %}
