@@ -37,7 +37,7 @@ links:
 officers:
   - name: Andrew Bolster
     username: bolster
-    year: 2011
+    year: 2011 -
     title: "Director/Founder"
     blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](http://andrewbolster.info)"
     email: "bolster@farsetlabs.org.uk"
@@ -50,7 +50,7 @@ officers:
 
   - name: David Kane
     username: kane
-    year: 2011
+    year: 2011 -
     title: "Director/Founder"
     blurb: "Physics student, photographer, electrical engineer and embedded developer, [among other things](http://www.davidkanecreative.co.uk/about.html)"
     email: "david@farsetlabs.org.uk"
@@ -59,7 +59,7 @@ officers:
 
   - name: Dylan Wylie
     username: wylie
-    year: 2013
+    year: 2013 -
     title: "Director"
     blurb: "Co-founder of rapidly growing health consultancy startup,  [We Slim Together](http://www.weslimtogether.co.uk), physicist, developer & technologist."
     email: "dylan@farsetlabs.org.uk"
@@ -68,7 +68,7 @@ officers:
 
   - name: Conor Robinson
     username: robinson
-    year: 2014
+    year: 2014 -
     title: "Director"
     blurb: "Electrical and Electronic Engineer, Amateur Radio Course Tutor, Red Cross First Aider. Fixes stuff that's broken"
     email: "conor@farsetlabs.org.uk"
@@ -77,7 +77,7 @@ officers:
 
   - name: Daniel Porter
     username: porter
-    year: 2014
+    year: 2014 -
     title: "Digital Infrastructure NEM"
     email: "digitalinfrastructure@farsetlabs.org.uk"
     discourse: "stealthii"
@@ -87,7 +87,7 @@ officers:
 
   - name: Glenn Davidson
     username: davidson
-    year: 2014
+    year: 2014 -
     title: "Events NEM"
     blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](http://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics"
     email: "events@farsetlabs.org.uk"
@@ -99,7 +99,7 @@ officers:
 
   - name: Rachel Gregg
     username: gregg
-    year: 2014
+    year: 2014 -
     title: "Community NEM"
     blurb: "Currently an Aeronautical Engineering Apprentice with [Bombardier](http://uk.bombardier.com), Rachel has a background in game testing, hospitality and  is the first point of contact for anything related to managing the community, or complaint handling"
     email: "community@farsetlabs.org.uk"
@@ -107,7 +107,7 @@ officers:
 
   - name: Claire Wilgar
     username: wilgar
-    year: 2014
+    year: 2014 -
     title: "Projects NEM"
     blurb: "Claire is a software developer at [Servasport](http://www.servasport.com/), and is the point of contact for resourcing and equipment issues related to member projects in the space."
     email: "projects@farsetlabs.org.uk"
