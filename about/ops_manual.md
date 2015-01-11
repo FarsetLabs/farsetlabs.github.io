@@ -10,11 +10,8 @@ Within the community of Farset Labs, there are four organisational roles. The re
 These roles are:
 
 * Farset Labs, the Limited Company
-
 * Named Company Directors
-
 * Non-Executive Managers
-
 * Members
 
 # Company Role
@@ -46,6 +43,7 @@ Directors can only be countermanded by a majority vote of the other Directors.
 Likewise, Directors can be removed from their position by a majority vote of no confidence by the other Directors. Members can propose a vote of no confidence take place and, if seconded by another member, then the Directors will vote regarding the matter.
 
 Complaints of a serious nature about the actions of a Director can and should be raised with either:
+
 * The collective admin@farsetlabs.org.uk email which is instantly forwarded to all directors (anonymous emails are accepted at the discretion of each director)
 * Another Director individually
 * Through a relevant NEM
