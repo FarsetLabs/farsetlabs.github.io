@@ -50,7 +50,7 @@ For example, the image above is a Creative Commons license badge. With just the 
 
 ## Assumed Limitations of Application 
 
-The Restrictions on Use listed in Section 1.7 serve to protect the donator’s wishes for their equipment. This license does not cover restrictions on community projects or items bought collectively by the community, unless the community explicitly agrees to adopt XHDL v1.0 as a method of licensing these items.
+The Restrictions on Use listed in Section 7 serve to protect the donator’s wishes for their equipment. This license does not cover restrictions on community projects or items bought collectively by the community, unless the community explicitly agrees to adopt XHDL v1.0 as a method of licensing these items.
 
 ## Restrictions on Use
 

@@ -12,11 +12,10 @@ haschildren: True
 		{% endcapture %}
 		{{ about_farset | unindent | markdownify }}
 	<hr/>
-<h2>Current Officers</h2>
+<h2>Current Management Board</h2>
 
 <h3 id="directors">Directors</h3>
 <p>Farsets Directors are legally, fiscally, and socially responsible for the strategic health and operation of the Labs</p>
-<p>They are collectively, ultimately responsible for the growth and health of the organisation and it’s community, but are primarily concerned with the financial, legal and strategic running of the organisation.<p>
 {% assign sorted_officers = site.officers | sort:"year" %}
   {% for officer in sorted_officers reversed %}
     {% if officer.title contains "Director" %}
@@ -48,7 +47,6 @@ haschildren: True
 <hr/>
 <h3 id="nems">Non Executive Managers</h3>
 <p>Non-Executive Managers (NEMs) are the primary Points of Contact (PoC) for certain areas, equipment, and activities within the day-to-day operation of the space.</p>
-<p>NEMs represent a limited, non-executive, role in Farset Labs, with no special legal responsibilities or liabilities with respect to the Company.</p>
 {% assign sorted_officers = site.officers | sort:"year" %}
   {% for officer in sorted_officers %}
     {% unless officer.title contains "Director" %}
@@ -71,9 +69,9 @@ haschildren: True
             {% if officer.blurb %}
               {{ officer.blurb | unindent | markdownify }}
             {% endif %}
-            <ul class="button-group round right">
-              {% if officer.email %}<li><a class="button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
-              {% if officer.discourse %}<li><a class="button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
+            <ul class="small button-group round right">
+              {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
+              {% if officer.discourse %}<li><a class="small button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
             </ul>
             
         </div>
@@ -81,8 +79,13 @@ haschildren: True
     {% endunless %}
 {% endfor %}
 
-For more information about the roles and responsibilities of the officers of Farset Labs, see the <a href="/about/ops_manual.html">Ops Manual</a>
+<div class="block row">
+    <div class="small-12 columns">
+    For more information about the roles and responsibilities of the officers of Farset Labs, see the <a href="/about/ops_manual.html">Ops Manual</a>
+    </div>
+</div>
 
+<hr/>
 
 <h2>Farset Labs Former Officers</h2>
 <div class="block row">
