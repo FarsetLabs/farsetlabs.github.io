@@ -91,8 +91,15 @@
                                             {{ p.title }}
                                           </a>
                                         <ul class="dropdown">
-                                          {% for child in sorted_pages | sort:"name" %}
-                                            {% if child.parent == p.title %}
+                                          {% for i_weight in (1..10) %}
+                                            {% for child in sorted_pages |  sort:"name" %}
+                                              {% if child.parent == p.title and child.weight == i_weight %}
+                                                <li><a href={{child.url}}>{{child.title}}</a></li>
+                                              {% endif %}
+                                            {% endfor %}
+                                          {% endfor %}
+                                          {% for child in sorted_pages |  sort:"name" %}
+                                            {% if child.parent == p.title and child.weight == None %}
                                               <li><a href={{child.url}}>{{child.title}}</a></li>
                                             {% endif %}
                                           {% endfor %}

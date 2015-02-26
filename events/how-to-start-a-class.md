@@ -1,6 +1,7 @@
 ---
 title: How to start an event
 parent: "Events & Classes"
+weight: 1
 layout: default
 ---
 # Booking for a private event
@@ -19,6 +20,12 @@ User groups have a free block-booking of Wednesday evenings, allowing any group 
 User groups are exempt from the evening day pass requirement, but donations are welcomed and encouraged.
 
 Free User group bookings must be arranged in advance by emailing [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) and are offered on a case by case basis at the discretion of the Directors / Events NEM.
+
+Currently hosted user groups are:
+
+* [BelfastJS](http://belfastjs.org/)
+* [Wordpress NI](http://www.meetup.com/Northern-Ireland-WordPress-Meetup/)
+* Belfast Google Developer Group (In planning)
 
 ## "Have you guys thought about running....?"
 If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 

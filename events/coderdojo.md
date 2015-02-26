@@ -4,7 +4,7 @@ parent: "Events & Classes"
 layout: default
 ---
 
-![CoderDojo]({{site.url}}/events/coderdojo_800.jpg)
+![CoderDojo](/events/coderdojo_800.jpg)
 
 CoderDojo is a movement orientated around running free not-for-profit coding clubs and regular sessions for young people. Farset Labs' CoderDojo runs every 2 weeks by volunteers from the Farset community and offers a range of computer skills, from web application development to scratch.
 
@@ -27,6 +27,10 @@ CoderDojo is aimed loosely at the under 18's, but any child younger than 14 must
 ## What are my transport/parking options getting to the event?
 
 We're 5 minutes walk from Europa Bus Centre, and Parking is available all across the Weavers Court Campus
+
+## Is there a charge for the event
+
+Farset Labs' members operate the CoderDojo for free for all attendees, but donations to cover operating costs are greatly appreciated.
 
 ## What should I bring to the event?
 
