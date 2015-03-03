@@ -1,6 +1,7 @@
 ---
 title: Astronomy
 parent: "Events & Classes"
+image: /events/astronomy_800.jpg
 layout: default
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Sketchy Individuals
 parent: "Events & Classes"
+image: /events/sketchy_800.png
 layout: default
 ---
 
