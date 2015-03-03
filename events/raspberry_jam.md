@@ -1,6 +1,7 @@
 ---
 title: Raspberry Jam
 parent: "Events & Classes"
+images: /events/raspberryjam_800.jpg
 layout: default
 ---
 

@@ -6,7 +6,6 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="{{site.keywords}}">
-    <meta name="description" content="{{site.description}}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.social.twitter }}">
     <meta name="twitter:creator" content="@{{ site.social.twitter }}">
@@ -19,14 +18,16 @@
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
     {% if page.description %}
+    <meta name="description" content="{{page.description}}">
     <meta name="twitter:description" content="{{ page.description }}">
     {% else %}
+    <meta name="description" content="{{site.description}}">
     <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
     {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo.png">
+    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/full-banner.png">
     {% endif %}
 
     <title>{{ page.title }}</title>

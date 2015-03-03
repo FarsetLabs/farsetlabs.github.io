@@ -3,6 +3,7 @@ layout: default
 title: Facilities
 parent: "About"
 weight: 3
+image: /about/event_space_pano.jpg
 toc: False
 ---
 # Facilities & Resources

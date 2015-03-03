@@ -1,6 +1,7 @@
 ---
 title: CoderDojo
 parent: "Events & Classes"
+image: /events/coderdojo_800.jpg
 layout: default
 ---
 
