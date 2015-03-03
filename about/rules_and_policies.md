@@ -60,7 +60,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
  * Equipment not otherwise clearly labeled is assumed to have been abandoned and will eventually be relabeled as Farset communal equipment.
 
-[^2] Equipment left or stored in the space is done so at the owners own risk. Farset Labs will make all reasonable efforts to secure the space, but is not liable for loss or damage.
+[^2]: Equipment left or stored in the space is done so at the owners own risk. Farset Labs will make all reasonable efforts to secure the space, but is not liable for loss or damage.
 
 ### Housekeeping
 
