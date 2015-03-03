@@ -28,7 +28,6 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
- * [Intolerance will not be tolerated](equality.html);
  * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
  * [Intolerance will not be tolerated](equality.html).
 
@@ -55,11 +54,13 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
     * If it is unsafe to do so;
     * That others are currently using;
     * That is marked as out of order or not to be used.
- * Store your projects and materials safely and with care in the provided member storage boxes;
+ * Store your projects and materials safely and with care in the provided member storage boxes[^2];
  * Do not bring or use banned or unsafe materials or equipment;
  * All personal equipment being left or stored in communal areas of the space must be clearly labeled with the owners contact details;
  * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
  * Equipment not otherwise clearly labeled is assumed to have been abandoned and will eventually be relabeled as Farset communal equipment.
+
+[^2] Equipment left or stored in the space is done so at the owners own risk. Farset Labs will make all reasonable efforts to secure the space, but is not liable for loss or damage.
 
 ### Housekeeping
 
@@ -78,13 +79,13 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
 ### Child Protection
  * No Under 18's may join Farset Labs as members;
- * No unaccompanied[^2] under 18's are permitted in the building after 8pm;
- * No unaccompanied[^2] under 14's are permitted in the building;
+ * No unaccompanied[^3] under 18's are permitted in the building after 8pm;
+ * No unaccompanied[^3] under 14's are permitted in the building;
  * No unidentified individuals are permitted in mixed-age-group events;
  * At least two agents of Farset Labs must remain with any mixed-age-group event at all times;
  * Agents and Officers cannot engage in any Regulated Activity as defined in the [CPP](child_protection.html) unless they are Access NI Cleared as part of a Farset Labs project or programme.
 
-[^2]: Within Farset Labs, "unaccompanied" means a young person without an attending parent, guardian, or agent of Farset Labs operating in loco parentis by prior agreement
+[^3]: Within Farset Labs, "unaccompanied" means a young person without an attending parent, guardian, or agent of Farset Labs operating in loco parentis by prior agreement
 
 
 ## The Very Much Longer Rules
