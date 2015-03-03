@@ -28,13 +28,14 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
- * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it.
  * [Intolerance will not be tolerated](equality.html);
+ * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
+ * [Intolerance will not be tolerated](equality.html).
 
 ### Handling of Complaints and Breaches
  * Technical issues related to the space may be raised through our [Issue Tracker](http://jira.farsetlabs.org.uk)
  * All members should endeavour to resolve minor personal issues directly with the persons involved;
- * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](ops_manual.html);
+ * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](ops_manual.html));
     * Raise a complaint to either the [Directors](mailto:admin@farsetlabs.org.uk) or [NEMs](mailto:nems@services.farsetlabs.org.uk) detailing the issue and the persons involved. Reports may be anonymously filed but this will slow the response, as the management board[^1] will first have to corroborate the claims raised.
     * The issue will be raised at the next Management meeting and, at that boards discretion, directly with the persons involved.
     * After at most one bi-weekly management meeting, a response will be issued by a member of the management board[^1] that may result in a warning or subsequent expulsion of those involved.
@@ -54,10 +55,11 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
     * If it is unsafe to do so;
     * That others are currently using;
     * That is marked as out of order or not to be used.
- * Store your projects and materials safely and with care;
+ * Store your projects and materials safely and with care in the provided member storage boxes;
  * Do not bring or use banned or unsafe materials or equipment;
- * All personal equipment being left or stored in the space must be labeled under the [HDL](hardware_donation_license.html) with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
- * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance.
+ * All personal equipment being left or stored in communal areas of the space must be clearly labeled with the owners contact details;
+ * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
+ * Equipment not otherwise clearly labeled is assumed to have been abandoned and will eventually be relabeled as Farset communal equipment.
 
 ### Housekeeping
 
