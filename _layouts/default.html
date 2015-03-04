@@ -10,23 +10,34 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.social.twitter }}">
     <meta name="twitter:creator" content="@{{ site.social.twitter }}">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Farset Labs">
+    <meta property="fb:app_id" content="218300458266006">
+    <meta property="article:publisher" content="https://www.facebook.com/FarsetLabs">
     {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
     {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }}">
     {% endif %}
     {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
     {% if page.description %}
     <meta name="twitter:description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}">
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo.png">
+    <meta property="og:image" content="{{ site.url }}/assets/img/full-banner.png">
     {% endif %}
 
     <title>{{ page.title }}</title>
