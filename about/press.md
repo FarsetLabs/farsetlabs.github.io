@@ -36,6 +36,7 @@ Any inquiries in regards to press should be sent to info@farsetlabs.org.uk.
   * 24/2/13: [Belfast Gamecraft Results](http://dublingamecraft.com/2013/02/24/belfat-gamecraft-winners/) - Dublin Gamecraft
   * 18/3/13: [BMC Makes it Happen at CoderDojo](http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356#.UW_zakmDg9d) - SyncNI
   * 15/5/13: [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) - Nesta
+  * 9/8/13: [A leisure centre for geeks](http://issuu.com/ulster_business/docs/ub_august_2013/148) - Ulster Business
   * 5/9/13: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 
 ## 2012
