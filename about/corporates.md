@@ -1,33 +1,15 @@
 ---
 layout: default
-title: Corporate Members
-parent: "Membership"
+title: Supporters
+parent: "About"
 category: pages
 ---
 
-While the majority of Farset Labs is maintained by the community, we are also
-supported by local companies and bodies that recognise the transformational
-effect that our resources, projects and initiatives can have on the local
-community and economy. Corporate Members provide support or services
-that help the membership, and each has the same voting power as only one
-individual member. For their ongoing support and participation in our
-community, we thank them on this page.
+While the majority of Farset Labs is self-funded by the community, we are also supported by local companies and bodies that recognise the transformational effect that our resources, projects and initiatives can have on the local community and economy. 
 
+Corporate Members provide support or services that contribute to the core costs of Farset Labs and it's core programmes, and each has the same voting power as a regular member.
 
-# Membership Impacts
-
-For companies that think what we're doing is great, we offer them a way to help us financially in return for a similar level of involvement as normal individual membership. Each corporate membership has the same voting power as a single individual, to keep things community-focused.
-
-*   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
-*   **Access to space** for all employees (under single identity)[^corp]
-*   **Community Presence** both online and within the space
-*   **One free evening event** slot per month
-*   **One free job/opportunity/project posting** per month
-*   Limited **Attendance to Member Only Events**[^corp]
-*   **Knowledge sharing** with local technical communities
-
-If you are interested in becoming a Corporate Member, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk)
-
+Programme Partners contribute to specific projects and initiatives.
 
 # Corporate Members
 
@@ -66,10 +48,25 @@ With its headquarters in Carryduff and engineers working throughout Northern Ire
 
 <div style="float: right"><a href="http://www.weaverscourt.com"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
 
-Special thanks have to go to [Weavers Court Business
-Park](http://www.weaverscourt.com/); without the confidence and tireless
-support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset
-Labs simply couldn't be.
+Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
+
+# Programme Partners
+
+# Support Impacts
+
+For companies that think what we're doing is great, we offer them a way to help us financially in return for a similar level of involvement as normal individual membership. 
+
+Each corporate membership has the same voting power as a single individual, to keep things community-focused.
+
+*   **Space Access** for all employees (under single identity)[^corp]
+*   **Attendance to Member Only Events**[^corp]
+*   **Knowledge sharing** with local technical communities
+*   **Community Awareness and Impact** through co-recognition in our outreach and educational programmes
+*   **Captive Marketing** opportunities through our member community online and in the space.
+*   **Local Corporate Social Responsibility Mandate** through our Belfast and province wide outreach and inreach programmes
+*   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
+
+If you are interested in becoming a Corporate Member or supporting one or more of our programmes, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk) to discuss your requirements.
 
 [^corp]: These corporate benefits are limited to two passes per event/day
 

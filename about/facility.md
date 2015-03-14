@@ -17,25 +17,25 @@ For a low [membership fee](/membership/index.html), students, hobbyists, and all
 
 Farset Labs provides a wide range of communal resources, so you can play and build as you wish. These include:
 
-  * Dedicated high-speed fibre internet.
-  * Ample networking and server resources.
-  * Kitchen and lounge.
-  * A growing library of tools, manufacturing equipment, parts and gadgets, including: 3D printer, quadcopter, various robots, and computers of all sorts such as Raspberry Pis, iMacs, BBC Micros and a hefty archive of gaming consoles.
+  * Dedicated high-speed fibre internet;
+  * Networking, server resources and computers of all sorts such as Raspberry Pis, iMacs, and even BBC Micros;
+  * A hefty collection of classic gaming consoles;
+  * Various robots and mobile platforms including a quadcopter;
+  * Kitchen and lounge; 
+  * A growing library of tools including: 3D printer, electronics kits, solder stations, part libraries, basic metal and woodworking facilities
 
 Typical projects and events for all skill levels include:
 
-  * Electronics, communications and computer science.
-  * Manufacturing, making & craft.
-  * Light metalworking & woodworking.
-  * Biohacking & chemistry.
-  * Local user & interest groups.
+  * Electronics, communications and computer science;
+  * Manufacturing, making & craft;
+  * Light metalworking & woodworking;
+  * Biohacking & chemistry;
+  * Art, Music & Sculpture;
+  * Local user & interest groups;
   * _**anything and everything you want to do!**_
 
-[![](http://blog.farsetlabs.org.uk/wp-content/uploads/2012/01/2012
--08-20-20.22.38-300x225.jpg)](http://blog.farsetlabs.org.uk/wp-
-content/uploads/2012/01/2012-08-20-20.22.38.jpg)
-
 We provide space, tools and community. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please (within reason!). Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a [Code of Conduct](/about/code_of_conduct.html) to avoid injury, upset... and fires.
+
 
 # The Space
 
@@ -45,22 +45,24 @@ The Event Room, and potentially other areas, can be booked for members private e
 available on a 'fair use' basis.
 Unless authorisation have been sought from the [Events NEM](/about/index.html) and it has been booked into the [Calendar](/events/index.html), member events and 'reservations' of spaces within Farset Labs are non-binding and non-exclusive.
 
-###Co-Working Room
+## Co-Working Room
+
 ![](/about/coworking_room_pano.jpg)
 
   * Flexible hot-desking and several computers, all on first-come-first-served basis.
   * Desks to hire from £100 per month.
-  * Printing, photocopying and other office facilites.
+  * Printing, photocopying and other office facilities.
   * A top class library of technical and non technical material (and a Wired UK Subscription)
 
-###Events Room
+## Events Room
+
 ![](/about/event_space_pano.jpg)
 
   * Multipurpose venue for approx 50 standing / 35 seated. 
   * Comprehensive AV setup, including projector, 5:1 surround sound speakers, and PA system.
   * 30m<sup>2</sup> blackboard for idea sharing (surely the biggest in N.Ireland!).
 
-###Project Room
+## Project Room
 ![](/about/project_room_pano.jpg)
 
   * Fabrication machines and hand-tools.
