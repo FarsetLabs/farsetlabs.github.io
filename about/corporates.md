@@ -5,9 +5,9 @@ parent: "About"
 category: pages
 ---
 
-While the majority of Farset Labs is self-funded by the community, we are also supported by local companies and bodies that recognise the transformational effect that our resources, projects and initiatives can have on the local community and economy. 
+While the majority of Farset Labs is self-funded by the community, we are also supported by local companies and bodies that recognise the transformative effect that our resources, projects and initiatives can have on the local community and economy. 
 
-Corporate Members provide support or services that contribute to the core costs of Farset Labs and it's core programmes, and each has the same voting power as a regular member.
+Corporate Members provide support or services that contribute to the core costs of Farset Labs and its core programmes, and each has the same voting power as a regular member.
 
 Programme Partners contribute to specific projects and initiatives.
 
@@ -49,8 +49,6 @@ With its headquarters in Carryduff and engineers working throughout Northern Ire
 <div style="float: right"><a href="http://www.weaverscourt.com"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
 
 Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
-
-# Programme Partners
 
 # Support Impacts
 
