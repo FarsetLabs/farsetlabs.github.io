@@ -12,10 +12,10 @@ layout: default
 
  We try to cover a different topic with the Raspberry Pi every month and so far have done
 
- * Setting up your [Raspberry Pi](http://raspberrypi.org)
+ * Setting up your [Raspberry Pi](https://www.raspberrypi.org/)
  * [Minecraft Pi Edition](http://pi.minecraft.net)
  * ScratchGPIO with [LEDBorgs](https://www.piborg.org/ledborg)
- * Introduction to [Python](http://www.python.org)
+ * Introduction to [Python](https://www.python.org)
  * Basic circuits with breadboards
   
 The topics we may to cover over the next few months
@@ -23,7 +23,7 @@ The topics we may to cover over the next few months
 * Using Python with GPIO
 * [Sonic Pi](http://sonic-pi.net)
 * Raspberry Pi camera module
-* Plugging stuff into the [GPIO](http://www.raspberrypi.org/documentation/usage/gpio/) pins
+* Plugging stuff into the [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/) pins
 
 If you would also like to help with setup, takedown or generally walking around helping people with their Pi projects, please drop an email to [nems@farsetlabs.org.uk](mailto:nems@farsetlabs.org.uk) and we will pass on your details.
 
@@ -55,7 +55,7 @@ We don't have the resources available to provide everyone with a machine, so if 
 
 ## What Child Protection Policies are in place?
 
-Only those registered may attend, including mentors. For detail into Farset Labs' Child Protection Policy, see our [wiki](http://wiki.farsetlabs.org.uk/Child_Protection_Policy). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
+Only those registered may attend, including mentors. For detail into Farset Labs' Child Protection Policy, see our [wiki](https://wiki.farsetlabs.org.uk/Child_Protection_Policy). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
 
 ##I can't make it, what can I do to help?
 

@@ -54,7 +54,7 @@ list which gets parsed when the jekyll site is compiled. To change the links jus
 this file.
 
 [builds]: http://builds.cc
-[farsetlabs]: http://farsetlabs.org.uk
+[farsetlabs]: https://farsetlabs.org.uk
 [jekyll]: http://jekyllrb.com
 [bootstrap]: http://getbootstrap.com/2.3.2
 [rvm]: https://rvm.io/
