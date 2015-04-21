@@ -15,7 +15,7 @@ Programme Partners contribute to specific projects and initiatives.
 
 ## Intel 
 
-<div style="float: right"><a href="http://aepona.intel.com/"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
+<div style="float: right"><a href="http://aepona.intel.com/"><img src="https://blog.farsetlabs.org.uk/wordpress/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
 
 Intel recently acquired Belfast based Aepona, whose awarding-winning software
 platform bridges the enterprise with the network, enabling Service Providers
@@ -26,7 +26,7 @@ intelligence into a diverse range of applications.
 
 ## Tibus Connect 
 
-<div style="float: right"><a href="http://www.tibus.com"><img src="http://www.iia.ie/filestore/images/member/tibus.jpg"/></a></div>
+<div style="float: right"><a href="http://www.tibus.com"><img src="https://secure.iia.ie/filestore/images/member/tibus.jpg"/></a></div>
 
 [Tibus(Connect)](http://www.tibusconnect.com/) offer a full range of
 connectivity solutions for business across the UK & Ireland.They are market
@@ -46,7 +46,7 @@ With its headquarters in Carryduff and engineers working throughout Northern Ire
 
 ## Weavers Court Business Park 
 
-<div style="float: right"><a href="http://www.weaverscourt.com"><img src="http://blog.farsetlabs.org.uk/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
+<div style="float: right"><a href="http://www.weaverscourt.com"><img src="https://blog.farsetlabs.org.uk/wordpress/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
 
 Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
 

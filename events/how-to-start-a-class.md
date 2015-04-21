@@ -30,4 +30,4 @@ Currently hosted user groups are:
 ## "Have you guys thought about running....?"
 If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
 
-If you're a member and you want to run something, just start discussing it on [Discourse](http://discourse.farsetlabs.org.uk/category/events), get a plan together, and fire an email in to [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) (or any of the [directors](/about/index.html#directors)) to book it into the calendar.
+If you're a member and you want to run something, just start discussing it on [Discourse](https://discourse.farsetlabs.org.uk/category/events), get a plan together, and fire an email in to [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) (or any of the [directors](/about/index.html#directors)) to book it into the calendar.
