@@ -16,6 +16,6 @@ Farset Labs imports Club-Mate for its members, and it is sold by the bottle at t
 
 - Club-Mate Regular (330ml/500ml)
 - Club-Mate Cola (330ml)
-- Club-Mate Winder Edition (500ml)
+- Club-Mate Winter Edition (500ml)
 
 We also sell by the crate for larger orders, and are happy to sell onto the public! If you would like to order, please email [conor@farsetlabs.org.uk](mailto:conor@farsetlabs.org.uk) with your request.
