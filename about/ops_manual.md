@@ -88,7 +88,6 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * Driving project documentation and PR.
 * Project-Room:
   * Management and monitoring of ‘dirty room’ equipment and resources including but not limited to 3D printer.
-  * PoC for project storage, resources, and documentation
   * Attempting to prevent conflict between member project resource requirements.
 * Digital Infrastructure:
   * Comms, CCTV, Network, maintenance of online presences.
