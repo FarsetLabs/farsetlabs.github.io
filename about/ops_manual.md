@@ -79,9 +79,13 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * Ensuring appropriate hosting of external visitors.
   * While the responsibility for high level inter-organisational relations lies with the Directors, responsibility for some liaison with external organisations may be adopted at the discretion of the NEM.
 * Community: 
-  * PoC for internal community engagement and conflict resolution.
+  * PoC for internal community engagement
   * Responsible for internal social events and member relations
   * PoC for member induction and 'soft landing' discussions
+* Projects:
+  * PoC for project storage, resources, and documentation
+  * Attempting to prevent conflict between member projects
+  * Driving project documentation and PR.
 * Project-Room:
   * Management and monitoring of ‘dirty room’ equipment and resources including but not limited to 3D printer.
   * PoC for project storage, resources, and documentation
