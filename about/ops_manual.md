@@ -86,7 +86,7 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * PoC for project storage, resources, and documentation
   * Attempting to prevent conflict between member projects
   * Driving project documentation and PR.
-  * Along with the Projects Room NEM, rives the function and layout of the Project Room to suit the needs of the Farset Community.
+  * Along with the Projects Room NEM, drives the function and layout of the Project Room to suit the needs of the Farset Community.
 * Project-Room:
   * Management and monitoring of Project equipment and resources including but not limited to 3D printer.
   * Attempting to prevent conflict between member project resource requirements.  
