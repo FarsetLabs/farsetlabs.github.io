@@ -72,24 +72,33 @@ Removal of NEMs from their positions is a Directorship-level decision. A vote of
 Complaints about the actions of a NEM can and should be raised as per the general procedures as set out in the [Code of Conduct](code_of_conduct.html)
 
 ## Proposed Fields and Responsibilities
-* Projects:
-  * PoC for project storage, resources, and documentation
-  * Attempting to prevent conflict between member projects.
-  * Driving project documentation and PR.
 * Events:
   * PoC for booking event space, event management, etc.
   * Ensuring event space is useable for relevant events and co-working overflow.
   * Ensuring appropriate and timely pre- and post- event marketing.
   * Ensuring appropriate hosting of external visitors.
   * While the responsibility for high level inter-organisational relations lies with the Directors, responsibility for some liaison with external organisations may be adopted at the discretion of the NEM.
-* Project-Room: (Vacant!) _(It has been suggested that this be merged with "Projects")_
-  * Management and monitoring (not technical maintenance) of ‘dirty room’ equipment and resources including but not limited to 3D printer.
-  * Partially responsible for ensuring storage is kept reasonably organised.
+* Community: 
+  * PoC for internal community engagement
+  * Responsible for internal social events and member relations
+  * PoC for member induction and 'soft landing' discussions
+* Projects:
+  * PoC for project storage, resources, and documentation
+  * Attempting to prevent conflict between member projects
+  * Driving project documentation and PR.
+  * Along with the Projects Room NEM, drives the function and layout of the Project Room to suit the needs of the Farset Community.
+* Project-Room:
+  * Management and monitoring of Project equipment and resources including but not limited to 3D printer.
+  * Attempting to prevent conflict between member project resource requirements.  
+  * Coordinates Project Room changes
+  * Along with the Projects NEM, rives the function and layout of the Project Room to suit the needs of the Farset Community.
+  
+
 * Digital Infrastructure:
   * Comms, CCTV, Network, maintenance of online presences.
   * Maintenance of Documentation on the networks and systems of the space including authentication procedures for all core systems within the space.
-* Facilities (Vacant!):
-  * AV, Electrics, Lighting, Heating, General physical ‘stewardship’ of the coworking and communal areas.
+* Outreach:
+  * PoC for internal and external outreach programme development and partnerships, including overall monitoring of CoderDojo and Raspberry Jam programmes
 
 # Member Role
 
