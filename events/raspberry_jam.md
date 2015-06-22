@@ -55,7 +55,7 @@ We don't have the resources available to provide everyone with a machine, so if 
 
 ## What Child Protection Policies are in place?
 
-Only those registered may attend, including mentors. For detail into Farset Labs' Child Protection Policy, see our [wiki](https://wiki.farsetlabs.org.uk/Child_Protection_Policy). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
+Only those registered may attend, including mentors. For full details, see [Farset Labs' Child Protection Policy](/about/child_protection.html). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
 
 ##I can't make it, what can I do to help?
 
