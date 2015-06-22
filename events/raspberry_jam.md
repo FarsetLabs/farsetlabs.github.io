@@ -8,7 +8,7 @@ layout: default
 ![RaspberryJam](/events/raspberryjam_800.jpg)
 
  Raspberry Jam is a monthly event for people who want to learn a bit more about the Raspberry Pi and coding in general.
- The sessions are aimed at complete beginners with more complicated challanges forthose with already some Raspberry Pi experience.
+ The sessions are aimed at complete beginners with more complicated challanges for those with already some Raspberry Pi experience.
 
  We try to cover a different topic with the Raspberry Pi every month and so far have done
 
@@ -36,6 +36,10 @@ Please make a small donation to maintaining Farset Labs for each training sessio
 </div>
 
 #FAQs
+
+## What kind of learning resources are available
+
+Most of the resources that are used in the jams are also collated on our [Resources Repository](https://github.com/NIRaspberryJam/Raspberry-Jam-Resources) and are available for use both at and beyond the regular jam events
 
 ## Is there an age limit to enter the event?
 
