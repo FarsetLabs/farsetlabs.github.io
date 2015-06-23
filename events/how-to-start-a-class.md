@@ -23,7 +23,7 @@ Free User group bookings must be arranged in advance by emailing [events@farsetl
 
 Currently hosted user groups are:
 
-* [Belfast Linux Users Group (BLUG)](https://groups.google.com/forum/#!forum/belfastlinux)
+* [Belfast Linux Users Group (BLUG)](http://www.meetup.com/belfast-lug/)
 * [BelfastJS](http://www.meetup.com/Belfast-JS/)
 * [Wordpress NI](http://www.meetup.com/Northern-Ireland-WordPress-Meetup/)
 * [Belfast Google Developer Group](https://developers.google.com/groups/chapter/117880769522295112261/)
