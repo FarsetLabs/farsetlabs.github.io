@@ -6,9 +6,38 @@ parent: "About"
 
 ## Press Contact for Farset Labs
 
-Any inquiries in regards to press should be sent to admin@farsetlabs.org.uk, where they will be received by every director. Members of the press are always welcome to visit the space instead or call the phone on 08458694619.
+Any inquiries in regards to press should be sent to info@farsetlabs.org.uk.
 
 # Farset in the news
+
+## 2015
+
+ * 26/2/15 : [Raspberry Pi Farset Labs 'jams' teach kids how to code computers](http://www.bbc.co.uk/news/uk-northern-ireland-31625354) - BBC
+ * 3/3/15 : [DIY Citizenship in the "New Northern Ireland": The Case of a Belfast Makerspace](http://civicmediaproject.org/works/civic-media-project/diycitizenshipinthenewnorthernireland) - Civic Media Project - MIT Press
+
+## 2014
+  * 12/1/14: [Belfast's Leading tech startups](http://www.theguardian.com/uk-news/2014/jan/12/belfast-leading-tech-startups)- The Guardian
+  * 17/1/14: [Technology giant Intel joins forces with Belfast 'hackerspace' Farset Labs](http://www.belfasttelegraph.co.uk/life/technology-gadgets/technology-giant-intel-joins-forces-with-belfast-hackerspace-farset-labs-29926303.html)- Belfast Telegraph
+  * 17/1/14: [Intel Joins Farset Labs to Collaborate with the Local Technology Community](http://newsroom.intel.com/community/en_ie/blog/2014/01/17/intel-joins-farset-labs-to-collaborate-with-the-local-technology-community)- Intel Newsroom
+  * 7/5/14: [Global GameCraft announces Irish game jam dates](http://www.independent.ie/entertainment/games/indo-indie/global-gamecraft-announces-irish-game-jam-dates-30253357.html) - Irish Independent
+  * 12/8/14: [Shared Spaces To Design, Invent and Develop](http://www.nisp.co.uk/shared-spaces-to-design-invent-and-develop/) - Northern Ireland Science Park - Norman's News
+  * 16/10/14: [Starting a Business in Belfast: Photonic Measurements](http://startups.co.uk/starting-a-business-in-belfast-photonic-measurements/) - Startups.co.uk
+
+## 2013
+
+  * 18/1/13: [Global Game Jam hackathon set for Belfast this month](http://www.siliconrepublic.com/innovation/item/31099-global-game-jam-hackathon/) - Silicon Republic
+  * 18/1/13: [Weekend hackathon set for Belfast](http://www.ulsterbusiness.com/articles/2013/01/18/weekend-hackathon-set-for-belfast) - Ulster Business
+  * 21/1/13: [Belfast Hub for Global Games Jam](http://www.newsletter.co.uk/news/business/local-businesses/belfast-hub-for-global-games-jam-1-4705625) - Newsletter
+  * 23/1/13: [Global Game Jam: Belfast to take part for first time](http://www.bbc.co.uk/news/uk-northern-ireland-21142798) - BBC News
+  * 24/1/13: [Global Game Jam Hits Belfast ](http://www.followingthenerd.com/video-games/global-game-jam-hits-belfast/?utm_source=rss&utm_medium=rss&utm_campaign=global-game-jam-hits-belfast)- Following The Nerd
+  * 25/1/13: [CMR at #BLOC54](http://cmr.ulster.ac.uk/cmr-at-bloc54/) - University of Ulster's Centre for Media Research
+  * 7/2/13: [Tech Britain Coverage](http://techbritain.com/videos/watch/43) - TechBritain
+  * 9/2/13: [Raspberry Pi Jam & Coder Dojo Belfast ](http://coderkidz.com/2013/02/raspberry-pi-jam-coder-dojo-belfast/)- CoderKidz
+  * 24/2/13: [Belfast Gamecraft Results](http://dublingamecraft.com/2013/02/24/belfat-gamecraft-winners/) - Dublin Gamecraft
+  * 18/3/13: [BMC Makes it Happen at CoderDojo](http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356#.UW_zakmDg9d) - SyncNI
+  * 15/5/13: [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) - Nesta
+  * 9/8/13: [A leisure centre for geeks](http://issuu.com/ulster_business/docs/ub_august_2013/148) - Ulster Business
+  * 5/9/13: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
 
 ## 2012
 
@@ -30,26 +59,6 @@ Any inquiries in regards to press should be sent to admin@farsetlabs.org.uk, whe
   * 14/11/12:[Farset Labs' Legal Encounter](http://syncni.com/news/7397) - SyncNI
   * 19/11/12:[Northern Ireland economy needs to make space for technological innovation and creativity](http://www.businessfirstonline.co.uk/?p=10387) - BusinessFirstOnline
   * 17/12/12:[Imagining a Digital Future ](http://www.ulsterbusiness.com/articles/2012/12/17/imagining-a-digital-future)- Ulster Business
-
-## 2013
-
-  * 18/1/13: [Global Game Jam hackathon set for Belfast this month](http://www.siliconrepublic.com/innovation/item/31099-global-game-jam-hackathon/) - Silicon Republic
-  * 18/1/13: [Weekend hackathon set for Belfast](http://www.ulsterbusiness.com/articles/2013/01/18/weekend-hackathon-set-for-belfast) - Ulster Business
-  * 21/1/13: [Belfast Hub for Global Games Jam](http://www.newsletter.co.uk/news/business/local-businesses/belfast-hub-for-global-games-jam-1-4705625) - Newsletter
-  * 23/1/13: [Global Game Jam: Belfast to take part for first time](http://www.bbc.co.uk/news/uk-northern-ireland-21142798) - BBC News
-  * 24/1/13: [Global Game Jam Hits Belfast ](http://www.followingthenerd.com/video-games/global-game-jam-hits-belfast/?utm_source=rss&utm_medium=rss&utm_campaign=global-game-jam-hits-belfast)- Following The Nerd
-  * 25/1/13: [CMR at #BLOC54](http://cmr.ulster.ac.uk/cmr-at-bloc54/) - University of Ulster's Centre for Media Research
-  * 7/2/13: [Tech Britain Coverage](http://techbritain.com/videos/watch/43) - TechBritain
-  * 9/2/13: [Raspberry Pi Jam & Coder Dojo Belfast ](http://coderkidz.com/2013/02/raspberry-pi-jam-coder-dojo-belfast/)- CoderKidz
-  * 24/2/13: [Belfast Gamecraft Results](http://dublingamecraft.com/2013/02/24/belfat-gamecraft-winners/) - Dublin Gamecraft
-  * 18/3/13: [BMC Makes it Happen at CoderDojo](http://syncni.com/news/2/1574/belfast-metropolitan-college-makes-it-happen-with-coderdojo-summit/tab/1356#.UW_zakmDg9d) - SyncNI
-  * 15/5/13: [Innovation in Northern Ireland: Nesta in Belfast](http://www.nesta.org.uk/events/nesta_road_shows/assets/events/innovation_in_northern_ireland_nesta_in_belfast) - Nesta
-  * 5/9/13: [Experimenting with ICT in Belfast ](http://www.agendani.com/experimenting-with-ict-in-belfast/)- AgendaNI
-
-## 2014
-  * 12/1/14: [Belfast's Leading tech startups](http://www.theguardian.com/uk-news/2014/jan/12/belfast-leading-tech-startups)- The Guardian
-  * 17/1/14: [Technology giant Intel joins forces with Belfast 'hackerspace' Farset Labs](http://www.belfasttelegraph.co.uk/life/technology-gadgets/technology-giant-intel-joins-forces-with-belfast-hackerspace-farset-labs-29926303.html)- Belfast Telegraph
-  * 17/1/14: [Intel Joins Farset Labs to Collaborate with the Local Technology Community](http://newsroom.intel.com/community/en_ie/blog/2014/01/17/intel-joins-farset-labs-to-collaborate-with-the-local-technology-community)- Intel Newsroom
 
 # Press Packs
 

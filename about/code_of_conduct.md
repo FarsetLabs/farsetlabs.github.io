@@ -5,50 +5,11 @@ category : pages
 toc : True
 tags : []
 ---
-
-# Summary of Code of Conduct 
-
-While in Farset Labs, you, the members and visitors, are expected to comply to the following Code.
-
-### Access
-
- * Do not lend access cards or keys to anyone;
- * Do not try to access areas you are not allowed to.
-
-### Projects &amp; Equipment
-
- * Do not take others’ equipment or materials without permission;
- * Do not use equipment:
-    * Without training;
-    * If it is unsafe to do so;
-    * That others are currently using;
-    * That is marked as out of order or not to be used.
- * Store your projects and materials safely and with care;
- * Do not bring or use banned or unsafe materials or equipment.
-
-### Housekeeping
-
- * Tidy after yourself;
- * Power down and store equipment properly after use;
- * Keep the space clean, tidy, and pleasant;
- * Live and let live.
- * Park safely &amp; respect the tenants at Weavers’ Court
-
-### Health &amp; Safety
-
- * Do not try to disable safety guards or preventative measures;
- * Be safe and reasonable in everything you do;
- * Report and repair any accidents or damage.
-
-# Code of Conduct
-
-Below is the full text of the Farset Labs Code of Conduct for Members, which all members agree to upon joining Farset Labs. It is available to all members in other formats (See Section 3.2.2) on request.
-
 ## Code of Conduct for Members
 
 This document contains the expected behaviours and obligations that members of Farset Labs are associated with, in addition to a list of banned behaviour and materials. This document references itself as “the Code”, the “Code of Conduct”, and “the Code of Conduct for Members”. The primary location of Farset Labs is referred to as “the space”, “Farset Labs”, and “Farset Labs property”.
 
-The summary document, Section 4, is to be provided and made known to members without request.
+A summary of this code is integrated as part of the general [Rules](rules_and_policies.html) page
 
 ### 1.1 Who the Code applies to
 

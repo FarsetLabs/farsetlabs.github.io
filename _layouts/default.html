@@ -6,27 +6,39 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="{{site.keywords}}">
-    <meta name="description" content="{{site.description}}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.social.twitter }}">
     <meta name="twitter:creator" content="@{{ site.social.twitter }}">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="Farset Labs">
+    <meta property="fb:app_id" content="218300458266006">
+    <meta property="article:publisher" content="https://www.facebook.com/FarsetLabs">
     {% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
     {% else %}
     <meta name="twitter:title" content="{{ site.title }}">
+    <meta property="og:title" content="{{ site.title }}">
     {% endif %}
     {% if page.url %}
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
     {% if page.description %}
+    <meta name="description" content="{{page.description}}">
     <meta name="twitter:description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}">
     {% else %}
+    <meta name="description" content="{{site.description}}">
     <meta name="twitter:description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/{{ page.image }}">
+    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo.png">
+    <meta property="og:image" content="{{ site.url }}/assets/img/full-banner.png">
     {% endif %}
 
     <title>{{ page.title }}</title>
@@ -57,9 +69,10 @@
                 </div>
                 <div class="small-6 columns">
                     <ul class="inline-icons inline-list right">
-                      <li><a href="//www.github.com/{{site.social.github}}"><i class="social foundicon-github"></i></a></li>
-                      <li><a href="//www.twitter.com/{{site.social.twitter}}"><i class="social foundicon-twitter"></i></a></li>
-                      <li><a href="//www.facebook.com/{{site.social.facebook}}"><i class="social foundicon-facebook"></i></a></li>
+                      <li><a href="//www.github.com/{{site.social.github}}" rel="publisher"><i class="social foundicon-github"></i></a></li>
+                      <li><a href="//www.twitter.com/{{site.social.twitter}}" rel="publisher"><i class="social foundicon-twitter"></i></a></li>
+                      <li><a href="//www.facebook.com/{{site.social.facebook}}" rel="publisher"><i class="social foundicon-facebook"></i></a></li>
+                      <li><a href="https://plus.google.com/+{{site.social.gplus}}" rel="publisher"><i class="social foundicon-google-plus"></i></a></li>
                       <li><a href="//www.flickr.com/{{site.social.flickr}}"><i class="social foundicon-flickr"></i></a></li>
                       <li><a href={{site.social.blogfeed}}><i class="social foundicon-rss"></i></a></li>
                     </ul>
@@ -71,7 +84,7 @@
             <div class="row">
                 <div class="small-12 columns">
                     <div class="contain-to-grid sticky">
-                    <nav class="top-bar" data-topbar>
+                    <nav class="top-bar" data-topbar data-options="mobile_show_parent_link: true">
                         <section class="top-bar-section">
                             <ul class="title-area">
                               <li class="name">
@@ -90,8 +103,15 @@
                                             {{ p.title }}
                                           </a>
                                         <ul class="dropdown">
-                                          {% for child in sorted_pages | sort:"name" %}
-                                            {% if child.parent == p.title %}
+                                          {% for i_weight in (1..10) %}
+                                            {% for child in sorted_pages |  sort:"name" %}
+                                              {% if child.parent == p.title and child.weight == i_weight %}
+                                                <li><a href={{child.url}}>{{child.title}}</a></li>
+                                              {% endif %}
+                                            {% endfor %}
+                                          {% endfor %}
+                                          {% for child in sorted_pages |  sort:"name" %}
+                                            {% if child.parent == p.title and child.weight == None %}
                                               <li><a href={{child.url}}>{{child.title}}</a></li>
                                             {% endif %}
                                           {% endfor %}
