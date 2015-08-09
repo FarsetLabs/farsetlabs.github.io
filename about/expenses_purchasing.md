@@ -23,12 +23,14 @@ The table below outlines the number of directors required to approve any given t
 
 
 Exceptions to approval limits:
+
 * Payment of expected bills (Rent, Gas, Electricity, etc.)
 * Recurring and expected purchases (Tuck shop stock)
 * Emergency purchases (Purchases where there is no choice, the requisite number of directors are unavailable, and the purchase cannot be delayed. e.g. Plumbers)
 
 # Spending of Money by NEMs
 NEMs cannot spend company money without prior approval by company directors. When money is requested to be spent, there are two options:
+
 * Submission of a purchase request via email to admin@farsetlabs.org.uk 
 The item will be purchased by the directors if approved.
 * Purchase of a pre-approved item using personal funds, followed by submission of an expenses claim on Xero.
