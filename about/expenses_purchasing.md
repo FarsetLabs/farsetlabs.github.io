@@ -72,6 +72,7 @@ The repayment table for travel expenses is shown below.
 
 # Repayment Guidelines
 It is the responsibility of those approving and issuing reimbursements to ensure that:
+
 * Expenses incurred are in the best interests of the Charity.
 * Approval has been sought within an appropriate time frame.
 * Reasonable effort has gone to minimise cost to the Charity.
