@@ -43,7 +43,11 @@ We don't have the resources available to provide everyone with a machine, so if 
 
 Only those registered may attend, including mentors. For full details, see [Farset Labs' Child Protection Policy](/about/child_protection.html). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
 
-##I can't make it, what can I do to help?
+## Can I join as a mentor/volunteer?
+
+Yes! We always appreciate more hands on deck, but we do need to put people through a short induction/training programme first, so get in touch with us on [dojo@farsetlabs.org.uk](mailto:dojo@farsetlabs.org.uk) and we can add you to the next induction stream.
+
+## I can't make it, what can I do to help?
 
 If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojo/110), [Ballymena](https://zen.coderdojo.com/dojo/274), or the brand new Dojo in [Newry](https://zen.coderdojo.com/dojo/45). 
 
