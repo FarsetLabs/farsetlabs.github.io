@@ -51,7 +51,5 @@ Yes! We always appreciate more hands on deck, but we do need to put people throu
 
 If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojo/110), [Ballymena](https://zen.coderdojo.com/dojo/274), or the brand new Dojo in [Newry](https://zen.coderdojo.com/dojo/45). 
 
-If you just want to support our event here at Farset Labs, please consider making a donation to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
-
-
+If you just want to support our event here at Farset Labs, please consider making a [donation](/about/donations.html) to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
 
