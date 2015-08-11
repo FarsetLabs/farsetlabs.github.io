@@ -15,9 +15,11 @@ CoderDojo also puts a strong emphasis on open source and free software, and has 
 
 It also provides essential teaching and mentorship experience for budding software developers; after all, to teach is to learn twice! And you don't have to be a hardcore code-hacker to mentor; anyone can help to guide these kids through the processes of problem solving, breaking down tasks, thinking in a stepwise fashion, or just picking out the killer-spelling-mistakes like variable names or missing semi-colons!
 
-For more information about Coder Dojo, check out the [CoderDojo global webpage](https://coderdojo.com/).
+For more information about Coder Dojo, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojo/279).
 
-<div style="width:100%; text-align:left;" ><iframe src="https://www.eventbrite.co.uk/tickets-external?eid=5770231919&amp;ref=etckt" frameborder="0" height="398" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"> </iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.co.uk/r/etckt">Online event registration</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://fsl-dojo.eventbrite.co.uk/?ref=etckt">Farset Labs CoderDojo</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.co.uk?ref=etckt">Eventbrite</a></div></div>
+You can also follow us on [Twitter](http://twitter.com/farsetdojo) and [Facebook](http://facebook.com/farsetdojo)
+
+<div style="width:100%; text-align:left;" ><iframe src="https://www.eventbrite.co.uk/tickets-external?eid=18085833214&amp;ref=etckt" frameborder="0" height="398" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"> </iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.co.uk/r/etckt">Online event registration</a><span style="color:#ddd;"> for </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://fsl-dojo.eventbrite.co.uk/?ref=etckt">Farset Labs CoderDojo</a> <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.co.uk?ref=etckt">Eventbrite</a></div></div>
 
 #FAQs
 
@@ -41,11 +43,13 @@ We don't have the resources available to provide everyone with a machine, so if 
 
 Only those registered may attend, including mentors. For full details, see [Farset Labs' Child Protection Policy](/about/child_protection.html). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
 
-##I can't make it, what can I do to help?
+## Can I join as a mentor/volunteer?
+
+Yes! We always appreciate more hands on deck, but we do need to put people through a short induction/training programme first, so get in touch with us on [dojo@farsetlabs.org.uk](mailto:dojo@farsetlabs.org.uk) and we can add you to the next induction stream.
+
+## I can't make it, what can I do to help?
 
 If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojo/110), [Ballymena](https://zen.coderdojo.com/dojo/274), or the brand new Dojo in [Newry](https://zen.coderdojo.com/dojo/45). 
 
-If you just want to support our event here at Farset Labs, please consider making a donation to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
-
-
+If you just want to support our event here at Farset Labs, please consider making a [donation](/about/donations.html) to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
 
