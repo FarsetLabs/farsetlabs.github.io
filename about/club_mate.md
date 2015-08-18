@@ -7,7 +7,7 @@ parent: "About"
 # Club-Mate
 
 <img src="https://clubmate-uk.com/sites/default/files/field/image/club-mate-330.jpg" style="width: 350px;"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="mate_stock.js"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="/assets/js/mate_stock.js"/>
 
 
 [Club-Mate](http://www.clubmate.de/) is the refreshing hacker drink originating from Germany. It uses an extract from the Yerba-tea plant native to South America. [See why](http://motherboard.vice.com/blog/how-a-german-soda-became-hackers-fuel-of-choice) it's the popular drink of choice among hacker sub-communities.
