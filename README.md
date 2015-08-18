@@ -22,8 +22,14 @@ bundler with `$ gem install bundler`.
 
 All contributions to the website and content should be done through a branch.
 You should follow the [Feature Branch Workflow][feature-branch-workflow] when
-contributing. Our main working branch is `develop`, please branch from here
-for your changes.
+contributing.
+
+We have two main branches:
+
+- `master` - Represents the [live website][farsetlabs]
+- `develop` - Ongoing improvements to the site that are not live yet
+
+Our main working branch is `develop`, please branch from here for your changes.
 
 If you do not have access to our repository, please fork us on Github and
 submit your branch through a pull request.
