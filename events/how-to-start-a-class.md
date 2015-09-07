@@ -27,6 +27,7 @@ Currently hosted user groups are:
 * [BelfastJS](http://www.meetup.com/Belfast-JS/)
 * [Wordpress NI](http://www.meetup.com/Northern-Ireland-WordPress-Meetup/)
 * [Belfast Google Developer Group](https://developers.google.com/groups/chapter/117880769522295112261/)
+* [Cryptoparty Belfast](https://www.cryptoparty.in/belfast)
 
 ## "Have you guys thought about running....?"
 If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
