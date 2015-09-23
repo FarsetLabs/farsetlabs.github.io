@@ -45,8 +45,16 @@ We also sell by the crate for larger orders, and are happy to sell onto the publ
       <td id="colaremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>Winter 300ml</td>
+      <td>Winter 500ml</td>
       <td id="winterremaining" style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td>IceT 500ml</td>
+      <td id="icetremaining" style="text-align: center">0</td>
+    </tr>
+    <tr>
+      <td>Granat 500ml</td>
+      <td id="granatremaining" style="text-align: center">0</td>
     </tr>
   </tbody>
 </table>
