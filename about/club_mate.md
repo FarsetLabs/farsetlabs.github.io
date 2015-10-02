@@ -14,13 +14,13 @@ parent: "About"
 
 ## How to get
 
-Farset Labs imports Club-Mate for its members, and it is sold by the bottle at the tuckshop on-site! We usually have the following in stock:
+Farset Labs imports Club-Mate for its members, it is sold by the bottle at the tuckshop on-site! 
 
-- Club-Mate Regular (330ml/500ml)
-- Club-Mate Cola (330ml)
-- Club-Mate Winter Edition (500ml)
+We also sell by the crate for larger orders, and are happy to sell onto the public! If you would like to order, please email [conor@farsetlabs.org.uk](mailto:conor@farsetlabs.org.uk) with your request. Our live stock tracker for crate orders is below.
 
-We also sell by the crate for larger orders, and are happy to sell onto the public! If you would like to order, please email [conor@farsetlabs.org.uk](mailto:conor@farsetlabs.org.uk) with your request.
+When our buy-ins are open, you can join in by filling in the form located [here](https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform).
+If you'd like to be kept updated regarding our buy-ins, you can join our mailing list [here](https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform).
+
 
 ## Live Stock
 
@@ -33,27 +33,27 @@ We also sell by the crate for larger orders, and are happy to sell onto the publ
   </thead>
   <tbody>
     <tr>
-      <td>Regular 300ml</td>
+      <td>Regular 24x300ml (£33)</td>
       <td id="matesremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>Regular 500ml</td>
+      <td>Regular 20x500ml (£35)</td>
       <td id="matelremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>Cola 330ml</td>
+      <td>Cola 24x330ml (£33)</td>
       <td id="colaremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>Winter 500ml</td>
+      <td>Winter 20x500ml (£35)</td>
       <td id="winterremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>IceT 500ml</td>
+      <td>IceT 20x500ml (£35)</td>
       <td id="icetremaining" style="text-align: center">0</td>
     </tr>
     <tr>
-      <td>Granat 500ml</td>
+      <td>Granat 20x500ml (£35)</td>
       <td id="granatremaining" style="text-align: center">0</td>
     </tr>
   </tbody>
