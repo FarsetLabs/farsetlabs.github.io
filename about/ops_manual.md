@@ -95,6 +95,10 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * Maintenance of Documentation on the networks and systems of the space including authentication procedures for all core systems within the space.
 * Outreach:
   * PoC for internal and external outreach programme development and partnerships, including overall monitoring of CoderDojo and Raspberry Jam programmes
+* Development:
+  * PoC for activities to grow membership and member systems, and onboarding new members.
+  * PoC for industry relations and activities to develop funding and revenues.
+  * PoC for developing Farset's audiences, brand and reach.
 
 # Member Role
 
