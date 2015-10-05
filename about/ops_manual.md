@@ -73,11 +73,9 @@ Complaints about the actions of a NEM can and should be raised as per the genera
 
 ## Proposed Fields and Responsibilities
 * Events:
-  * PoC for booking event space, event management, etc.
-  * Ensuring event space is useable for relevant events and co-working overflow.
-  * Ensuring appropriate and timely pre- and post- event marketing.
-  * Ensuring appropriate hosting of external visitors.
-  * While the responsibility for high level inter-organisational relations lies with the Directors, responsibility for some liaison with external organisations may be adopted at the discretion of the NEM.
+  * Co-ordinating with Directors to handle Events and Event-space related communications.
+  * Managing scheduling conflicts and availability for Farset Labs Events proposals, from members and non-members.
+  * Co-ordinating Event promotion through all Farset Labs current online media - Blog, Twitter, Facebook pages, Facebook group, and Discourse. This may require creation of online promotion materials where necessary, but it is the responsibility of Event organisers to create and/or provide promotion materials for their own event. 
 * Community: 
   * PoC for internal community engagement
   * Responsible for internal social events and member relations
@@ -92,8 +90,6 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * Attempting to prevent conflict between member project resource requirements.  
   * Coordinates Project Room changes
   * Along with the Projects NEM, rives the function and layout of the Project Room to suit the needs of the Farset Community.
-  
-
 * Digital Infrastructure:
   * Comms, CCTV, Network, maintenance of online presences.
   * Maintenance of Documentation on the networks and systems of the space including authentication procedures for all core systems within the space.
