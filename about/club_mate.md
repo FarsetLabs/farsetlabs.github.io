@@ -10,16 +10,23 @@ parent: "About"
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="/assets/js/mate_stock.js"/>
 
 
-[Club-Mate](http://www.clubmate.de/) is the refreshing hacker drink originating from Germany. It uses an extract from the Yerba-tea plant native to South America. [See why](http://motherboard.vice.com/blog/how-a-german-soda-became-hackers-fuel-of-choice) it's the popular drink of choice among hacker sub-communities.
+[Club-Mate] is the refreshing hacker drink originating from Germany. It uses
+an extract from the Yerba-tea plant native to South America.
+[See why][fuel-of-choice] it's the popular drink of choice among hacker
+sub-communities.
 
 ## How to get
 
-Farset Labs imports Club-Mate for its members, it is sold by the bottle at the tuckshop on-site! 
+Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
+tuckshop on-site! 
 
-We also sell by the crate for larger orders, and are happy to sell onto the public! If you would like to order, please email [conor@farsetlabs.org.uk](mailto:conor@farsetlabs.org.uk) with your request. Our live stock tracker for crate orders is below.
+We also sell by the crate for larger orders, and are happy to sell onto the
+public! If you would like to order, please email <conor@farsetlabs.org.uk>
+with your request. Our live stock tracker for crate orders is below.
 
-When our buy-ins are open, you can join in by filling in the form located [here](https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform).
-If you'd like to be kept updated regarding our buy-ins, you can join our mailing list [here](https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform).
+When our buy-ins are open, you can join in by filling in the [form]. If you'd
+like to be kept updated regarding our buy-ins, you can
+join our [mailing list].
 
 
 ## Live Stock
@@ -58,3 +65,9 @@ If you'd like to be kept updated regarding our buy-ins, you can join our mailing
     </tr>
   </tbody>
 </table>
+
+
+  [Club-mate]: http://www.clubmate.de/
+  [fuel-of-choice]: http://motherboard.vice.com/blog/how-a-german-soda-became-hackers-fuel-of-choice
+  [form]: https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform
+  [mailing list]: https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform
