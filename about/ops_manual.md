@@ -71,7 +71,7 @@ Removal of NEMs from their positions is a Directorship-level decision. A vote of
 
 Complaints about the actions of a NEM can and should be raised as per the general procedures as set out in the [Code of Conduct](code_of_conduct.html)
 
-## Proposed Fields and Responsibilities
+## Fields and Responsibilities
 * Events:
   * Co-ordinating with Directors to handle Events and Event-space related communications.
   * Managing scheduling conflicts and availability for Farset Labs Events proposals, from members and non-members.
@@ -80,11 +80,6 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * PoC for internal community engagement
   * Responsible for internal social events and member relations
   * PoC for member induction and 'soft landing' discussions
-* Projects:
-  * PoC for project storage, resources, and documentation
-  * Attempting to prevent conflict between member projects
-  * Driving project documentation and PR.
-  * Along with the Projects Room NEM, drives the function and layout of the Project Room to suit the needs of the Farset Community.
 * Project-Room:
   * Management and monitoring of Project equipment and resources including but not limited to 3D printer.
   * Attempting to prevent conflict between member project resource requirements.  
