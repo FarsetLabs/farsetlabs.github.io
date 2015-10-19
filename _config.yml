@@ -139,4 +139,12 @@ officers:
     twitter: "gbaman1"
     website: "http://pi.gbaman.info/"
 
+  - name: Ben Bland
+    username: bland
+    year: 2015 -
+    title: "Development NEM"
+    blurb: "Digital strategist (purveyor of fine bullshit). 10 years’ web marcomms & business. Loves science, technology, ecology & travel. Writer, filmmaker, photographer"
+    email: "development@farsetlabs.org.uk"
+    twitter: "ben_bland"
+    discourse: "ben"
 
