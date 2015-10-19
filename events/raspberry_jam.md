@@ -31,6 +31,8 @@ Hosted by [Andrew Mulholland](http://pi.gbaman.info/)
    
 Please make a small donation to maintaining Farset Labs for each training session (Farset Lab members are free while a suggested donation of £5 is recommended from non members) - donations can be made on the day.
 
+[Book Tickets](http://bit.ly/farsetjam)
+
 <div style="width:100%; text-align:left;" >
 <iframe  src="//eventbrite.co.uk/tickets-external?eid=16545550186&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 </div>
