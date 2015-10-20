@@ -9,19 +9,21 @@ weight: 4
 tags : []
 ---
 
-# Terms
+# Sponsored Membership Policy
+
+## Terms
 
 * FSL - Farset Labs
 * SO - Sponsoring Organisation
 
-# Context
+## Context
 
 An organisation may wish to sponsor FSL memberships. That SO may
 negotiate what membership levels (Student, Standard, Freelance) or
 extras (Desk Rental) with FSL, and the price may be discounted for bulk
 sponsorships at the discretion of FSL management.
 
-# General Points
+## General Points
 
 There is no limit on the holding duration of sponsored memberships,
 however transfers of sponsored membership to third parties must be
@@ -46,15 +48,14 @@ out with no notification, FSL reserves the right to refuse a
 notification of registration that would take the SO over their
 sponsorship quota.
 
-# Registration Process
+## Registration Process
 
 1.  SO selects persons from its cohort / target audience by selection
     or advertising of the sponsored memberships. FSL will happily assist
     in the promotion of this, and the SO may ask to have the sponsorship
     presented on the FSL website / promotional materials. 
 
-2.  SO notifies FSL via
-    [admin@farsetlabs.org.uk](mailto:admin@farsetlabs.org.uk)
+2.  SO notifies FSL via [join@farsetlabs.org.uk](mailto:join@farsetlabs.org.uk)
     using the subject “Sponsored Membership Notification” including: 
     1.  Name of sponsored member 
     2.  Contact Email of sponsored member 
@@ -67,7 +68,7 @@ sponsorship quota.
     member via their contact address, including standard member
     onboarding notification 
 
-# Payment Process
+## Payment Process
 
 There are three options for payment of sponsored memberships. Once the
 payment process has been agreed upon, it cannot be changed without
@@ -86,7 +87,7 @@ renegotiation of the sponsorship agreement.
         memberships registered / active that month.
     -   New registrations will be rounded up/down to the nearest month. 
 
-# Contact
+## Contact
 
 For any enquiries about sponsoring memberships to Farset Labs, please 
-contact [admin@farsetlabs.org.uk](mailto:admin@farsetlabs.org.uk)
+contact [join@farsetlabs.org.uk](mailto:join@farsetlabs.org.uk)
