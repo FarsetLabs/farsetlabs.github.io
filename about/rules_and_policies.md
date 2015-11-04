@@ -95,3 +95,4 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 * [Child Protection Policy](child_protection.html)
 * [Equality Policy](equality.html)
 * [Hardware Donation License](hardware_donation_license.html)
+* [Sponsored Membership Policy](sponsored_membership_policy.html)
