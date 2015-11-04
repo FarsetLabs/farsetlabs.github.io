@@ -13,17 +13,6 @@ Programme Partners contribute to specific projects and initiatives.
 
 # Corporate Members
 
-## Intel 
-
-<div style="float: right"><a href="http://aepona.intel.com/"><img src="https://blog.farsetlabs.org.uk/wordpress/wp-content/uploads/2012/04/intel_logo-300x227.jpg"/></a></div>
-
-Intel recently acquired Belfast based Aepona, whose awarding-winning software
-platform bridges the enterprise with the network, enabling Service Providers
-to offer communications, context, commerce and control features that enrich
-business applications using cloud-based APIs. This allows Service Providers to
-monetize their assets in new ways, and enterprises to easily embed mobile
-intelligence into a diverse range of applications.
-
 ## Tibus Connect 
 
 <div style="float: right"><a href="http://www.tibus.com"><img src="https://secure.iia.ie/filestore/images/member/tibus.jpg"/></a></div>
@@ -42,7 +31,6 @@ internet marketplace.
 <div style="float: right"><a href="http://www.abpni.co.uk"><img src="{{site.base}}/assets/img/corp_logos/abpni_300.png"/></a></div>
 
 With its headquarters in Carryduff and engineers working throughout Northern Ireland, [ABPNI Computer Solutions](http://www.abpni.co.uk) provides first-class IT repair and support services, as well as managed network solutions to home and business users. We can provide a wide range of solutions to combat all of your computer & broadband related problems as well as supply new and refurbished computer equipment.
-
 
 ## Weavers Court Business Park 
 
