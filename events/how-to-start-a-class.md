@@ -8,7 +8,7 @@ layout: default
 
 The Eventspace and the Workshop can both be booked for private events, and the lounge can be booked for private meetings.
 
-If you'd like to book any of these spaces, first check the regular events calendar to make sure they're not in use. 
+If you'd like to book any of these spaces, first check the [room availability calendar](/events/index.html) to make sure they're not in use. 
 
 Then contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to discuss dates and fees.
 
