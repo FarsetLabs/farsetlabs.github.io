@@ -9,9 +9,18 @@ layout: default
 
 # Booking for a private event
 
-The Eventspace and the Workshop can both be booked for private events, and the lounge can be booked for private meetings.
+The [Events Room](/about/facility.html#events-room) and the [Project Room](/about/facility.html#project-room) can be booked for private events, and the lounge may be booked for private meetings.
 
 If you'd like to book any of these spaces, first check the [room availability calendar](/events/index.html) to make sure they're not in use. 
+
+Guide Prices:
+
+* £25/hr - Event Space - 2hr min
+* £15/hr - Project Room - 2hr min
+* £10/hr - Lounge - 1hr min
+
+Discounts may be available for voluntary organisations, charities, and community groups operating in the South Belfast area depending on the relevance of the activity to the objects of Farset Labs.
+
 
 Then contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to discuss dates and fees.
 
@@ -35,5 +44,5 @@ Currently hosted user groups are:
 ## "Have you guys thought about running....?"
 If you've got an idea or suggestion for an event or programme that could be run at Farset Labs, don't hesitate to get in touch about your plans. We love encouraging and enabling people to put on interesting and exciting events in the space. 
 
-If you're a member and you want to run something, just start discussing it on [Discourse](https://discourse.farsetlabs.org.uk/category/events), get a plan together, and fire an email in to [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) (or any of the [directors](/about/index.html#directors)) to book it into the calendar.
+If you're a member and you want to run something, just start discussing it on [Discourse](https://discourse.farsetlabs.org.uk/category/events), get a plan together, and fire an email in to [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to book it into the calendar.
 
