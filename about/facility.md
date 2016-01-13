@@ -75,8 +75,5 @@ Unless authorisation have been sought from the [Events NEM](/about/index.html) a
 
 The unique and inspiring events room can be booked for private functions for outside organisations, companies, and individuals, including break out access to the rest of the space, projector and AV facilities, etc. 
 
-Fees for hire are negotiated on a case by case basis, off a baseline price of £200 per session (morning, afternoon, evening) and £300 for any two consecutive sessions. Discounts are provided for voluntary organisations, charities, and community groups operating in the South Belfast area.
-
-To enquire about booking, contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk)
-
+See [Here](/events/how-to-start-a-class.html) for details of how to book the space.
 
