@@ -28,6 +28,11 @@ Exceptions to approval limits:
 * Recurring and expected purchases (Tuck shop stock)
 * Emergency purchases (Purchases where there is no choice, the requisite number of directors are unavailable, and the purchase cannot be delayed. e.g. Plumbers)
 
+## Spending Related to Externally Funded Programmes
+
+In cases where funding and approval are sought and received from an external body and based on a reasonably itemised proposed budget, which is agreed by the majority of Directors, and does not include core company funds, approval to purchase is already implied when actioning said budget.
+
+
 # Spending of Money by NEMs
 NEMs cannot spend company money without prior approval by company directors. When money is requested to be spent, there are two options:
 
