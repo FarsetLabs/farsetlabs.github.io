@@ -79,6 +79,17 @@ officers:
     discourse: "conor"
     linkedin: "conorrobinson"
 
+  - name: Pip Shea
+    username: shealo
+    year: 2015 -
+    title: "Director"
+    blurb: "Digital Media Researcher, Designer, and Educator."
+    email: "pip@farsetlabs.org.uk"
+    discourse: "pip"
+    twitter: "shealo"
+    website: "http://www.pipshea.net/"
+    linkedin: "pipshea"
+
   - name: Daniel Porter
     username: porter
     year: 2014 -
