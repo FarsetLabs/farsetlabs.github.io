@@ -9,30 +9,29 @@ toc: False
 # Facilities & Resources
 
 Farset Labs is a [makerspace](https://en.wikipedia.org/wiki/Hackerspace) that
-provides a place for creativity and technological tinkering. We're open to
+provides a place for creativity and technological tinkering. Membership is open to
 everyone, no matter what you want to do, and we welcome people from all walks
 of life to use our space, come to our events, get involved and foster the maker community in Northern Ireland.
 
 For a low [membership fee](/membership/index.html), students, hobbyists, and all members of the local community will be able to come together, hack at projects, build stuff and bring some life to Belfast!
 
-Farset Labs provides a wide range of communal resources, so you can play and build as you wish. These include:
+Farset Labs provides members with a wide range of communal resources, so members can play and build as you wish. These include:
 
   * Dedicated high-speed fibre internet;
   * Networking, server resources and computers of all sorts such as Raspberry Pis, iMacs, and even BBC Micros;
   * A hefty collection of classic gaming consoles;
-  * Various robots and mobile platforms including a quadcopter;
+  * Various robots and mobile platforms;
   * Kitchen and lounge; 
-  * A growing library of tools including: 3D printer, electronics kits, solder stations, part libraries, basic metal and woodworking facilities
+  * A growing library of tools including: 3D printer, vinyl cutter, electronics kits, solder stations, part libraries;
+  * Basic metal and woodworking facilities (light-duty pedestal drill and basic hand tools)
 
-Typical projects and events for all skill levels include:
+Typical projects and events include:
 
   * Electronics, communications and computer science;
   * Manufacturing, making & craft;
-  * Light metalworking & woodworking;
-  * Biohacking & chemistry;
-  * Art, Music & Sculpture;
-  * Local user & interest groups;
-  * _**anything and everything you want to do!**_
+  * Brewing;
+  * Art, music & sculpture;
+  * Local user & interest groups
 
 We provide space, tools and community. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please (within reason!). Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a [Code of Conduct](/about/code_of_conduct.html) to avoid injury, upset... and fires.
 
@@ -43,16 +42,16 @@ Farset Labs has capacity for most projects, big or small. Three main rooms cover
 
 The Event Room, and potentially other areas, can be booked for members private events/meetings/projects, but are generally
 available on a 'fair use' basis.
-Unless authorisation have been sought from the [Events NEM](/about/index.html) and it has been booked into the [Calendar](/events/index.html), member events and 'reservations' of spaces within Farset Labs are non-binding and non-exclusive.
+Unless authorisation has been sought from the [Events NEM](/about/index.html) and it has been booked into the [Calendar](/events/index.html), member events and 'reservations' of spaces within Farset Labs are non-binding and non-exclusive.
 
 ## Co-Working Room
 
-![](/about/coworking_room_pano.jpg)
+![](/about/Coworking_pano_800.jpg)
 
   * Flexible hot-desking and several computers, all on first-come-first-served basis.
   * Desks to hire from £100 per month.
   * Printing, photocopying and other office facilities.
-  * A top class library of technical and non technical material (and a Wired UK Subscription)
+  * A top class library of technical and non technical material (and a Wired UK subscription)
 
 ## Events Room
 
@@ -65,8 +64,10 @@ Unless authorisation have been sought from the [Events NEM](/about/index.html) a
 ## Project Room
 ![](/about/project_room_pano.jpg)
 
-  * Fabrication machines and hand-tools.
-  * Library of tech & craft components.
+  * 3D printer and vinyl cutter.
+  * Electronic test equipment and soldering irons.
+  * Light-duty pedestal drill and basic hand tools.
+  * Library of electronic & craft components.
   * Mobile workbenches.
   * Project storage shelving and boxes.
 
@@ -75,5 +76,5 @@ Unless authorisation have been sought from the [Events NEM](/about/index.html) a
 
 The unique and inspiring events room can be booked for private functions for outside organisations, companies, and individuals, including break out access to the rest of the space, projector and AV facilities, etc. 
 
-See [Here](/events/how-to-start-a-class.html) for details of how to book the space.
+See [here](/events/how-to-start-a-class.html) for details of how to book the space.
 
