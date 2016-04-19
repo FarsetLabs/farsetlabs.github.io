@@ -21,7 +21,7 @@ Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
 tuckshop on-site! 
 
 We also sell by the crate for larger orders, and are happy to sell onto the
-public! If you would like to order, please email <conor@farsetlabs.org.uk>
+public! If you would like to order, please email <info@farsetlabs.org.uk>
 with your request. Our live stock tracker for crate orders is below.
 
 When our buy-ins are open, you can join in by filling in the [form]. If you'd
