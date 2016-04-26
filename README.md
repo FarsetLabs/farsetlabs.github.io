@@ -24,12 +24,11 @@ All contributions to the website and content should be done through a branch.
 You should follow the [Feature Branch Workflow][feature-branch-workflow] when
 contributing.
 
-We have two main branches:
+We have one main branch, `master`, which represents the
+[live website][farsetlabs]. Ongoing improvements to the site that are not live
+yet live in feature branches, either on this repository or its forks.
 
-- `master` - Represents the [live website][farsetlabs]
-- `develop` - Ongoing improvements to the site that are not live yet
-
-Our main working branch is `develop`, please branch from here for your changes.
+Please branch from the latest `master` for your changes.
 
 If you do not have access to our repository, please fork us on Github and
 submit your branch through a pull request.
