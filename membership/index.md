@@ -34,7 +34,7 @@ There are three Individual Membership rates to match the most common uses of the
 -   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
 -   **Freelancers** (£35pm); consistently in the space, regularly hot-desking with ongoing long term projects
 
-All members have voting and room booking[^3] privilidges regardless of level.
+All members have voting and room booking[^3] privileges regardless of level.
 
 If you're not sure what category you fall in to, give us a shout on <join@farsetlabs.org.uk> and we'll talk it through.
 
