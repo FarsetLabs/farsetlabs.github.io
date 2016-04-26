@@ -34,6 +34,8 @@ There are three Individual Membership rates to match the most common uses of the
 -   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
 -   **Freelancers** (£35pm); consistently in the space, regularly hot-desking with ongoing long term projects
 
+All members have voting and room booking[^3] privilidges regardless of level.
+
 If you're not sure what category you fall in to, give us a shout on <join@farsetlabs.org.uk> and we'll talk it through.
 
 <form class="center small-8" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -61,7 +63,7 @@ If you're not sure what category you fall in to, give us a shout on <join@farset
 </tr>
 <tr>
   <td colspan="2">
-    <p>All Membership Dues go towards the core operating costs</p>
+    <p>All Membership Dues go toward core operating costs</p>
   </td>
 </tr>
 </table>
@@ -69,19 +71,13 @@ If you're not sure what category you fall in to, give us a shout on <join@farset
 
 If you don’t wish to use PayPal, contact us on <join@farsetlabs.org.uk> to discuss alternative payment schemes such as Invoicing, BACS, Standing Orders, or Cash balances.
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
-Sponsored Memberships
-=====================
+Day Passes {#daypass}
+====================
+If you're just popping through the area or occasionally looking for a city-pad for the day, we also offer Day/Evening passes from just £3.
 
-You may be eligible for sponsored membership if you're a member / employee / student of the following organisations:
-
-* Queen's University Belfast Students Union- [Apply here](http://www.qubsu.org/EnterpriseSU/Opportunities/FarsetLabs/)
-
-If your [company](/about/corporates), organisation or institution is interested in sponsoring memberships to Farset Labs for your community, as prizes, opportunities
-or otherwise, please review our [Sponsored Membership Policy](/about/sponsored_membership_policy.html) and contact us on <join@farsetlabs.org.uk>
-
-
+<a href="/hotdesk/index.html" class="large button expand round">Get your Day Pass Now</a>
 
 ------------------------------------------------------------------------
 
@@ -99,10 +95,23 @@ Your donations will go towards the upkeep of the space and it's community and if
   <input type="submit" name="submit" class="large button round expand" value="Support us">
 </form>
 
+-------------------------------------------------------------------------
+
+Sponsored Memberships
+=====================
+
+You may be eligible for sponsored membership if you're a member / employee / student of the following organisations:
+
+* Queen's University Belfast Students Union- [Apply here](http://www.qubsu.org/EnterpriseSU/Opportunities/FarsetLabs/)
+
+If your [company](/about/corporates), organisation or institution is interested in sponsoring memberships to Farset Labs for your community, as prizes, opportunities
+or otherwise, please review our [Sponsored Membership Policy](/about/sponsored_membership_policy.html) and contact us on <join@farsetlabs.org.uk>
 
 ------------------------------------------------------------------------
 
 [^1]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate
 
 [^2]: All student members must hold current, valid, student ID’s for the duration of their membership at that level
+
+[^3]: Freelancers get room booking priority for the lounge and can book the lounge as a meeting room for external guests
 
