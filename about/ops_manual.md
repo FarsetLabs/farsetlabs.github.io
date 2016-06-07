@@ -15,7 +15,7 @@ These roles are:
 * Members
 
 # Company Role
-Farset Labs, is a registered company limited by guarantee (NI611278) is an HMRC registered charitable organisation (XT33366). It is the holding entity of the lease contract with Weavers Court and the relevant bills associated with the maintenance of the building itself (Electricity, Gas, Networking). 
+Farset Labs, is a registered company limited by guarantee (NI611278) is an CCNI Registered Charity (NIC102754). It is the holding entity of the lease contract with Weavers Court and the relevant bills associated with the maintenance of the building itself (Electricity, Gas, Networking). 
 
 From an organisational perspective, ‘the Company’ consists of the named Directors, who are legally responsible for it’s long term sustainability and operation.
 
