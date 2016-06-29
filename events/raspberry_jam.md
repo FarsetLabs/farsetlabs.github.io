@@ -7,6 +7,10 @@ layout: default
 
 ![RaspberryJam](/events/raspberryjam_800.jpg)
 
+**The Raspberry Jams have finished up for the 2015/2016 school year. The volunteer team are looking forward to a well earned break!**   
+**The plan is the Raspberry Jams will hopefully startup again in September 2016.**   
+To be the first to hear when new Raspberry Jam tickets are announced, make sure to sign up to the [mailing list](http://eepurl.com/bRD1AD).
+   
  Raspberry Jam is a monthly event for people who want to learn a bit more about the Raspberry Pi and coding in general.
  The sessions are aimed at complete beginners with more complicated challanges for those with already some Raspberry Pi experience.
 
