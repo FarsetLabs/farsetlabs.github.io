@@ -36,7 +36,7 @@ In order to safeguard children during mixed-group FSL events:-
 
 * Unless you are AccessNI cleared, you may not engage in any Regulated Activity in relation to children, defined in the [Safeguarding Vulnerable Groups (SVG) Act 2006](http://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order 2007](http://www.legislation.gov.uk/nisi/2007/1351/contents), both as amended (in particular by respectively, Sections 64 and 78 and Schedule 7, [Protection of Freedoms Act 2012)](http://www.legislation.gov.uk/ukpga/2012/9/contents/enacted). This is taken to be as per the latest version of [this DHSSPSNI note on the matter](http://www.dhsspsni.gov.uk/regulated-activity-children.pdf).
 
-#Handling Disclosures
+# Handling Disclosures
 
 "Disclosure" occurs when a child or youth tells you or lets you know in some other way that she or he has been, or is being abused. Disclosure can be direct, indirect, or a third-party disclosure. You need to report all disclosures of abuse to the FSL directors immediately, no matter where or when they happened.
 
@@ -64,12 +64,19 @@ Avoid questions that are usually associated with getting into trouble. Avoid usi
 
 ## Be supportive
 Let the youth or child know:
+
 * they are not in trouble.
+
 * they are safe with you.
+
 * you are glad that they have chosen to tell you about this.
+
 * they have done the right thing telling about this..
+
 * you are sorry that they have been hurt or that this has happened to them.
+
 * you will do everything you can to make sure they are not hurt again.
+
 * you know others who can be trusted to help solve this problem.
 
 ## Get only the essential facts
