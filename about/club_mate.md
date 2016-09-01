@@ -7,8 +7,6 @@ parent: "About"
 # Club-Mate
 
 <img src="https://clubmate-uk.com/sites/default/files/field/image/club-mate-330.jpg" style="width: 350px;"/>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script src="/assets/js/mate_stock.js"/>
-
 
 [Club-Mate] is the refreshing hacker drink originating from Germany. It uses
 an extract from the Yerba-tea plant native to South America.
@@ -21,50 +19,15 @@ Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
 tuckshop on-site! 
 
 We also sell by the crate for larger orders, and are happy to sell onto the
-public! If you would like to order, please email <info@farsetlabs.org.uk>
-with your request. Our live stock tracker for crate orders is below.
+public! If you would like to order, please email <info@farsetlabs.org.uk>.
 
-When our buy-ins are open, you can join in by filling in the [form]. If you'd
-like to be kept updated regarding our buy-ins, you can
-join our [mailing list].
+We stock; 
 
-
-## Live Stock
-
-<table>
-  <thead>
-    <tr>
-      <th>Type</th>
-      <th style="text-align: center">Crates in Stock</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Regular 24x300ml (£33)</td>
-      <td id="matesremaining" style="text-align: center">0</td>
-    </tr>
-    <tr>
-      <td>Regular 20x500ml (£35)</td>
-      <td id="matelremaining" style="text-align: center">0</td>
-    </tr>
-    <tr>
-      <td>Cola 24x330ml (£33)</td>
-      <td id="colaremaining" style="text-align: center">0</td>
-    </tr>
-    <tr>
-      <td>Winter 20x500ml (£35)</td>
-      <td id="winterremaining" style="text-align: center">0</td>
-    </tr>
-    <tr>
-      <td>IceT 20x500ml (£35)</td>
-      <td id="icetremaining" style="text-align: center">0</td>
-    </tr>
-    <tr>
-      <td>Granat 20x500ml (£35)</td>
-      <td id="granatremaining" style="text-align: center">0</td>
-    </tr>
-  </tbody>
-</table>
+* Regular (330/500ml)
+* Cola (330/500ml)
+* IceT (500ml)
+* Granat (500ml)
+* Winter (500ml) **limited stock unlikely to be restocked**
 
 
   [Club-mate]: http://www.clubmate.de/
