@@ -6,10 +6,6 @@ layout: default
 ---
 
 ![RaspberryJam](/events/raspberryjam_800.jpg)
-
-**The Raspberry Jams have finished up for the 2015/2016 school year. The volunteer team are looking forward to a well earned break!**   
-**The plan is the Raspberry Jams will hopefully startup again in September 2016.**   
-To be the first to hear when new Raspberry Jam tickets are announced, make sure to sign up to the [mailing list](http://eepurl.com/bRD1AD).
    
  Raspberry Jam is a monthly event for people who want to learn a bit more about the Raspberry Pi and coding in general.
  The sessions are aimed at complete beginners with more complicated challanges for those with already some Raspberry Pi experience.
@@ -31,21 +27,26 @@ The topics we may to cover over the next few months
 
 If you would also like to help with setup, takedown or generally walking around helping people with their Pi projects, please drop an email to [nems@farsetlabs.org.uk](mailto:nems@farsetlabs.org.uk) and we will pass on your details.
 
-Hosted by [Andrew Mulholland](http://pi.gbaman.info/)
+Hosted by [Andrew Mulholland](http://blog.gbaman.info/)
    
 Please make a small donation to maintaining Farset Labs for each training session (Farset Lab members are free while a suggested donation of £5 is recommended from non members) - donations can be made on the day.
 
-[Book Tickets](http://bit.ly/farsetjam)
+[Book Tickets](http://niraspberryjam.eventbrite.co.uk)
 
 <div style="width:100%; text-align:left;" >
-<iframe  src="//eventbrite.co.uk/tickets-external?eid=16545550186&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<iframe  src="//eventbrite.co.uk/tickets-external?eid=27370120768&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 </div>
 
 #FAQs
 
-## What kind of learning resources are available
+## What kind of learning resources are available?
 
 Most of the resources that are used in the jams are also collated on our [Resources Repository](https://github.com/NIRaspberryJam/Raspberry-Jam-Resources) and are available for use both at and beyond the regular jam events
+
+## There is no tickets left, what do I do?
+
+Tickets for the Raspberry Jam events have a habit of going very fast. We have moved to 2 ticket batch releases to keep it fair. First at the end of the previous jam and the second roughly 2 weeks later (aka "Late bird tickets"). Unfortunately if both of these are sold out, we are completely full. You may want to then sign up for the waitlist, in case someone drops out at the last minute.   
+To make sure you know when the next tickets are being released, you may want to sign up to the ticket [mailing list](http://eepurl.com/bRD1AD).
 
 ## Is there an age limit to enter the event?
 
