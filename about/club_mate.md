@@ -6,7 +6,7 @@ parent: "About"
 
 # Club-Mate
 
-<img src="https://clubmate-uk.com/sites/default/files/field/image/club-mate-330.jpg" style="width: 350px;"/>
+<img src="https://clubmate-uk.com/sites/default/files/field/image/club-mate-330.jpg" style="width: 350px;" class='center-image'/>
 
 [Club-Mate] is the refreshing hacker drink originating from Germany. It uses
 an extract from the Yerba-tea plant native to South America.
@@ -19,7 +19,7 @@ Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
 tuckshop on-site! 
 
 We also sell by the crate for larger orders, and are happy to sell onto the
-public! If you would like to order, please email <info@farsetlabs.org.uk>.
+public! If you would like to order (for collection only), please email <info@farsetlabs.org.uk>.
 
 We stock; 
 
@@ -28,6 +28,11 @@ We stock;
 * IceT (500ml)
 * Granat (500ml)
 * Winter (500ml) **limited stock unlikely to be restocked**
+
+Pricing: 
+
+* 24x330ml - £33
+* 20x500ml - £35
 
 
   [Club-mate]: http://www.clubmate.de/

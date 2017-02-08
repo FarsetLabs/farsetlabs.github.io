@@ -159,3 +159,9 @@ height: 100% !important;
     align: center;
     margin: 0 auto;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
