@@ -5,6 +5,9 @@ category: nav
 weight: 3
 haschildren: True
 ---
+# Booking an Event
+
+See [here](/events/how-to-start-a-class) for information on how to book the space and any incurrable charges
 
 # Calendar
 _[iCal Feed](https://www.google.com/calendar/embed?src=farsetlabs.org.uk_srmqnkn373auq51u00s2nijrq8%40group.calendar.google.com&ctz=Europe/London)_
