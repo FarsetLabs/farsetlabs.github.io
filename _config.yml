@@ -69,25 +69,15 @@ officers:
     twitter: "dylwylie"
     discourse: "dylan"
 
-  - name: Conor Robinson
-    username: robinson
-    year: 2014 -
+  - name: Colin Mitchell
+    username: pixelpage
+    year: 2016 -
     title: "Director"
-    blurb: "Electrical and Electronic Engineer, Amateur Radio Course Tutor, Red Cross First Aider. Fixes stuff that's broken"
-    email: "conor@farsetlabs.org.uk"
-    discourse: "conor"
-    linkedin: "conorrobinson"
-
-  - name: Pip Shea
-    username: shealo
-    year: 2015 -
-    title: "Director"
-    blurb: "Digital Media Researcher, Designer, and Educator."
-    email: "pip@farsetlabs.org.uk"
+    blurb: "Business Technology Advisor, interim CTO & troubleshooter/causer, hands-on code-tweaker, occasional blues guitarist"
+    email: "colin.mitchell@farsetlabs.org.uk"
     discourse: "pip"
-    twitter: "shealo"
-    website: "http://www.pipshea.net/"
-    linkedin: "pipshea"
+    twitter: "pixelpage"
+    linkedin: "colinmitch"
 
   - name: Daniel Porter
     username: porter
@@ -139,13 +129,4 @@ officers:
     discourse: "gbaman1"
     twitter: "gbaman1"
     website: "http://pi.gbaman.info/"
-
-  - name: Ben Bland
-    username: bland
-    year: 2015 -
-    title: "Development NEM"
-    blurb: "Digital strategist (purveyor of fine bullshit). 10 years’ web marcomms & business. Loves science, technology, ecology & travel. Writer, filmmaker, photographer"
-    email: "development@farsetlabs.org.uk"
-    twitter: "ben_bland"
-    discourse: "ben"
 

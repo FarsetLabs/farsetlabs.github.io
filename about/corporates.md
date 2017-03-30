@@ -37,12 +37,6 @@ across North America and Europe, providing a multi-gigabit L2 connection that
 puts Northern Ireland business on to a level playing-field with the global
 internet marketplace.
 
-## ABPNI Computer Solutions
-
-<div style="float: right"><a href="http://www.abpni.co.uk"><img src="{{site.base}}/assets/img/corp_logos/abpni_300.png"/></a></div>
-
-With its headquarters in Carryduff and engineers working throughout Northern Ireland, [ABPNI Computer Solutions](http://www.abpni.co.uk) provides first-class IT repair and support services, as well as managed network solutions to home and business users. We can provide a wide range of solutions to combat all of your computer & broadband related problems as well as supply new and refurbished computer equipment.
-
 ## Weavers Court Business Park 
 
 <div style="float: right"><a href="http://www.weaverscourt.com"><img src="https://blog.farsetlabs.org.uk/wordpress/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
