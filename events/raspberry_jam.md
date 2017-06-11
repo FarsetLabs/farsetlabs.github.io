@@ -20,7 +20,7 @@ Note these events now take place at the Maths and Physics Teaching Centre, Queen
 
 [Book Tickets](https://www.eventbrite.co.uk/o/northern-ireland-raspberry-jam-12781086687)
 
-<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=35329063179&ref=etckt" frameborder="0" height="445" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=35329063179&ref=etckt" frameborder="0" height="445" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank"</a></div></div>
 
 ## No tickets available above?
 Check our [main Eventbrite page to see full list of upcoming Northern Ireland Raspberry Jam events](https://www.eventbrite.co.uk/o/northern-ireland-raspberry-jam-12781086687).
@@ -50,9 +50,10 @@ To make sure you know when the next tickets are being released, you may want to 
 
 All of our Raspberry Jam events are suitable for kids as young as 6, right up to adults of 106! Although the majority of the attendees at the Raspberry Jam events are young people, they are open to adults as well, especially parents of kids attending.
 
-Note - By attending this event, you provide express permission to photographs/videos being taken and used by the Northern Ireland Raspberry Jam team. If this is an issue, please inform one of the team on your arrival.
+## Miscellaneous
 
-Note that normal [Farset Labs' Child Protection Policy](/about/child_protection.html) applies. This includes that all children under the age of 14 must have a designated guardian in on site for the entire event.
+- By attending this event, you provide express permission to photographs/videos being taken and used by the Northern Ireland Raspberry Jam team. If this is an issue, please inform one of the team on your arrival.
 
-We also require children aged between 15 and 17 (inclusive) parents are within 10 minutes from venue and can be easily contactable in event of an emergency.
+ - That normal [Farset Labs' Child Protection Policy](/about/child_protection.html) applies. This includes that all children under the age of 15 must have a designated guardian in on site for the entire event.
+   We also require children aged between 15 and 17 (inclusive) parents are within 10 minutes from venue and can be easily contactable in event of an emergency.
 
