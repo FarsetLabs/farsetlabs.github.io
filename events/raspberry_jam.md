@@ -5,72 +5,55 @@ image: /events/raspberryjam_800.jpg
 layout: default
 ---
 
-![RaspberryJam](/events/raspberryjam_800.jpg)
+![RaspberryJam](/events/raspberryjam_group_1000.jpg)
    
- Raspberry Jam is a monthly event for people who want to learn a bit more about the Raspberry Pi and coding in general.
- The sessions are aimed at complete beginners with more complicated challanges for those with already some Raspberry Pi experience.
+Come one, come all to the Northern Ireland Raspberry Jam!
+In collaboration with Farset Labs, the School of Physics and Mathematics at Queens and the Northern Ireland Raspberry Jam team, these free monthly events involve tinkering, coding, electronics and generally just having a stack of fun making stuff!
+Whether you want to try out computer programming for the first time, hack some electronics or just generally have some fun inventing, we have something for everyone!
 
- We try to cover a different topic with the Raspberry Pi every month and so far have done
+All equipment is provided and we have activities for ages 6-106, from complete beginners right up to seasoned Pi experts. Plus, like all our Raspberry Jam events, it is completely free!
+So what are you waiting for?
 
- * Setting up your [Raspberry Pi](https://www.raspberrypi.org/)
- * [Minecraft Pi Edition](http://pi.minecraft.net)
- * ScratchGPIO with [LEDBorgs](https://www.piborg.org/ledborg)
- * Introduction to [Python](https://www.python.org)
- * Basic circuits with breadboards
-  
-The topics we may to cover over the next few months
+Note these events now take place at the Maths and Physics Teaching Centre, Queens University. Instructions on how to get there can be found on the Eventbrite page.
 
-* Using Python with GPIO
-* [Sonic Pi](http://sonic-pi.net)
-* Raspberry Pi camera module
-* Plugging stuff into the [GPIO](https://www.raspberrypi.org/documentation/usage/gpio/) pins
+## Tickets
 
-If you would also like to help with setup, takedown or generally walking around helping people with their Pi projects, please drop an email to [nems@farsetlabs.org.uk](mailto:nems@farsetlabs.org.uk) and we will pass on your details.
+[Book Tickets](https://www.eventbrite.co.uk/o/northern-ireland-raspberry-jam-12781086687)
 
-Hosted by [Andrew Mulholland](http://blog.gbaman.info/)
-   
-Please make a small donation to maintaining Farset Labs for each training session (Farset Lab members are free while a suggested donation of £5 is recommended from non members) - donations can be made on the day.
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=35329063179&ref=etckt" frameborder="0" height="445" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank"</a></div></div>
 
-[Book Tickets](http://niraspberryjam.eventbrite.co.uk)
+## No tickets available above?
+Check our [main Eventbrite page to see full list of upcoming Northern Ireland Raspberry Jam events](https://www.eventbrite.co.uk/o/northern-ireland-raspberry-jam-12781086687).
 
-<div style="width:100%; text-align:left;" >
-<iframe  src="//eventbrite.co.uk/tickets-external?eid=27370120768&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-</div>
+![](raspberryjam_kids_1000.jpg)
 
-#FAQs
+# FAQs
 
-## What kind of learning resources are available?
+## What is a Raspberry Jam?
 
-Most of the resources that are used in the jams are also collated on our [Resources Repository](https://github.com/NIRaspberryJam/Raspberry-Jam-Resources) and are available for use both at and beyond the regular jam events
+A Raspberry Jam is an event for kids/adults of all ages to come together and learn a bit more about the Raspberry Pi and coding/electronics in general.
+
+## I have no previous experience with coding/electronics/Raspberry Pi?
+
+That is no problem! All our Raspberry Jams are suited for beginners, right up to Pi exports, plus all equipment is provided. All you need to bring is yourself.
+
+## How often to do these Raspberry Jam events run?
+
+The Northern Ireland Raspberry Jam runs on the 2nd Saturday of every month (excluding July/August) throughout the year. They are free as well and involve new workshops/activities each month. Details - ![https://niraspberryjam.eventbrite.co.uk](https://niraspberryjam.eventbrite.co.uk).
 
 ## There is no tickets left, what do I do?
 
 Tickets for the Raspberry Jam events have a habit of going very fast. We have moved to 2 ticket batch releases to keep it fair. First at the end of the previous jam and the second roughly 2 weeks later (aka "Late bird tickets"). Unfortunately if both of these are sold out, we are completely full. You may want to then sign up for the waitlist, in case someone drops out at the last minute.   
 To make sure you know when the next tickets are being released, you may want to sign up to the ticket [mailing list](http://eepurl.com/bRD1AD).
 
-## Is there an age limit to enter the event?
+## What age range is this event suitable for?
 
-Raspberry Jam is not specifically aimed at any age range, but any child younger than 14 must be accompanied by a parent or guardian
+All of our Raspberry Jam events are suitable for kids as young as 6, right up to adults of 106! Although the majority of the attendees at the Raspberry Jam events are young people, they are open to adults as well, especially parents of kids attending.
 
-## What are my transport/parking options getting to the event?
+## Miscellaneous
 
-We're 5 minutes walk from Europa Bus Centre, and Parking is available all across the Weavers Court Campus
+- By attending this event, you provide express permission to photographs/videos being taken and used by the Northern Ireland Raspberry Jam team. If this is an issue, please inform one of the team on your arrival.
 
-## Is there a charge for the event
-
-Farset Labs' members operate the Raspberry Jam for free for all attendees, but donations to cover operating costs are greatly appreciated.
-
-## What should I bring to the event?
-
-We don't have the resources available to provide everyone with a machine, so if you can help us out by bringing your own device, be it laptop/tablet/smartphone, that'd be great.
-
-## What Child Protection Policies are in place?
-
-Only those registered may attend, including mentors. For full details, see [Farset Labs' Child Protection Policy](/about/child_protection.html). At the lead mentors' discretion, the event space may be sealed off from the rest of the space.
-
-##I can't make it, what can I do to help?
-
-If you just want to support our event here at Farset Labs, please consider making a donation to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Jams.
-
-
+ - That normal [Farset Labs' Child Protection Policy](/about/child_protection.html) applies. This includes that all children under the age of 15 must have a designated guardian in on site for the entire event.
+   We also require children aged between 15 and 17 (inclusive) parents are within 10 minutes from venue and can be easily contactable in event of an emergency.
 
