@@ -83,7 +83,7 @@ Please contact us on <join@farsetlabs.org.uk> to check availability, arrange pay
 
 Day Passes {#daypass}
 ====================
-If you're just popping through the area or occasionally looking for a city-pad for the day, we also offer Day-passes for just £5.
+If you're just popping through the area or occasionally looking for a city-pad for the day, we also offer Day/Evening passes from just £3.
 
 <a href="/hotdesk/index.html" class="large button expand round">Get your Day Pass Now</a>
 
