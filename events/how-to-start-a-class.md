@@ -24,6 +24,23 @@ Discounts may be available for voluntary organisations, charities, and community
 
 Then contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to discuss dates and fees.
 
+# Booking for a private course
+
+Farset has space to run private courses for freelance trainers. 
+ 
+Equipment provided:
+
+* Projector 
+* Black board
+* Tables
+* Chairs
+
+Guide Prices: 
+
+* £200/Day - Event space - 8hr 
+
+If you are are interested in running a course on our premises then contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to discuss dates and fees.
+
 # Want to start something?
 
 ## User Groups
