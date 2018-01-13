@@ -3,7 +3,7 @@ description: "Northern Ireland's Hackerspace"
 tags: "hackerspace, makerspace, belfast, technology, maker movement"
 markdown: kramdown
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
-plugins: ./_plugins
+plugins_dir: ./_plugins
 base: ""
 gems:
   - jekyll-mentions
