@@ -4,7 +4,16 @@ title: Donations
 parent: "About"
 ---
 
-#Donations
+# Donations
+
+## One Off Donations
+
+Farset Labs is an accredited charity and is eligable to Gift Aid tax relief on one off donations. We are also certified by PayPal as being eligable to take part in their PayPal Giving Fund which absorbs PayPal's normal transaction costs for charittable donations. 
+
+If you'd like to support our work in this way, follow the link below! Thanks!
+
+<a href="https://www.paypal.com/uk/fundraiser/charity/113209" class="large button expand round">Donate</a>
+
 
 ## Friends of Farset
 
