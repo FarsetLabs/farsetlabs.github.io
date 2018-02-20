@@ -70,7 +70,7 @@ The repayment table for travel expenses is shown below.
 * Receipts from purchases using company cards must be photographed and entered into Xero using the ‘Spend Money’ form. 
 [Spend Money step by step guide](https://help.xero.com/uk/BankAccounts_Details_SpendMoney$Howto)
 * Receipts from personal expenses must be photographed and entered into Xero using the Expenses Claim procedure. 
-[Expenses step by step guide](https://help.xero.com/uk/Q_ExpenseClaims$BK_Steps)
+[Expenses step by step guide](https://help.xero.com/uk/Payments_ExpenseClaims)
 * All photographs of receipts must be clear, and show the entire face of the receipt. If there are terms and conditions on the reverse of the receipt, this must also be photographed.
 * All paper receipts must be retained and stored on site. 
 * On submission of an expenses claim, an email notification should be sent to admin@farsetlabs.org.uk (There is no automatic notification in Xero)
