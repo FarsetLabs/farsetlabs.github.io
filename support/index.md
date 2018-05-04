@@ -10,7 +10,7 @@ haschildren: True
 
 ## One Off Donations
 
-Farset Labs is an accredited charity and is eligable to Gift Aid tax relief on one off donations. We are also certified by PayPal as being eligable to take part in their PayPal Giving Fund which absorbs PayPal's normal transaction costs for charittable donations. 
+Farset Labs is an accredited charity and is eligible to Gift Aid tax relief on one off donations. We are also certified by PayPal as being eligible to take part in their PayPal Giving Fund which absorbs PayPal's normal transaction costs for charitable donations. 
 
 If you'd like to support our work in this way, follow the link below! Thanks!
 
@@ -21,7 +21,7 @@ If you'd like to support our work in this way, follow the link below! Thanks!
 
 If you're not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset! Your donations will go towards the upkeep of the space and it's community and if you want to support anything in particular, you can say so in the form!
 
-Friends of Farset are welcome to attend most Farset events <sup id="fnref:events"><a href="#fn:events" class="footnote">1</a></sup> and can always avail of the [£5 day passes](/hotdesk) if they find themselves in need of workspace! If you are coming down, please remember to sign the GuestBook at reception when you come in!
+Friends of Farset are welcome to attend most Farset events <sup id="fnref:events"><a href="#fn:events" class="footnote">1</a></sup> and can always avail of the [£5 day passes](/hotdesk) if they find themselves in need of workspace! If you are coming down, please remember to sign the Guestbook at reception when you come in!
 
 <div class="btn-group" role="group" aria-label="support-group" style="text-align:center">
 <a class="large button round expand" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
