@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Supporters
-parent: "About"
+parent: "Support"
 category: pages
 ---
 
@@ -26,7 +26,7 @@ If you are interested in becoming a Corporate Member or supporting one or more o
 
 ## Tibus Connect 
 
-<div style="float: right"><a href="http://www.tibus.com"><img src="https://secure.iia.ie/filestore/images/member/tibus.jpg"/></a></div>
+<div style="float: right; padding: 0 20px 0 10px "><a href="http://www.tibus.com"><img src="{{site.base}}/assets/img/corp_logos/tibus.png"/></a></div>
 
 [Tibus(Connect)](http://www.tibusconnect.com/) offer a full range of
 connectivity solutions for business across the UK & Ireland.They are market
@@ -39,7 +39,7 @@ internet marketplace.
 
 ## Weavers Court Business Park 
 
-<div style="float: right"><a href="http://www.weaverscourt.com"><img src="https://blog.farsetlabs.org.uk/wordpress/wp-content/uploads/2012/04/weavers_court_business_park_belfast_logo.png"/></a></div>
+<div style="float: right"><a href="http://www.weaverscourt.com"><img src="{{site.base}}/assets/img/corp_logos/weavers-court.png"/></a></div>
 
 Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
 
