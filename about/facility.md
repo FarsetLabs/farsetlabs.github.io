@@ -62,7 +62,7 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
   * 30m<sup>2</sup> blackboard for idea sharing (surely the biggest in N.Ireland!).
 
 ## Project Room
-![](/about/project_room_pano.jpg)
+![](/about/workshop.jpg)
 
   * 3D printer and vinyl cutter.
   * Electronic test equipment and soldering irons.
