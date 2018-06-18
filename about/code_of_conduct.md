@@ -149,7 +149,7 @@ At current, certain CLP hazard marked chemicals are permitted to be brought in t
 
 * WD-40 		- 	one litre total 
 
-Each container of the chemical must be less than or equal to 500ml in capacity, be approved for storage of the chemical, and clearly marked in chemical-resistant ink with the member's contact details, the contents, and any CLP hazard marking symbols applicable. 
+Each container of the chemical must be less than or equal to 500ml in capacity, be approved for storage of the chemical, and clearly marked in chemical-resistant ink with the member's contact details, the contents, and any CLP hazard marking symbols applicable. 
 
 Members are responsible for the safe, legal and appropriate disposal of all used and/or unneeded wastes. You must inform the Farset Labs management team when you dispose of or finish the stock you have previously requested to use and/or keep in Farset Labs. Sensitising materials including - but not limited to - resins can be used onsite under certain limited conditions but never stored onsite when the member is not present.
 
