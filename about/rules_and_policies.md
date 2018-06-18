@@ -56,6 +56,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
     * That is marked as out of order or not to be used.
  * Store your projects and materials safely and with care in the provided member storage boxes[^2];
  * Do not bring or use banned or unsafe materials or equipment;
+ * All hot-desks must be cleared of all equipment before leaving the space. Equipment left unattended at non-rented desks is subject to being moved by *any* member to common storage facilities.
  * All personal equipment being left or stored in communal areas of the space must be clearly labeled with the owners contact details;
  * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble).
  * Equipment not otherwise clearly labeled is assumed to have been abandoned and will eventually be relabeled as Farset communal equipment.
@@ -70,6 +71,8 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Live and let live;
  * Do not be either on fire or asleep in the space;
  * Park safely &amp; respect the tenants at Weavers’ Court
+ * Any communal equipment such as monitors/keyboards/mice etc. should be returned to appropriate storage locations (available in the workshop and coworking space) for others to use.
+
 
 ### Health &amp; Safety
 
