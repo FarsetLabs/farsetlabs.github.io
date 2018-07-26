@@ -6,7 +6,7 @@ parent: "About"
 
 # Club-Mate
 
-<img src="https://clubmate-uk.com/sites/default/files/field/image/club-mate-330.jpg" style="width: 350px;" class='center-image'/>
+[![clubmate](clubmate.jpg)]()
 
 [Club-Mate] is the refreshing hacker drink originating from Germany. It uses
 an extract from the Yerba-tea plant native to South America.
