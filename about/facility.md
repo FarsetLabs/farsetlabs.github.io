@@ -42,7 +42,7 @@ We provide space, tools and community. Members can come as little or as often as
 
 Farset Labs has capacity for most projects, big or small. Three main rooms cover a total of 2000ft<sup>2</sup> (190m<sup>2</sup>), providing co-working, events, and project hacking space, as well as a kitchen and lounge. The building is situated on the [Weavers Court](http://www.weaverscourt.com/) business park, with ample parking, 24/7 security, and access to further office and warehousing space, all five mins' walk from Belfast city centre.
 
-Farset Labs operates a clear desk policy on non-[rented](/membership/index#deskrental) desks (coloured in Blue or Green in the above floor plan); All hot-desks must be cleared of all equipment before leaving the space. 
+Farset Labs operates a clear desk policy on (and under) non-[rented](/membership/index#deskrental) desks (coloured in Blue or Green in the above floor plan); All hot-desks must be cleared of all equipment before leaving the space. 
 Equipment left unattended at non-rented desks is subject to being moved by *any* member to common storage facilities.
 
 Any communal equipment such as monitors/keyboards/mice etc. should be returned to appropriate storage locations (available in the workshop and coworking space) for others to use.
