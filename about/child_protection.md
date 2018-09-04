@@ -13,7 +13,7 @@ Directors, Managers, Members and Volunteers (agents) within this organisation ac
  
 Farset Labs will review its policy, procedures and practice in this regard at regular intervals, at least every 3 years. 
  
-Farset Labs recognises the [Children Order (Northern Ireland) (1995)](http://www.legislation.gov.uk/nisi/1995/755/contents/made), the [Safeguarding Vulnerable Groups (SVG) Act 2006]( http://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order (SVG(NI)) 2007](http://www.legislation.gov.uk/nisi/2007/1351/contents) and incorporates their principles into its Child Protection Policy and Procedures.
+Farset Labs recognises the [Children Order (Northern Ireland) (1995)](https://www.legislation.gov.uk/nisi/1995/755/contents/made), the [Safeguarding Vulnerable Groups (SVG) Act 2006]( https://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order (SVG(NI)) 2007](https://www.legislation.gov.uk/nisi/2007/1351/contents) and incorporates their principles into its Child Protection Policy and Procedures.
 
 Under the SVG (NI) Order 2007 FSL is aware that it is a criminal offence to employ someone who is disqualified from working with children and young people in a regulated position.  It is a criminal offence not to dismiss a person who is disqualified from holding a regulated position.  
 
@@ -34,7 +34,7 @@ In order to safeguard children during mixed-group FSL events:-
 
 * No Under-18’s are permitted in the building after 8pm unless accompanied by a parent or guardian
 
-* Unless you are AccessNI cleared, you may not engage in any Regulated Activity in relation to children, defined in the [Safeguarding Vulnerable Groups (SVG) Act 2006](http://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order 2007](http://www.legislation.gov.uk/nisi/2007/1351/contents), both as amended (in particular by respectively, Sections 64 and 78 and Schedule 7, [Protection of Freedoms Act 2012)](http://www.legislation.gov.uk/ukpga/2012/9/contents/enacted). This is taken to be as per the latest version of [this DHSSPSNI note on the matter](http://www.dhsspsni.gov.uk/regulated-activity-children.pdf).
+* Unless you are AccessNI cleared, you may not engage in any Regulated Activity in relation to children, defined in the [Safeguarding Vulnerable Groups (SVG) Act 2006](https://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order 2007](https://www.legislation.gov.uk/nisi/2007/1351/contents), both as amended (in particular by respectively, Sections 64 and 78 and Schedule 7, [Protection of Freedoms Act 2012)](https://www.legislation.gov.uk/ukpga/2012/9/contents/enacted). This is taken to be as per the latest version of [this DHSSPSNI note on the matter](https://www.health-ni.gov.uk/sites/default/files/publications/dhssps/regulated-activity-children.pdf).
 
 # Handling Disclosures
 
