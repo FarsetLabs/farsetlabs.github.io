@@ -126,14 +126,13 @@ a:hover{
 }
 
 .flex-direction-nav a:before {
-    display: block;
+    display: none;
     position: absolute;
     content: '';
     width: 9px;
     height: 13px;
     top: 11px;
     left: 11px;
-    background: url(../img/arrows.png) no-repeat;
 }
 
 
