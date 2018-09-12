@@ -5,11 +5,12 @@ markdown: kramdown
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
 plugins_dir: ./_plugins
 base: ""
-gems:
+plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-paginate
 paginate_path: "news/page:num"
 paginate: 5
 url: "http://www.farsetlabs.org.uk"
