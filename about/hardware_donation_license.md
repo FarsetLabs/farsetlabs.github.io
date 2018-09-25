@@ -123,3 +123,8 @@ The DWTW clause removes all claim, agency, and responsibility from the donor. _T
 # Ultimate TLDR
 
 * If 'lending' equipment to the space you want back, write your name/contact details along with "GB DND"
+
+# Label Templates
+
+* [SVG](/assets/img/LabelTemplate.svg)
+* [PDF](/assets/img/LabelTemplate.pdf)
