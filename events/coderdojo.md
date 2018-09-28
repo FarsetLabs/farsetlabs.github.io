@@ -49,7 +49,7 @@ Only those registered may attend, including mentors. For full details, see [Fars
 
 ## I can't make it, what can I do to help?
 
-If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojo/110), [Ballymena](https://zen.coderdojo.com/dojo/274), or the brand new Dojo in [Newry](https://zen.coderdojo.com/dojo/45). 
+If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojos/gb/belfast-metropolitan-college-titanic-quarter-campus-7-queens-road-belfast-bt3-9dt/belfast-belfast-metropolitan-college), [Ballymena](https://zen.coderdojo.com/dojos/gb/ballymena-central-library/ballymena), or [Banbridge](https://zen.coderdojo.com/dojos/gb/community-room-tesco-extra-bridgewater-bt-3-2-4lf/banbridge-co-down-banbridge-enterprise-centre).
 
 If you just want to support our event here at Farset Labs, please consider making a [donation](/about/donations.html) to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
 
