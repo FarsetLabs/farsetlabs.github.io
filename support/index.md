@@ -14,7 +14,7 @@ Farset Labs is an accredited charity and is eligible to Gift Aid tax relief on o
 
 If you'd like to support our work in this way, follow the link below! Thanks!
 
-<a href="https://www.paypal.com/uk/fundraiser/charity/113209" class="large button expand round">Donate</a>
+<a href="https://www.paypal.com/gb/fundraiser/charity/113209" class="large button expand round">Donate</a>
 
 
 ## Friends of Farset
