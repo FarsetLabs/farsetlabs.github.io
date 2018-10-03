@@ -16,7 +16,7 @@ If you'd like to support our work in this way, follow the link below! Thanks!
 
 <a href="https://www.paypal.com/gb/fundraiser/charity/113209" class="large button expand round">Donate</a>
 
-For larger donations, it is often easier to [contact us](mailto:donate@farsetlabs.org.uk) to arrange a BACS payment and requisite [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) paperwork.
+For larger donations, it may be easier to [contact us](mailto:donate@farsetlabs.org.uk) to arrange a BACS payment and requisite [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) paperwork.
 
 ## Friends of Farset
 
