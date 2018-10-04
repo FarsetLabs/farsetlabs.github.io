@@ -101,16 +101,6 @@ officers:
     website: "http://blitter.co.uk"
     linkedin: "glennrdavidson"
 
-  - name: Colin Kelsey
-    username: kelsey
-    year: 2015 -
-    title: "Project Room NEM"
-    blurb: "Research scientist with a PhD in Plasma Physics and a particular interest in medical applications.  Also homebrewer, DIY enthusiast and general hands-on person for building or fixing anything in the workshop that needs built or fixed."
-    email: "projects@farsetlabs.org.uk"
-    linkedin: "colinkelsey"
-    facebook: "colin.kelsey"
-    discourse: "colin"
-
   - name: Claire Wilgar
     username: wilgar
     year: 2015 -
@@ -120,13 +110,13 @@ officers:
     discourse: "clairebones"
     twitter: "clairedotw"
 
-  - name: Andrew Mulholland
-    username: mulholland
-    year: 2015 -
+  - name: Zoe Gadon-Thompson
+    username: zgt
+    year: 2018 -
     title: "Outreach NEM"
     email: "outreach@farsetlabs.org.uk"
-    blurb: "Award winning Inventor, Raspberry Pi expert, Computer Science teacher, STEMNET Ambassador, UK TalkTalk Digital Hero 2014 and @PiNetDev developer."
-    discourse: "gbaman1"
-    twitter: "gbaman1"
-    website: "http://pi.gbaman.info/"
+    blurb: "Zoe wants to make sure everyone has access to a safe space to learn about something they love"
+    twitter: "gingerzoealex"
+    website: "https://gingerzoealex.co.uk/"
+    github: "gingerzoealex"
 
