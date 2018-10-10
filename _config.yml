@@ -35,8 +35,6 @@ links:
       url: "http://discourse.farsetlabs.org.uk/"
     - name: Flickr
       url: "http://www.flickr.com/groups/farset_labs"
-    - name: Wiki
-      url: "http://wiki.farsetlabs.org.uk/"
 officers:
   - name: Andrew Bolster
     username: bolster

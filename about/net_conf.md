@@ -30,6 +30,5 @@ Farset's DNS records are controlled via Amazon Route 53 and any changes must be 
 | tumblr.farsetlabs.org.uk.              | CNAME | Tumblr Alias           | NA                       | domains.tumblr.com                                                  |
 | unit1.farsetlabs.org.uk.               | A     | Unit1 Services Traffic | Farset Labs              | 89.185.154.122                                                      |
 | voip.farsetlabs.org.uk.                | A     | Farset VOIP Server     | NA                       | ALIAS unit1.farsetlabs.org.uk. (zt602wjwntzfo)                      |
-| wiki.farsetlabs.org.uk.                | A     | Farset Wiki            | Member Controlled (DP)   | 5.9.41.19                                                           |
 | www.farsetlabs.org.uk.                 | A     | Farset Web Server      | NA                       | ALIAS farsetlabs.org.uk. (zt602wjwntzfo)                            |
 
