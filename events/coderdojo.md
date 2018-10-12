@@ -1,4 +1,4 @@
----
+﻿---
 title: Farset Dojo
 parent: "Events & Classes"
 image: /events/coderdojo_800.jpg
@@ -15,7 +15,7 @@ Farset's Dojo also puts a strong emphasis on open source and free software, and 
 
 It also provides essential teaching and mentorship experience for budding software developers; after all, to teach is to learn twice! And you don't have to be a hardcore code-hacker to mentor; anyone can help to guide these kids through the processes of problem solving, breaking down tasks, thinking in a stepwise fashion, or just picking out the killer-spelling-mistakes like variable names or missing semi-colons!
 
-For more information about Coder Dojo, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojo/279).
+For more information about Coder Dojo, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojos/gb/belfast/belfast-linfield-road-farset-labs).
 
 You can also follow us on [Twitter](http://twitter.com/farsetdojo) and [Facebook](http://facebook.com/farsetdojo)
 
@@ -49,7 +49,7 @@ Only those registered may attend, including mentors. For full details, see [Fars
 
 ## I can't make it, what can I do to help?
 
-If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojo/110), [Ballymena](https://zen.coderdojo.com/dojo/274), or the brand new Dojo in [Newry](https://zen.coderdojo.com/dojo/45). 
+If you can't make it to our Dojo, consider some of the other Dojos in Northern Ireland, like at [BMC in Belfast](https://zen.coderdojo.com/dojos/gb/belfast-metropolitan-college-titanic-quarter-campus-7-queens-road-belfast-bt3-9dt/belfast-belfast-metropolitan-college), [Ballymena](https://zen.coderdojo.com/dojos/gb/ballymena-central-library/ballymena), or [Banbridge](https://zen.coderdojo.com/dojos/gb/community-room-tesco-extra-bridgewater-bt-3-2-4lf/banbridge-co-down-banbridge-enterprise-centre).
 
 If you just want to support our event here at Farset Labs, please consider making a [donation](/about/donations.html) to the charity and mention in your donation that you wish it to go to fund refreshments, resources, materials, and equipment for the Dojo.
 
