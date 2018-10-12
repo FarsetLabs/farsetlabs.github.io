@@ -52,6 +52,7 @@ Free User group bookings must be arranged in advance by emailing [events@farsetl
 
 Currently hosted user groups are:
 
+* [Code Co-op](https://www.meetup.com/CodeCoop-NI)
 * [Belfast Linux Users Group (BLUG)](http://www.meetup.com/belfast-lug/)
 * [BelfastJS](http://www.meetup.com/Belfast-JS/)
 * [Wordpress NI](http://www.meetup.com/Northern-Ireland-WordPress-Meetup/)
