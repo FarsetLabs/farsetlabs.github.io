@@ -14,8 +14,9 @@ Farset Labs is an accredited charity and is eligible to Gift Aid tax relief on o
 
 If you'd like to support our work in this way, follow the link below! Thanks!
 
-<a href="https://www.paypal.com/uk/fundraiser/charity/113209" class="large button expand round">Donate</a>
+<a href="https://www.paypal.com/gb/fundraiser/charity/113209" class="large button expand round">Donate</a>
 
+For larger donations, it may be easier to [contact us](mailto:donate@farsetlabs.org.uk) to arrange a BACS payment and requisite [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) paperwork.
 
 ## Friends of Farset
 
@@ -32,9 +33,10 @@ Friends of Farset are welcome to attend most Farset events <sup id="fnref:events
   <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
   <input type="submit" name="submit" class="large button round expand" value="Support us via PayPal">
 </form>
+<a class="large button round expand" type="burron" href="https://smile.amazon.co.uk/ch/102754-0">Support us via Amazon Smile</a>
 </div>
 
-Please [contact us](mailto:donate@farsetlabs.org.uk) if you'd like to make a BACS payment
+Please [contact us](mailto:donate@farsetlabs.org.uk) if you'd like to make a BACS donation.
 
 
 <div class="footnotes">

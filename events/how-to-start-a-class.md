@@ -44,5 +44,3 @@ If you are are interested in running a course on our premises then contact [even
 # Want to start something?
 
 [See about organising your own meetup](events/meetups.html)
-
-
