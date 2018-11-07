@@ -10,7 +10,6 @@ Farset's DNS records are controlled via Amazon Route 53 and any changes must be 
 
 | Name                                   | Type  | Description            | Control                  | Value |
 |----------------------------------------|-------|------------------------|--------------------------|---------------------------------------------------------------------|
-| beta.farsetlabs.org.uk.                | A     | Beta Site              | Github                   | 204.232.175.78                                                      |
 | discourse.farsetlabs.org.uk.           | A     | Discourse              | Member Controlled (DP)   | 5.9.41.29                                                           |
 | discourse.farsetlabs.org.uk.           | MX    | Discourse Mail Server  | Member Controlled (DP)   | 10 services.farsetlabs.org.uk                                       |
 | farsetlabs.org.uk.                     | A     | Main Website           | Github                   | 204.232.175.78                                                        |
@@ -23,7 +22,6 @@ Farset's DNS records are controlled via Amazon Route 53 and any changes must be 
 | mandrill.\_domainkey.farsetlabs.org.uk.| TXT   | Domain Auth            | Mandrill                 | Available on Request                                                |
 | members.unit1.farsetlabs.org.uk.       | A     | Unit1 Member Traffic   | Farset Labs              | 89.185.154.123                                                      |
 | preview.farsetlabs.org.uk.             | A     | Experiments            | Director Controlled (AB) | 31.3.227.196                                                     |
-| seltzer.farsetlabs.org.uk.             | CNAME | Seltzer Member Mgmt    | Member Controlled (CM)   | seltzer.krismurray.co.uk
 | services.farsetlabs.org.uk.            | A     |                        | Member Controlled (DP)   | 5.9.41.19                                                           |
 | services.farsetlabs.org.uk.            | MX    | Services Mail Redir    | Member Controlled (DP)   | 10 services.farsetlabs.org.uk                                       |
 | services.unit1.farsetlabs.org.uk.      | A     | Unit1 Services Traffic | Farset Labs              | 89.185.154.122                                                      |
