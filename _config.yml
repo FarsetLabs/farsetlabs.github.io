@@ -78,6 +78,16 @@ officers:
     twitter: "pixelpage"
     linkedin: "colinmitch"
 
+  - name: Artemiy Kondratiev
+    username: art
+    year: 2018 -
+    title: "Director"
+    blurb: "Software engineer, public speaker and event organiser."
+    email: "art@farsetlabs.org.uk"
+    twitter: "awflwafl"
+    linkedin: "artemiy-kondratiev"
+    github: "awflwafl"
+
   - name: Daniel Porter
     username: porter
     year: 2014 -
