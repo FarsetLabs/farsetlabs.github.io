@@ -15,7 +15,7 @@ Farset's Dojo also puts a strong emphasis on open source and free software, and 
 
 It also provides essential teaching and mentorship experience for budding software developers; after all, to teach is to learn twice! And you don't have to be a hardcore code-hacker to mentor; anyone can help to guide these kids through the processes of problem solving, breaking down tasks, thinking in a stepwise fashion, or just picking out the killer-spelling-mistakes like variable names or missing semi-colons!
 
-For more information about Coder Dojo, and how to register as an attendee or a mentor, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojos/gb/belfast/farset-dojo).
+For more information about Coder Dojo, and how to register as an attendee or a mentor, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojos/gb/belfast/farset-dojo-belfast).
 
 You can also follow us on [Twitter](http://twitter.com/farsetdojo) and [Facebook](http://facebook.com/farsetdojo)
 
