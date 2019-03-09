@@ -17,7 +17,7 @@ It also provides essential teaching and mentorship experience for budding softwa
 
 For more information about Coder Dojo, and how to register as an attendee or a mentor, check out the [CoderDojo global webpage](https://zen.coderdojo.com/dojos/gb/belfast/farset-dojo-belfast).
 
-You can also follow us on [Twitter](http://twitter.com/farsetdojo) and [Facebook](http://facebook.com/farsetdojo)
+You can also follow us on [Twitter](https://twitter.com/farsetdojo) and [Facebook](https://facebook.com/farsetdojo)
 
 # FAQs
 

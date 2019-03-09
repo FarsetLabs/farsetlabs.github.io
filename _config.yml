@@ -13,40 +13,40 @@ plugins:
   - jekyll-paginate
 paginate_path: "news/page:num"
 paginate: 5
-url: "http://www.farsetlabs.org.uk"
+url: "https://www.farsetlabs.org.uk"
 social:
   github: FarsetLabs
   facebook: FarsetLabs
   twitter: FarsetLabs
   flickr: groups/farset_labs
-  blogfeed: "http://blog.farsetlabs.org.uk/feed/"
-  chat: "http://slackin.farsetlabs.org.uk/"
-  forum: "http://discourse.farsetlabs.org.uk/"
+  blogfeed: "https://blog.farsetlabs.org.uk/feed/"
+  chat: "https://slackin.farsetlabs.org.uk/"
+  forum: "https://discourse.farsetlabs.org.uk/"
 links:
   - name: Blog
-    url: "http://blog.farsetlabs.org.uk/"
+    url: "https://blog.farsetlabs.org.uk/"
   - name: Social
     url: ""
     list:
     - name: Facebook
-      url: "http://facebook.com/FarsetLabs"
+      url: "https://facebook.com/FarsetLabs"
     - name: Twitter
-      url: "http://twitter.com/FarsetLabs"
+      url: "https://twitter.com/FarsetLabs"
     - name: Slack
       url: "https://slackin.farsetlabs.org.uk/"
     - name: Forum
-      url: "http://discourse.farsetlabs.org.uk/"
+      url: "https://discourse.farsetlabs.org.uk/"
     - name: Flickr
-      url: "http://www.flickr.com/groups/farset_labs"
+      url: "https://www.flickr.com/groups/farset_labs"
 officers:
   - name: Andrew Bolster
     username: bolster
     year: 2011 -
     title: "Director/Founder"
-    blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](http://andrewbolster.info)"
+    blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](https://andrewbolster.info)"
     email: "bolster@farsetlabs.org.uk"
     twitter: "bolster"
-    website: "http://andrewbolster.info"
+    website: "https://andrewbolster.info"
     facebook: "andrewbolster"
     linkedin: "andrewbolster"
     github: "andrewbolster"
@@ -65,7 +65,7 @@ officers:
     username: wylie
     year: 2013 -
     title: "Director"
-    blurb: "Co-founder of rapidly growing health consultancy startup,  [We Slim Together](http://www.weslimtogether.co.uk), physicist, developer & technologist."
+    blurb: "Co-founder of rapidly growing health consultancy startup,  [We Slim Together](https://www.weslimtogether.co.uk), physicist, developer & technologist."
     email: "dylan@farsetlabs.org.uk"
     twitter: "dylwylie"
     discourse: "dylan"
@@ -103,12 +103,12 @@ officers:
     username: davidson
     year: 2014 -
     title: "Events NEM"
-    blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](http://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics"
+    blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](https://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics"
     email: "events@farsetlabs.org.uk"
     discourse: "panloaf"
     twitter: "glenndavidson"
     facebook: "panloaf"
-    website: "http://blitter.co.uk"
+    website: "https://blitter.co.uk"
     linkedin: "glennrdavidson"
 
   - name: Claire Wilgar
