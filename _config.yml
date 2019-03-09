@@ -34,6 +34,8 @@ links:
       url: "https://twitter.com/FarsetLabs"
     - name: Slack
       url: "https://slackin.farsetlabs.org.uk/"
+    - name: Blog
+      url: "https://blog.farsetlabs.org.uk/feed/"
     - name: Forum
       url: "https://discourse.farsetlabs.org.uk/"
     - name: Flickr
