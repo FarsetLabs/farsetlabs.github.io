@@ -24,24 +24,24 @@ If you are interested in becoming a Corporate Member or supporting one or more o
 
 # Corporate Members
 
-## Tibus Connect 
+## Tibus Connect
 
 <div style="float: right; padding: 0 20px 0 10px "><a href="https://www.tibus.com"><img src="{{site.base}}/assets/img/corp_logos/tibus.png"/></a></div>
 
-[Tibus(Connect)](https://www.tibusconnect.com/) offer a full range of
+[Tibus(Connect)](https://www.tibus.com/) offer a full range of
 connectivity solutions for business across the UK & Ireland.They are market
-partners of [Project Kelvin](https://www.tibusconnect.com/connect/project-
+partners of [Project Kelvin](http://www.tibusconnect.com/connect/project-
 kelvin/), and, along with [Hibernia
-Atlantic](https://www.hiberniaatlantic.com/), operate 102 network locations
+Atlantic](https://www.gtt.net/), operate 102 network locations
 across North America and Europe, providing a multi-gigabit L2 connection that
 puts Northern Ireland business on to a level playing-field with the global
 internet marketplace.
 
 ## Weavers Court Business Park 
 
-<div style="float: right"><a href="https://www.weaverscourt.com"><img src="{{site.base}}/assets/img/corp_logos/weavers-court.png"/></a></div>
+<div style="float: right"><a href="http://www.weaverscourt.com"><img src="{{site.base}}/assets/img/corp_logos/weavers-court.png"/></a></div>
 
-Special thanks have to go to [Weavers Court Business Park](https://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
+Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
 
 
 [^corp]: These corporate benefits are limited to two passes per event/day

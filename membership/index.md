@@ -112,7 +112,7 @@ Sponsored Memberships
 
 You may be eligible for sponsored membership if you're a member / employee / student of the following organisations:
 
-* Queen's University Belfast Students Union- [Apply here](https://www.qubsu.org/EnterpriseSU/Opportunities/FarsetLabs/)
+* Queen's University Belfast Students Union- [Apply here](http://www.qubsu.org/EnterpriseSU/Opportunities/FarsetLabs/)
 
 If your [company](/about/corporates), organisation or institution is interested in sponsoring memberships to Farset Labs for your community, as prizes, opportunities
 or otherwise, please review our [Sponsored Membership Policy](/about/sponsored_membership_policy.html) and contact us on <join@farsetlabs.org.uk>
