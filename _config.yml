@@ -21,7 +21,6 @@ social:
   flickr: groups/farset_labs
   blogfeed: "https://blog.farsetlabs.org.uk/feed/"
   chat: "https://slackin.farsetlabs.org.uk/"
-  forum: "http://discourse.farsetlabs.org.uk/"
 links:
   - name: Blog
     url: "https://blog.farsetlabs.org.uk/"
@@ -36,8 +35,6 @@ links:
       url: "https://slackin.farsetlabs.org.uk/"
     - name: Blog
       url: "https://blog.farsetlabs.org.uk/feed/"
-    - name: Forum
-      url: "http://discourse.farsetlabs.org.uk/"
     - name: Flickr
       url: "https://www.flickr.com/groups/farset_labs"
 officers:
