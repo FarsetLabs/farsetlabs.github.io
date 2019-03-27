@@ -30,9 +30,8 @@ If you are interested in becoming a Corporate Member or supporting one or more o
 
 [Tibus(Connect)](https://www.tibus.com/) offer a full range of
 connectivity solutions for business across the UK & Ireland.They are market
-partners of [Project Kelvin](http://www.tibusconnect.com/connect/project-
-kelvin/), and, along with [Hibernia
-Atlantic](https://www.gtt.net/), operate 102 network locations
+partners of Project Kelvin, and, along with [Hibernia Atlantic](https://www.gtt.net/),
+operate 102 network locations
 across North America and Europe, providing a multi-gigabit L2 connection that
 puts Northern Ireland business on to a level playing-field with the global
 internet marketplace.
