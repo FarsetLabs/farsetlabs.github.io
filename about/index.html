@@ -38,7 +38,6 @@ haschildren: True
             {{ officer.blurb | unindent | markdownify }}
             <ul class="small button-group round right">
               {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
-              {% if officer.discourse %}<li><a class="small button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
             </ul>
         </div>
     </div>
@@ -71,7 +70,6 @@ haschildren: True
             {% endif %}
             <ul class="small button-group round right">
               {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
-              {% if officer.discourse %}<li><a class="small button" href="{{site.social.forum}}users/{{officer.discourse}}">Get in touch <i class="social foundicon-torso" style="height:51px"></i></a></li>{% endif %}
             </ul>
             
         </div>
