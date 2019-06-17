@@ -16,6 +16,33 @@ environment it is suggested that you use [RVM][rvm].
 A Gemfile is included so you can run `$ bundle install` after you install
 bundler with `$ gem install bundler`.
 
+### Building With Docker
+[Docker](https://docker.com) provides reproducible environments to aid 
+development. To work with this site using Docker first ensure that Docker is
+installed on your machine, and then run
+
+```
+make docker
+```
+
+If `make` is not installed the following two commands should be executed
+
+```
+docker build -t farsetlabs-site .
+docker run -p 4000:4000 -v `pwd`:/app farsetlabs-site
+```
+
+This will start a container, build the site and then serve it on port 4000. 
+Editing files on your machine will cause the container to rebuild the site and
+make the changes available in the browser (wait for the confirmation message of
+the build)
+
+```
+Regenerating: 1 file(s) changed at 2019-06-13 09:33:17
+                    index.html
+                    ...done in 10.680932188 seconds.
+```
+
 ## Contributing
 
 ### Making your changes
