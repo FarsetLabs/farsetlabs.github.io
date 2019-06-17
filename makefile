@@ -1,3 +1,4 @@
+.PHONY: docker
 
 .PHONY: configure
 configure:
@@ -40,3 +41,6 @@ assets:
 deploy.s3:
 	@s3cmd sync --delete-removed ${CURDIR}/_site/ s3://farsetlabs.beta/
 
+docker:
+	docker build -t farsetlabs-site .
+	docker run -p 4000:4000 -v `pwd`:/app farsetlabs-site
