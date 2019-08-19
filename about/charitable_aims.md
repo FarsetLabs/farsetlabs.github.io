@@ -12,7 +12,7 @@ The objects of Farset Labs are the education of the public in STEAM (Science, Te
 
 ### Facilitation
 
-The direct benefits which flow from the facilitationof STEAM Education, Entrepreneurship, and Experimentation include improved technical and non technical competencies within and around the STEAM fields, improving employability, personal development and productivity of those beneficiaries
+The direct benefits which flow from the facilitation of STEAM Education, Entrepreneurship, and Experimentation include improved technical and non technical competencies within and around the STEAM fields, improving employability, personal development and productivity of those beneficiaries
 
 There is also an indirect benefit of providing a knowledge sharing community across the wide range of STEAM fields, further facilitating the purposes of the organisation.
 
