@@ -2,6 +2,7 @@
 title: Charitable Aims
 layout: default
 category : pages
+parent : About
 toc : True
 tags : []
 ---
