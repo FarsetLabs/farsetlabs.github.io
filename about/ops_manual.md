@@ -30,6 +30,10 @@ They are collectively, ultimately responsible for the growth and health of the o
 ## Individual Role
 Individually, they are representatives of the company as an entity and have a wide level of autonomy in terms of financial, policy, and operational decision making. 
 
+Directors are expected to monitor their Farset Labs email addresses on at least a daily basis, and their personal contact details should be shared with the other directors to enable emergency communication. 
+
+While the level of engagement of individual directors is highly variable, it is expected that Directors should make best-efforts to attend both Directors Meetings (~4hrs per month) and Town Hall Meetings (~2hrs per month). Additionally they should take time to review, understand and discuss meeting minutes, agendas, and relevant reports from working-groups; managers; or sub-committees. This roughly represents a 6-8 hours per month committment.
+
 ## Appointment
 Director elections for vacated roles will normally be launched within 30 days of the registered departure date of the outgoing director. Nominations for Directorship will be open for 14 days. Applicants must self nominate with a ‘pitch’, having been a member for at least three months.
 
@@ -60,6 +64,8 @@ NEMs represent a limited, non-executive, role in Farset Labs, with no special le
 Their primary role is to act as PoCs within the fields delegated to them. They are not expected to perform every action encompassed by their fields but to be ‘person of responsibility’ for that area.
 
 They also have a responsibility to feed back their activities to the main Directorship, and likewise ensure that Farset Labs policies and rules are being (lovingly) enforced within their fields. NEMs should always endeavour to collaborate and communicate with each other for Farset Labs best interests.
+
+While the level of engagement of individual managers is highly variable, it is expected that managers should make best-efforts to attend both Management Meetings (~2hrs per month) and Town Hall Meetings (~2hrs per month). Additionally they should take time to review, understand and discuss meeting minutes, agendas, and relevant reports to/from the Directors, relevant working groups, or relevant sub-committees. This roughly represents a 4-6 hours per month committment.
 
 ## Appointment
 Appointment of NEMs is the sole responsibility of the Directors. A member may declare their interest to the Directors (via email to admin@farsetlabs.org.uk).
@@ -99,6 +105,8 @@ Complaints about the actions of a NEM can and should be raised as per the genera
 
 ## Summary
 Members of the hackerspace are permitted access and use of the resources controlled by and shared within the space. This includes both equipment and resources directly owned and operated by Farset Labs the company, and equipment and resources donated by members (with per-donation terms attached to each item, primarily covered under the [Hardware Donation Licence](hardware_donation_license.html).
+
+Members are requested to (but not required to) attend the monthly Town Hall meetings; held at 1900 on the first Monday of each month, in the space (unless otherwise informed)
 
 ## Membership Types
 There are currently four operational types of membership of the space. The lines between the levels are intentionally blurred to allow a common-sense assessment on the part of the member/prospective member of how much they are going to use the resources of the space. These levels are not there to restrict use of the space, but to provide a reasonable revenue stream for the ongoing growth of the Labs within the bounds of fair and reasonable use.
