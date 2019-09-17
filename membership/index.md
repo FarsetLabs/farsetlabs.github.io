@@ -34,6 +34,7 @@ There are three Individual Membership rates to match the most common uses of the
 -   **Students** (£15pm); occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^2]
 -   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
 -   **Freelancers** (£35pm); consistently in the space, regularly hot-desking with ongoing long term projects
+-   **Angels** (£75pm); kind people who support the space, regardless of their usage level
 
 All members have voting and room booking[^3] privileges regardless of level.
 
