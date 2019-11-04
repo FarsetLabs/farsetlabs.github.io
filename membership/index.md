@@ -19,6 +19,7 @@ They also get access to all of our equipment and events, as well as the affiliat
 -   [**Workshop** with a growing selection of tools, electronics equipment, and components](/about/facility.html)
 -   **3D prototyping facilities**
 -   [**Free entry** to all Farset Labs events](/events/)[^1]
+-   **Mail** handling
 -   **Networking** with the best and brightest innovators and creators in Belfast
 -   **Belonging** to an accepting and creative community
 -   **Escaping** to an inspiring space
