@@ -80,7 +80,7 @@ If you'd like a more permenant base and additional storage onsite, individual de
 
 Please contact us on <join@farsetlabs.org.uk> to check availability, arrange payment or just to ask any more questions about our desk rental facility.
 
-<a href="mailto:join@farsetlabs.org.uk" class="button expand round">Enquire now</a>
+<a href="mailto:join@farsetlabs.org.uk" class="large button expand round">Enquire now</a>
 -----------------------------------------------------------------------
 
 Day Passes {#daypass}
