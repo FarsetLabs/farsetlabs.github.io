@@ -3,6 +3,8 @@ layout: default
 title: Events & Classes
 category: nav
 weight: 4
+redirect_from:
+  - /calendar
 haschildren: True
 ---
 # Booking an Event
