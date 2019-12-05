@@ -7,11 +7,11 @@ haschildren: True
 ---
 
 <h2>About Farset Labs</h2>
-		{% capture about_farset %}
-			{% include pages/about_farset.md %}
-		{% endcapture %}
-		{{ about_farset | unindent | markdownify }}
-	<hr/>
+    {% capture about_farset %}
+      {% include pages/about_farset.md %}
+    {% endcapture %}
+    {{ about_farset | unindent | markdownify }}
+  <hr/>
 <h2>Current Management Board</h2>
 
 <h3 id="directors">Directors</h3>
@@ -71,7 +71,7 @@ haschildren: True
             <ul class="small button-group round right">
               {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
             </ul>
-            
+
         </div>
     </div>
     {% endunless %}
@@ -88,22 +88,22 @@ haschildren: True
 <h2>Farset Labs Former Officers</h2>
 <div class="block row">
     <div class="small-12 columns">
-		<p>All former officers are listed with last office held</p>
-		<ul>
-			<li>Ellen Murray: Director/Founder (2011-2013)</li>
-			<li>Ben Bland: Director (2013-2014)</li>
-			<li>Rachel Gregg: Community NEM (2014-2015)</li>
-			<li>Matt Hazley: Projects NEM (2015)</li>
-			<li>Ben Bland: Development NEM (2014-2016)</li>
-			<li>Pip Shea: Director (2015-2016)</li>
-			<li>Conor Robinson: Director (2014-2016)</li>
-			<li>Andrew Mulholland: Outreach NEM (2015-2018)</li>
-			<li>Colin Kelsey: Facilities NEM (2015-2018)</li>
+    <p>All former officers are listed with last office held</p>
+    <ul>
+      <li>Ellen Murray: Director/Founder (2011-2013)</li>
+      <li>Ben Bland: Director (2013-2014)</li>
+      <li>Rachel Gregg: Community NEM (2014-2015)</li>
+      <li>Matt Hazley: Projects NEM (2015)</li>
+      <li>Ben Bland: Development NEM (2014-2016)</li>
+      <li>Pip Shea: Director (2015-2016)</li>
+      <li>Conor Robinson: Director (2014-2016)</li>
+      <li>Andrew Mulholland: Outreach NEM (2015-2018)</li>
+      <li>Colin Kelsey: Facilities NEM (2015-2018)</li>
       <li>Zoe Gadon-Thompson: Outreach NEM (2018-2019)</li>
-		</ul>
+    </ul>
     </div>
 </div>
-		
+
 <h2>Acknowledgements</h2>
 
 <div class="block row">
