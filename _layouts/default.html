@@ -40,7 +40,6 @@
     <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo.png">
     <meta property="og:image" content="{{ site.url }}/assets/img/full-banner.png">
     {% endif %}
-
     <title>{{ page.title }}</title>
     <link rel="shortcut icon" href="{{site.base}}/assets/img/favicon.ico">
     <link rel="stylesheet" href="{{site.base}}/assets/foundation/css/normalize.css">
@@ -91,7 +90,7 @@
                                 <a href="{{site.base}}/">Home</a>
                               </li>
                               <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-                            </ul>                     
+                            </ul>
                             <ul class="right">
                               {% assign sorted_pages = site.pages | sort:"name" %}
                                 {% for weight in (1..10) %}
@@ -128,7 +127,6 @@
                                     {% endif %}
                                   {% endfor %}
                                 {% endfor %}
-
                                 {% for link in site.links %}
                                   {% if link.list %}
                                   <li class="has-dropdown">
@@ -142,7 +140,6 @@
                                     {% else %}
                                     <li><a href={{link.url}}>{{link.name}}</a></li>
                                   {% endif %}
-
                                 {% endfor %}
                             </ul>
                         </section>
@@ -167,20 +164,19 @@
             </div>
           </div>
           {% endif %}
-
-            <div class="row">
-                <div class="small-12 columns">
-                  {% if page.toc %}
-                  <dl class="accordion" data-accordion>
-                    <dd>
-                      <a href="#toc">Table of Contents</a>
-                      <div id="toc" class="content toc"></div>
-                    </dd>
-                  </dl>
-                  {% endif %}
-                                       {{content}}
-                </div>
+          <div class="row">
+            <div class="small-12 columns">
+              {% if page.toc %}
+              <dl class="accordion" data-accordion>
+                <dd>
+                  <a href="#toc">Table of Contents</a>
+                  <div id="toc" class="content toc"></div>
+                </dd>
+              </dl>
+              {% endif %}
+              {{content}}
             </div>
+          </div>
         </section>
     </div>
     <footer id="footer">
@@ -193,7 +189,7 @@
               {{ footer | unindent | markdownify }}
             </div>
             <div class="small-6 columns text-right">
-<a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://argskwargs.io">averagehuman</a>.
+                <a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://argskwargs.io">averagehuman</a>.
             </div>
         </div>
         </section>
