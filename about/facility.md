@@ -56,7 +56,7 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
 ![](/about/Coworking_pano_800.jpg)
 
   * Flexible hot-desking and several computers, all on first-come-first-served basis.
-  * Desks to hire from £100 per month.
+  * Desks to hire from £125 per month.
   * Printing, photocopying and other office facilities.
   * A top class library of technical and non technical material (and a Wired UK subscription)
 
@@ -78,7 +78,7 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
   * Mobile workbenches.
   * Project storage shelving and boxes.
 
-Two workbenches at the back of the space are available for hire on the same basis as regular rentable desks (£100/m)
+Two workbenches at the back of the space are available for hire on the same basis as regular rentable desks (£125/m)
 
 # Hiring the Space
 
