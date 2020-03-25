@@ -51,15 +51,6 @@ officers:
     github: "andrewbolster"
     discourse: "bolster"
 
-  - name: David Kane
-    username: kane
-    year: 2011 -
-    title: "Director/Founder"
-    blurb: "Postgraduate researcher specialising in condensed matter physics, embedded developer and all round good guy."
-    email: "david@farsetlabs.org.uk"
-    twitter: "dsrkane"
-    discourse: "kane"
-
   - name: Dylan Wylie
     username: wylie
     year: 2013 -
