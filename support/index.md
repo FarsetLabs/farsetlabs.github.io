@@ -2,7 +2,7 @@
 layout: default
 title: Support
 category: nav
-weight: 2
+weight: 3
 redirect_from: /donate
 haschildren: True
 ---

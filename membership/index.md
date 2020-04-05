@@ -2,8 +2,7 @@
 layout: default
 title: Join
 category: nav
-weight: 1
-haschildren: true
+weight: 2
 image: /membership/membership_800.jpg
 ---
 Membership Benefits
