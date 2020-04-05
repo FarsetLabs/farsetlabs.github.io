@@ -83,6 +83,10 @@ a {
       } 
       .carousel-post p { line-height:125% !important;}
 
+.carousel {
+  margin-bottom: 1.25rem;
+}
+
 .directors {
 
   }
