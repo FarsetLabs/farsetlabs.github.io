@@ -2,7 +2,7 @@
 layout: default
 title: Events & Classes
 category: nav
-weight: 4
+weight: 5
 redirect_from:
   - /calendar
 haschildren: True
