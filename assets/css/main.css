@@ -87,6 +87,13 @@ a {
   margin-bottom: 1.25rem;
 }
 
+.carousel-slider-overrides {
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
 .directors {
 
   }
