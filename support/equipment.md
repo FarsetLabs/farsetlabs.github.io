@@ -27,5 +27,5 @@ This decision will be made with the following factors in mind:
 
 If a piece of equipment is being brought into the space for use by a particular member or on a particular project temporarily and is not being donated to Farset Labs itself, this process can be reduced to posting on the discourse thread and looking for someone to take responsibility for the equipment and it's storage in their own personal project storage space.
 
-*Unless Farset Labs' Directors and/or Project / Facilities NEMs directly acknowledge and accept the donation or storage of equipment via email, Farset Labs bears no responsibility to the use of that equipment and cannot be held liable for any misuse / damage incurred*
+*Unless Farset Labs' Directors and/or Project / Facilities NEMs directly acknowledge and accept the donation or storage of equipment via email, Farset Labs bears no responsibility to the use of that equipment and cannot be held liable for any misuse / damage incurred.*
 
