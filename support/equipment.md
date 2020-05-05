@@ -6,7 +6,7 @@ parent: "Support"
 
 # Equipment/Materiel Donations
 
-Farset Labs gladly accepts donations of interesting and useful equipment, however to ensure the safety and efficiency of the space, there is a review process for these. 
+Farset Labs gladly accepts donations of interesting and useful equipment, however to ensure the safety and efficiency of the space, there is a review process for these.
 
 *Please do not dump donations on a free desk in the space*
 
