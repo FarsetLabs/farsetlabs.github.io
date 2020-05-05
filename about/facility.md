@@ -17,20 +17,20 @@ For a low [membership fee](/membership/index.html), students, hobbyists, and all
 
 Farset Labs provides members with a wide range of communal resources, so members can play and build as you wish. These include:
 
-  * Dedicated high-speed fibre internet;
-  * Networking, server resources and computers of all sorts such as Raspberry Pis, iMacs, and even BBC Micros;
-  * A hefty collection of classic gaming consoles;
-  * Various robots and mobile platforms;
-  * Kitchen and lounge; 
-  * A growing library of tools including: 3D printer, vinyl cutter, electronics kits, solder stations, part libraries;
+  * Dedicated high-speed fibre internet
+  * Networking, server resources and computers of all sorts such as Raspberry Pis, iMacs, and even BBC Micros
+  * A hefty collection of classic gaming consoles
+  * Various robots and mobile platforms
+  * Kitchen and lounge
+  * A growing library of tools including: 3D printer, vinyl cutter, electronics kits, solder stations, part libraries
   * Basic metal and woodworking facilities (light-duty pedestal drill and basic hand tools)
 
 Typical projects and events include:
 
-  * Electronics, communications and computer science;
-  * Manufacturing, making & craft;
-  * Brewing;
-  * Art, music & sculpture;
+  * Electronics, communications and computer science
+  * Manufacturing, making & craft
+  * Brewing
+  * Art, music & sculpture
   * Local user & interest groups
 
 We provide space, tools and community. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please (within reason!). Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a [Code of Conduct](/about/code_of_conduct.html) to avoid injury, upset... and fires.
@@ -55,29 +55,29 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
 
 ![](/about/Coworking_pano_800.jpg)
 
-  * Flexible hot-desking and several computers, all on first-come-first-served basis.
-  * Desks to hire from £100 per month.
-  * Printing, photocopying and other office facilities.
+  * Flexible hot-desking and several computers, all on first-come-first-served basis
+  * Desks to hire from £100 per month
+  * Printing, photocopying and other office facilities
   * A top class library of technical and non technical material (and a Wired UK subscription)
 
 ## Events Room
 
 ![](/about/event_space_pano.jpg)
 
-  * Multipurpose venue for approx 50 standing / 35 seated. 
-  * Comprehensive AV setup, including projector, 5:1 surround sound speakers, and PA system.
+  * Multipurpose venue for approx 50 standing / 35 seated.
+  * Comprehensive AV setup, including projector, 5:1 surround sound speakers, and PA system
 
 ## Project Room
 ![](/about/workshop.jpg)
 
-  * 3D printer and vinyl cutter.
-  * Electronic test equipment and soldering irons.
-  * Light-duty pedestal drill and basic hand tools.
-  * Library of electronic & craft components.
-  * Mobile workbenches.
-  * Project storage shelving and boxes.
+  * 3D printer and vinyl cutter
+  * Electronic test equipment and soldering irons
+  * Light-duty pedestal drill and basic hand tools
+  * Library of electronic & craft components
+  * Mobile workbenches
+  * Project storage shelving and boxes
 
-Two workbenches at the back of the space are available for hire on the same basis as regular rentable desks (£100/m)
+Two workbenches at the back of the space are available for hire on the same basis as regular rentable desks (£100/m).
 
 # Hiring the Space
 
