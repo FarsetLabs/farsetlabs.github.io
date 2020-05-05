@@ -66,7 +66,6 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
 
   * Multipurpose venue for approx 50 standing / 35 seated. 
   * Comprehensive AV setup, including projector, 5:1 surround sound speakers, and PA system.
-  * 30m<sup>2</sup> blackboard for idea sharing (surely the biggest in N.Ireland!).
 
 ## Project Room
 ![](/about/workshop.jpg)
