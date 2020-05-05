@@ -16,7 +16,7 @@ For companies that think what we're doing is great, we offer them a way to help 
 *   **Community Awareness and Impact** through co-recognition in our outreach and educational programmes
 *   **Captive Marketing** opportunities through our member community online and in the space.
 *   A seat on the **Farset Labs Advisory Board**, contributing to the strategic direction of the charity
-*   Corporate membership has the same **voting power** as an individual.
+*   Corporate membership has the same **voting power** as an individual
 
 If you are interested in becoming a Corporate Member or supporting one or more of our programmes, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk) to discuss your requirements.
 
