@@ -8,14 +8,14 @@ parent: "Support"
 
 Farset Labs gladly accepts donations of interesting and useful equipment, however to ensure the safety and efficiency of the space, there is a review process for these.
 
-*Please do not dump donations on a free desk in the space*
+*Please do not dump donations on a free desk in the space.*
 
 This process generally consists of three (or four) stages:
 
 1. Read the [Hardware Donation Licence](hardware_donation_license.html) and decide what restrictions if any you would like to put on your donations. This ranges from "Do what thou wilt" to "Do not disassemble, only to be used on [project], must be returned with 30 days notice"
 1. (Optional) Post on the [appropriate Discourse thread](https://discourse.farsetlabs.org.uk/t/equipment-donation-thread/229) to gauge the demand for particular items
 1. Email [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) with a list of what you would like to donate
-1. A decision will be taken by the Directors and the Project / Facilities NEMs whether to accept or reject your donation, and arrangements will be made to collect / store the equipment.
+1. A decision will be taken by the Directors and the Project / Facilities NEMs whether to accept or reject your donation, and arrangements will be made to collect / store the equipment
 
 This decision will be made with the following factors in mind:
 
