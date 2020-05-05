@@ -28,7 +28,7 @@ They also get access to all of our equipment and events, as well as the affiliat
 Membership Types {#membership-dues}
 ================
 
-There are three Individual Membership rates to match the most common uses of the space
+There are three Individual Membership rates to match the most common uses of the space:
 
 -   **Students** (£15pm); occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^2]
 -   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
@@ -118,9 +118,9 @@ or otherwise, please review our [Sponsored Membership Policy](/about/sponsored_m
 
 ------------------------------------------------------------------------
 
-[^1]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate
+[^1]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate.
 
-[^2]: All student members must hold current, valid, student ID’s for the duration of their membership at that level
+[^2]: All student members must hold current, valid, student ID’s for the duration of their membership at that level.
 
-[^3]: Freelancers get room booking priority for the lounge and can book the lounge as a meeting room for external guests
+[^3]: Freelancers get room booking priority for the lounge and can book the lounge as a meeting room for external guests.
 
