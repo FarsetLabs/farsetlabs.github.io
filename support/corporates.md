@@ -43,5 +43,5 @@ internet marketplace.
 Special thanks have to go to [Weavers Court Business Park](http://www.weaverscourt.com/); without the confidence and tireless support of Tom Ekin, Gary Cassels, and the whole Weavers Court team, Farset Labs simply couldn't be.
 
 
-[^corp]: These corporate benefits are limited to two passes per event/day
+[^corp]: These corporate benefits are limited to two passes per event/day.
 
