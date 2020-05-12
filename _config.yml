@@ -20,8 +20,9 @@ social:
   twitter: "https://www.twitter.com/FarsetLabs"
   flickr: "https://www.flickr.com/groups/farset_labs"
   blogfeed: "https://blog.farsetlabs.org.uk/feed/"
-  chat: "https://farsetlabs.org.uk/slack"
+  slack: "http://slackin.farsetlabs.org.uk/"
   twitch: "https://www.twitch.tv/farsetlabs"
+  instagram: "https://www.instagram.com/farsetlabs"
 links:
   - name: Blog
     url: "https://blog.farsetlabs.org.uk/"
