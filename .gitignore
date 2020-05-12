@@ -4,3 +4,4 @@ _site
 etc
 bin
 *.swp
+Gemfile.lock
