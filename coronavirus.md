@@ -10,8 +10,6 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 * **❌ Members: No**
 * **💻 Events and meetings: Remote**
 
-_Last updated on the 19th of May 2020._
-
 _Last reviewed on the 1st of June 2020._
 
 ---
