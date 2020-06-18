@@ -1,4 +1,4 @@
-FROM            jekyll/jekyll
+FROM            jekyll/jekyll:3
 EXPOSE          4000
 
 COPY            Gemfile* /tmp/
