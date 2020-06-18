@@ -1,44 +1,44 @@
 <!DOCTYPE html>
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html class="no-js" lang="en">
-<head>
+  <head>
     <meta charset="utf-8" http-equiv="encoding">
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="{{site.keywords}}">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.social.twitter }}">
-    <meta name="twitter:creator" content="@{{ site.social.twitter }}">
-    <meta property="og:type" content="article">
-    <meta property="og:site_name" content="Farset Labs">
-    <meta property="fb:app_id" content="218300458266006">
-    <meta property="article:publisher" content="https://www.facebook.com/FarsetLabs">
+    <meta content="summary" name="twitter:card">
+    <meta content="@{{ site.social.twitter }}" name="twitter:site">
+    <meta content="@{{ site.social.twitter }}" name="twitter:creator">
+    <meta content="article" property="og:type">
+    <meta content="Farset Labs" property="og:site_name">
+    <meta content="218300458266006" property="fb:app_id">
+    <meta content="https://www.facebook.com/FarsetLabs" property="article:publisher">
     {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta property="og:title" content="{{ page.title }}">
+      <meta name="twitter:title" content="{{ page.title }}">
+      <meta property="og:title" content="{{ page.title }}">
     {% else %}
-    <meta name="twitter:title" content="{{ site.title }}">
-    <meta property="og:title" content="{{ site.title }}">
+      <meta name="twitter:title" content="{{ site.title }}">
+      <meta property="og:title" content="{{ site.title }}">
     {% endif %}
     {% if page.url %}
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
     {% if page.description %}
-    <meta name="description" content="{{page.description}}">
-    <meta name="twitter:description" content="{{ page.description }}">
-    <meta property="og:description" content="{{ page.description }}">
+      <meta name="description" content="{{page.description}}">
+      <meta name="twitter:description" content="{{ page.description }}">
+      <meta property="og:description" content="{{ page.description }}">
     {% else %}
-    <meta name="description" content="{{site.description}}">
-    <meta name="twitter:description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}">
+      <meta name="description" content="{{site.description}}">
+      <meta name="twitter:description" content="{{ site.description }}">
+      <meta property="og:description" content="{{ site.description }}">
     {% endif %}
     {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
-    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+      <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
+      <meta property="og:image" content="{{ site.url }}{{ page.image }}">
     {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo-pride.png">
-    <meta property="og:image" content="{{ site.url }}/assets/img/full-banner-pride.png">
+      <meta name="twitter:image:src" content="{{ site.url }}/assets/img/logo-pride.png">
+      <meta property="og:image" content="{{ site.url }}/assets/img/full-banner-pride.png">
     {% endif %}
     <title>{{ page.title }}</title>
     <link rel="shortcut icon" href="{{site.base}}/assets/img/favicon-pride.ico">
@@ -50,18 +50,18 @@
     <link rel="stylesheet" href="{{site.base}}/assets/iridium/iridium.css">
     <link rel="stylesheet" href="{{site.base}}/assets/css/fsl-style.css">
     <link rel="stylesheet" href="{{site.base}}/assets/css/main.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" rel="stylesheet">
     <script src="{{site.base}}/assets/foundation/js/vendor/jquery.js"></script>
     <script src="{{site.base}}/assets/foundation/js/vendor/custom.modernizr.js"></script>
     {% if page.carousel %}
-    <!-- Flexslider Library  -->
-    <script src="/assets/js/jquery.flexslider-min.js"></script>
-    <!-- Initialisation Code  -->
-    <script src="/assets/js/slider.js"></script>
+      <!-- Flexslider Library  -->
+      <script src="/assets/js/jquery.flexslider-min.js"></script>
+      <!-- Initialisation Code  -->
+      <script src="/assets/js/slider.js"></script>
     {% endif %}
     {% include google_analytics.html %}
-</head>
-<body>
+  </head>
+  <body>
     <div id="page-wrap">
       <div id="banner-wrap">
         <div class="row">
@@ -70,173 +70,227 @@
               <img id="header-logo" src="{{site.base}}/assets/img/logo-pride_60.png"/>
 
               <a href="/">
-                <span class="fsl-purple">Farset</span><span class="fsl-green">Labs</span><small class="subheader"> BELFAST</small>
+                <span class="fsl-purple">Farset</span>
+                <span class="fsl-green">Labs</span>
+                <small class="subheader">
+                  BELFAST</small>
               </a>
             </h1>
           </div>
         </div>
       </div>
 
-         <a id="forkMeButton" href="https://github.com/FarsetLabs/farsetlabs.github.io/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork us on GitHub"></a>
-        <div id="primary-nav">
-            <div class="row">
-                <div class="small-12 columns">
-                    <div class="contain-to-grid sticky">
-                    <nav class="top-bar" data-topbar data-options="mobile_show_parent_link: true">
-                        <section class="top-bar-section">
-                            <ul class="title-area">
-                              <li class="name">
-                                <a href="{{site.base}}/">Home</a>
-                              </li>
-                              <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
-                            </ul>
-                            <ul class="right">
-                              {% assign sorted_pages = site.pages | sort:"name" %}
-                                {% for weight in (1..10) %}
-                                  {% for p in sorted_pages %}
-                                    {% if p.category == "nav" and p.weight == weight %}
-                                      {% if p.haschildren %}
-                                      <li class="has-dropdown name">
-                                        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-                                            {{ p.title }}
-                                          </a>
-                                        <ul class="dropdown">
-                                          {% for i_weight in (1..10) %}
-                                            {% for child in sorted_pages %}
-                                              {% if child.parent == p.title and child.weight == i_weight %}
-                                                <li><a href={{child.url}}>{{child.title}}</a></li>
-                                              {% endif %}
-                                            {% endfor %}
-                                          {% endfor %}
-                                          {% for child in sorted_pages %}
-                                            {% if child.parent == p.title and child.weight == None %}
-                                              <li><a href={{child.url}}>{{child.title}}</a></li>
-                                            {% endif %}
-                                          {% endfor %}
-                                        </ul>
-                                      </li>
-                                      {% else %}
+      <a href="https://github.com/FarsetLabs/farsetlabs.github.io/" id="forkMeButton"><img alt="Fork us on GitHub" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" style="position: absolute; top: 0; right: 0; border: 0;"></a>
+      <div id="primary-nav">
+        <div class="row">
+          <div class="small-12 columns">
+            <div class="contain-to-grid sticky">
+              <nav class="top-bar" data-options="mobile_show_parent_link: true" data-topbar>
+                <section class="top-bar-section">
+                  <ul class="title-area">
+                    <li class="name">
+                      <a href="{{site.base}}/">Home</a>
+                    </li>
+                    <li class="toggle-topbar menu-icon">
+                      <a href="#">Menu</a>
+                    </li>
+                  </ul>
+                  <ul class="right">
+                    {% assign sorted_pages = site.pages | sort:"name" %}
+                    {% for weight in (1..10) %}
+                      {% for p in sorted_pages %}
+                        {% if p.category == "nav" and p.weight == weight %}
+                          {% if p.haschildren %}
+                            <li class="has-dropdown name">
+                              <a {% if p.url == page.url %} class="active" {% endif %} href="{{ p.url }}">
+                                {{ p.title }}
+                              </a>
+                              <ul class="dropdown">
+                                {% for i_weight in (1..10) %}
+                                  {% for child in sorted_pages %}
+                                    {% if child.parent == p.title and child.weight == i_weight %}
                                       <li>
-                                        <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
-                                          {% if p.icon %}<i class="{{p.icon}}"></i>{% endif %}
-                                          {{ p.title }}
-                                        </a>
+                                        <a href={{child.url}}>{{child.title}}</a>
                                       </li>
-                                      {% endif %}
                                     {% endif %}
                                   {% endfor %}
                                 {% endfor %}
-                                {% for link in site.links %}
-                                  {% if link.list %}
-                                  <li class="has-dropdown">
-                                    <a href="#">{{link.name}}</a>
-                                    <ul class="dropdown">
-                                      {% for item in link.list %}
-                                      <li><a href={{item.url}}>{{item.name}}</a></li>
-                                      {% endfor %}
-                                    </ul>
-                                  </li>
-                                    {% else %}
-                                    <li><a href={{link.url}}>{{link.name}}</a></li>
+                                {% for child in sorted_pages %}
+                                  {% if child.parent == p.title and child.weight == None %}
+                                    <li>
+                                      <a href={{child.url}}>{{child.title}}</a>
+                                    </li>
                                   {% endif %}
                                 {% endfor %}
-                            </ul>
-                        </section>
-                    </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="covid-19-statement" class="row">
-          <div class="small-12 columns" style="height:45px; display: flex; align-items: center;">
-            <div style="display: flex; align-items: center; width: 100%; height: 100%; padding: 0 15px; background-color: #ffd411;">
-              <a href="/coronavirus" style="font-size: 0.9em; font-weight: bold;">Coronavirus: Information for Members and Visitors</a>
+                              </ul>
+                            </li>
+                          {% else %}
+                            <li>
+                              <a {% if p.url == page.url %} class="active" {% endif %} href="{{ p.url }}">
+                                {% if p.icon %}
+                                  <i class="{{p.icon}}"></i>
+                                {% endif %}
+                                {{ p.title }}
+                              </a>
+                            </li>
+                          {% endif %}
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                    {% for link in site.links %}
+                      {% if link.list %}
+                        <li class="has-dropdown">
+                          <a href="#">{{link.name}}</a>
+                          <ul class="dropdown">
+                            {% for item in link.list %}
+                              <li>
+                                <a href={{item.url}}>{{item.name}}</a>
+                              </li>
+                            {% endfor %}
+                          </ul>
+                        </li>
+                      {% else %}
+                        <li>
+                          <a href={{link.url}}>{{link.name}}</a>
+                        </li>
+                      {% endif %}
+                    {% endfor %}
+                  </ul>
+                </section>
+              </nav>
             </div>
           </div>
         </div>
+      </div>
 
-        <section id="page-content" class="content">
-          {% if page.carousel %}
+      <div class="row" id="covid-19-statement">
+        <div class="small-12 columns" style="height:45px; display: flex; align-items: center;">
+          <div style="display: flex; align-items: center; width: 100%; height: 100%; padding: 0 15px; background-color: #ffd411;">
+            <a href="/coronavirus" style="font-size: 0.9em; font-weight: bold;">Coronavirus: Information for Members and Visitors</a>
+          </div>
+        </div>
+      </div>
+
+      <section class="content" id="page-content">
+        {% if page.carousel %}
           <div class="row carousel">
             <div class="flex-container small-12 columns">
               <div class="flexslider carousel-slider-overrides">
                 <ul class="slides">
                   {% for slides in page.carousel %}
-                  <li>
-                  <img src="{{ slides.image }}">
-                  </li>
+                    <li>
+                      <img src="{{ slides.image }}">
+                    </li>
                   {% endfor %}
                 </ul>
               </div>
             </div>
           </div>
-          {% endif %}
-          <div class="row">
-            <div class="small-12 columns">
-              {% if page.toc %}
+        {% endif %}
+        <div class="row">
+          <div class="small-12 columns">
+            {% if page.toc %}
               <dl class="accordion" data-accordion>
                 <dd>
                   <a href="#toc">Table of Contents</a>
-                  <div id="toc" class="content toc"></div>
+                  <div class="content toc" id="toc"></div>
                 </dd>
               </dl>
-              {% endif %}
-              {{content}}
-            </div>
+            {% endif %}
+            {{content}}
           </div>
-        </section>
+        </div>
+      </section>
     </div>
 
     <footer id="farset-labs-footer">
-        <section class="information">
-          <div class="row">
-            <div class="small-12 medium-6 columns">
-              <ul id="social-media-icons" class="inline-icons inline-list">
-                <li><a href="{{site.social.github}}" rel="publisher"><i class="fab fa-github"></i></a></li>
-                <li><a href="{{site.social.twitter}}" rel="publisher"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="{{site.social.facebook}}" rel="publisher"><i class="fab fa-facebook-square"></i></a></li>
-                <li><a href="{{site.social.slack}}" rel="publisher"><i class="fab fa-slack"></i></a>
-                <li><a href="{{site.social.flickr}}"><i class="fab fa-flickr"></i></a></li>
-                <li><a href="{{site.social.instagram}}"><i class="fab fa-instagram"></i></a></li>
-                <li><a href="{{site.social.blogfeed}}"><i class="fas fa-rss"></i></a></li>
-                <li><a href="{{site.social.twitch}}" rel="publisher"><i class="fab fa-twitch"></i></a>
-              </ul>
-            </div>
+      <section class="information">
+        <div class="row">
+          <div class="small-12 medium-6 columns">
+            <ul class="inline-icons inline-list" id="social-media-icons">
+              <li>
+                <a href="{{site.social.github}}" rel="publisher">
+                  <i class="fab fa-github"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.twitter}}" rel="publisher">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.facebook}}" rel="publisher">
+                  <i class="fab fa-facebook-square"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.slack}}" rel="publisher">
+                  <i class="fab fa-slack"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.flickr}}">
+                  <i class="fab fa-flickr"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.instagram}}">
+                  <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.blogfeed}}">
+                  <i class="fas fa-rss"></i>
+                </a>
+              </li>
+              <li>
+                <a href="{{site.social.twitch}}" rel="publisher">
+                  <i class="fab fa-twitch"></i>
+                </a>
+              </li>
+            </ul>
+          </div>
 
-            <div class="columns small-12 medium-6">
-              <p>
-              <a href="https://www.farsetlabs.org.uk/">Farset Labs</a> is a <a href="https://www.charitycommissionni.org.uk/charity-details/?regId=102754&subId=0">Registered Charity (NIC102754)</a> and a non-profit <a href="https://beta.companieshouse.gov.uk/company/NI611278">Private Limited Company (NI611278)</a>, based in Belfast, Northern Ireland.
-              </p>
-              <div id="fundraising-regulator-badge">
+          <div class="columns small-12 medium-6">
+            <p>
+              <a href="https://www.farsetlabs.org.uk/">Farset Labs</a>
+              is a
+              <a href="https://www.charitycommissionni.org.uk/charity-details/?regId=102754&subId=0">Registered Charity (NIC102754)</a>
+              and a non-profit
+              <a href="https://beta.companieshouse.gov.uk/company/NI611278">Private Limited Company (NI611278)</a>, based in Belfast, Northern Ireland.
+            </p>
+            <div id="fundraising-regulator-badge">
               <a href="https://fundraisingregulator.org.uk">
-                <img src="{{site.base}}/assets/img/fr_badge.png" alt='Registered with the Fundraising Regulator'>
+                <img src="{{site.base}}/assets/img/fr_badge.png" alt="Registered with the Fundraising Regulator">
               </a>
-              </div>
             </div>
           </div>
-        </section>
+        </div>
+      </section>
 
-        <section class="attribution-and-copyright">
-          <div class="row">
-            <div id="copyright" class="columns small-12 medium-6">
-              <p>
-                Copyright <a href="https://farsetlabs.org.uk">Farset Labs</a> {{ site.time | date: '%Y' }}.
-              </p>
-            </div>
-            <div id="attribution" class="columns small-12 medium-6">
-              <p>
-                <a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://argskwargs.io">averagehuman</a>.
-              </p>
-            </div>
+      <section class="attribution-and-copyright">
+        <div class="row">
+          <div class="columns small-12 medium-6" id="copyright">
+            <p>
+              Copyright
+              <a href="https://farsetlabs.org.uk">Farset Labs</a>
+              {{ site.time | date: '%Y' }}.
+            </p>
           </div>
-        </section>
+          <div class="columns small-12 medium-6" id="attribution">
+            <p>
+              <a href="http://jekyllrb.com">Jekyll</a>
+              theme by
+              <a href="http://argskwargs.io">averagehuman</a>.
+            </p>
+          </div>
+        </div>
+      </section>
     </footer>
 
     <script src="{{site.base}}/assets/foundation/js/foundation.js"></script>
     <script src="{{site.base}}/assets/foundation/js/foundation.topbar.js"></script>
     <script src="{{site.base}}/assets/js/toc.js"></script>
     <script> $(document).foundation(); </script>
-</body>
+  </body>
 </html>
-
