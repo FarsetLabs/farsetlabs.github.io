@@ -63,28 +63,20 @@
 </head>
 <body>
     <div id="page-wrap">
-        <div id="banner-wrap">
-            <div class="row">
-              <div class="small-7 columns">
-                <h1 class="banner">
-                  <a href="/">
-                    <img src="{{site.base}}/assets/img/logo-pride_60.png"/>
-                    <span class="fsl-purple">Farset</span><span class="fsl-green">Labs</span><small class="subheader"> BELFAST</small></a></h1>
-                </div>
-                <div class="small-5 columns">
-                    <ul class="inline-icons inline-list right">
-                      <li><a href="{{site.social.github}}" rel="publisher"><i class="social foundicon-github"></i></a></li>
-                      <li><a href="{{site.social.twitter}}" rel="publisher"><i class="social foundicon-twitter"></i></a></li>
-                      <li><a href="{{site.social.facebook}}" rel="publisher"><i class="social foundicon-facebook"></i></a></li>
-                      <li><a href="{{site.social.slack}}" rel="publisher"><i class="fab fa-slack-hash" style="padding-top: 10px;"></i></a>
-                      <li><a href="{{site.social.flickr}}"><i class="social foundicon-flickr"></i></a></li>
-                      <li><a href="{{site.social.instagram}}"><i class="social foundicon-instagram"></i></a></li>
-                      <li><a href="{{site.social.blogfeed}}"><i class="social foundicon-rss"></i></a></li>
-                      <li><a href="{{site.social.twitch}}" rel="publisher"><i class="fab fa-twitch" style="padding-top: 10px;"></i></a>
-                    </ul>
-                </div>
-            </div>
+      <div id="banner-wrap">
+        <div class="row">
+          <div class="small-12 columns">
+            <h1 class="banner">
+              <img id="header-logo" src="{{site.base}}/assets/img/logo-pride_60.png"/>
+
+              <a href="/">
+                <span class="fsl-purple">Farset</span><span class="fsl-green">Labs</span><small class="subheader"> BELFAST</small>
+              </a>
+            </h1>
+          </div>
         </div>
+      </div>
+
          <a id="forkMeButton" href="https://github.com/FarsetLabs/farsetlabs.github.io/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork us on GitHub"></a>
         <div id="primary-nav">
             <div class="row">
@@ -195,25 +187,52 @@
           </div>
         </section>
     </div>
-    <footer id="footer">
-        <section class="attribution">
-        <div class="row">
-            <div class="small-6 columns">
-              {% capture footer %}
-                {% include pages/footer.md %}
-              {% endcapture %}
-              {{ footer | unindent | markdownify }}
+
+    <footer id="farset-labs-footer">
+        <section class="information">
+          <div class="row">
+            <div class="small-12 medium-6 columns">
+              <ul id="social-media-icons" class="inline-icons inline-list">
+                <li><a href="{{site.social.github}}" rel="publisher"><i class="fab fa-github"></i></a></li>
+                <li><a href="{{site.social.twitter}}" rel="publisher"><i class="fab fa-twitter"></i></a></li>
+                <li><a href="{{site.social.facebook}}" rel="publisher"><i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="{{site.social.slack}}" rel="publisher"><i class="fab fa-slack"></i></a>
+                <li><a href="{{site.social.flickr}}"><i class="fab fa-flickr"></i></a></li>
+                <li><a href="{{site.social.instagram}}"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="{{site.social.blogfeed}}"><i class="fas fa-rss"></i></a></li>
+                <li><a href="{{site.social.twitch}}" rel="publisher"><i class="fab fa-twitch"></i></a>
+              </ul>
             </div>
-            <div class="small-6 columns text-right">
-		<a href="https://fundraisingregulator.org.uk">
-		  <img src="{{site.base}}/assets/img/fr_badge.png" alt='Registered with the Fundraising Regulator'>
-		</a>
-		</br>
+
+            <div class="columns small-12 medium-6">
+              <p>
+              <a href="https://www.farsetlabs.org.uk/">Farset Labs</a> is a <a href="https://www.charitycommissionni.org.uk/charity-details/?regId=102754&subId=0">Registered Charity (NIC102754)</a> and a non-profit <a href="https://beta.companieshouse.gov.uk/company/NI611278">Private Limited Company (NI611278)</a>, based in Belfast, Northern Ireland.
+              </p>
+              <div id="fundraising-regulator-badge">
+              <a href="https://fundraisingregulator.org.uk">
+                <img src="{{site.base}}/assets/img/fr_badge.png" alt='Registered with the Fundraising Regulator'>
+              </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="attribution-and-copyright">
+          <div class="row">
+            <div id="copyright" class="columns small-12 medium-6">
+              <p>
+                Copyright <a href="https://farsetlabs.org.uk">Farset Labs</a> {{ site.time | date: '%Y' }}.
+              </p>
+            </div>
+            <div id="attribution" class="columns small-12 medium-6">
+              <p>
                 <a href="http://jekyllrb.com">Jekyll</a> theme by <a href="http://argskwargs.io">averagehuman</a>.
+              </p>
             </div>
-        </div>
+          </div>
         </section>
     </footer>
+
     <script src="{{site.base}}/assets/foundation/js/foundation.js"></script>
     <script src="{{site.base}}/assets/foundation/js/foundation.topbar.js"></script>
     <script src="{{site.base}}/assets/js/toc.js"></script>
