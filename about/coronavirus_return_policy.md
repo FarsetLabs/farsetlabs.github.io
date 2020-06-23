@@ -8,27 +8,6 @@ These temporary guidelines will remain under constant review, with particular re
 
 In issuing these guidelines the Labs trustees acknowledge that it may be necessary to close the building again at short notice in response to future government directives.
 
-## Symptoms and Spread of COVID-19
-
-### Symptoms
-
-The following symptoms may develop in the 14 days after exposure to someone who has COVID-19 infection:
-
-- a high temperature – this means you feel hot to touch on your chest or back (you do not need to measure your temperature)
-- a new, continuous cough – this means coughing a lot for more than an hour, or 3 or more coughing episodes in 24 hours (if you usually have a cough, it may be worse than usual)
-- a loss or change to your sense of smell or taste – this means you've noticed you cannot smell or taste anything, or things smell or taste different to normal
-
-Generally, these infections can cause more severe symptoms in people with weakened immune systems, older people, and those with long-term conditions like diabetes, cancer and chronic lung disease.
-
-### Spread of COVID-19
-
-From what is known about other coronaviruses, the spread of COVID-19 is most likely to happen when there is close contact with an infected person. It is likely that the risk increases the longer someone has close contact with an infected person. Respiratory secretions produced when an infected person coughs or sneezes containing the virus are most likely to be the main means of transmission.
-
-There are 2 main routes by which people can spread COVID-19:
-
-- infection can be spread to people who are nearby (within 2 metres) or possibly could be inhaled into the lungs
-- it is also possible that someone may become infected by touching a surface, object or the hand of an infected person that has been contaminated with respiratory secretions and then touching their own mouth, nose, or eyes (such as touching contaminated surfaces (e.g. door knob) or shaking hands then touching own face)
-
 ## Organisational Named Person For COVID-19 Response
 
 Best practices dictate that organisations should have a named person responsible for their response to the COVID-19 pandemic.  
