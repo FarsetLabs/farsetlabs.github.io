@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of these guidelines is to set out the procedures and restrictions that are put in place to allow Farset Labs to open in a safe manner during the ongoing COVID-19 pandemic
+The purpose of these guidelines is to set out the procedures and restrictions that are put in place to allow Farset Labs to open in a safe manner during the ongoing COVID-19 pandemic.
 
 These temporary guidelines will remain under constant review, with particular respect to any changes in government guidelines or restrictions. Should any subsequent government policy contradict any aspect of these guidelines it will be expected that Farset Labs and it’s members will immediately comply with government policy.
 
@@ -33,9 +33,9 @@ There are 2 main routes by which people can spread COVID-19:
 
 Best practices dictate that organisations should have a named person responsible for their response to the COVID-19 pandemic.  
 
-As such, Andrew Bolster will be responsible for these guidelines, will be the contact person for questions regarding our response to COVID-19 and will be responsible for organisational contact tracing in the event of a member reporting an infection. ([bolster@farsetlabs.org.uk](mailto:bolster@farsetlabs.org.uk) / 07783249547).
+As such, Art Knipe will be responsible for these guidelines, will be the contact person for questions regarding our response to COVID-19 and will be responsible for organisational contact tracing in the event of a member reporting an infection. ([art@farsetlabs.org.uk](mailto:art@farsetlabs.org.uk)).
 
-Should Andrew be unable to fulfil this role for any reason Colin Mitchell, will deputise ([colin.mitchell@farsetlabs.org.uk](mailto:colin.mitchell@farsetlabs.org.uk)) 
+Should Art be unable to fulfil this role for any reason Colin Mitchell will deputise ([colin.mitchell@farsetlabs.org.uk](mailto:colin.mitchell@farsetlabs.org.uk)) 
 
 ## Guidelines for Reopening of Farset Labs
 
@@ -46,13 +46,13 @@ Farset Labs will begin a phased reopening on 22/06/20 at 10am. The reopening wil
 - It will be left to the discretion and good sense of individual members to decide whether they can continue to work from home or need to use the space.
 - All members will be required to complete and sign an online Pre-Return form which indicates their agreement with these guidelines. This must be done before they can return to the space.
 
-If you wish to return to the space at this time, you must contact Andrew Bolster by email ([bolster@farsetlabs.org.uk](mailto:bolster@farsetlabs.org.uk)) to notify him of your intention to return. You will then be asked to fill in a Pre-Return Disclaimer, after which you will be given new access control codes.
+If you wish to return to the space at this time, you must contact Art Knipe by email ([art@farsetlabs.org.uk](mailto:art@farsetlabs.org.uk)) to notify him of your intention to return. You will then be asked to fill in a Pre-Return Disclaimer, after which you will be given new access control codes.
 
 **Do not return to the space if you have not already digitally signed the pre-return disclaimer as you will not be permitted in the building**
 
 ## Guidelines For Access To Farset Labs During Ongoing Covid-19 Restrictions
 
-It is anticipated that social distancing restrictions will remain in place for some time. In order to respect these restrictions and to ensure the levels of cleanliness required to prevent infection members will be expected to adhere to the following guidelines.
+It is anticipated that social distancing restrictions will remain in place for some time. In order to respect these restrictions and to ensure the levels of cleanliness required to prevent infection members will be expected to adhere to the following guidelines;
 
 - If you are showing any of the known symptoms of COVID-19, please follow government guidelines on self-Isolating, and **do not come to the space**
 - **If you become symptomatic or test positive for COVID-19 and have accessed Farset Labs please notify one of the Labs trustees.** It may be necessary to notify other members if there is a chance you have been in close proximity to them. This can be done without disclosing your identity if you wish

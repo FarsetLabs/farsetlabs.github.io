@@ -4,13 +4,13 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 
 ### Status: 'Step 2'
 
-**The space is closed aside from maintenance visits by the management team, and all events are remote.**
+**The space is open to members that went through COVID-19 onboarding, but not visitors and all events are remote.**
 
 * **❌ Visitors: No**
-* **✅ Members: From 22nd of June, Pending Pre-Return Declaration**
+* **✅ Members: Yes, after going through COVID-19 onboarding.**
 * **💻 Events and meetings: Remote**
 
-_Last reviewed on the 15th of June 2020._
+_Last reviewed on the 22th of June 2020._
 
 ---
 
