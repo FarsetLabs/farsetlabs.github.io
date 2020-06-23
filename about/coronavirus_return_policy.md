@@ -39,7 +39,7 @@ It is anticipated that social distancing restrictions will remain in place for s
 - Please **avoid physical contact and maintain at least 2 metres distance** from other Farset Labs members
 - **No more than fifteen (15) people are to be in the building at a given time,** and should endeavour to spread themselves out to enforce social distancing.
 - Where possible, you should **avoid touching hard surfaces** in communal areas of the building **and should wash or sanitise your hands after doing so**
-- In order to manage the number of people using the building, **non-members are not permitted to access the building.** 
+- In order to manage the number of people using the building, **only members are permitted to access the building.** 
 - **You should not leave your belongings in communal areas of the building**
 - Please play your part in helping to **ensure high levels of cleanliness** throughout the building
 - All members are strongly discouraged from having items delivered to Farset Labs. If you must use Farset Labs as a delivery address please ensure that you are onsite to accept delivery
