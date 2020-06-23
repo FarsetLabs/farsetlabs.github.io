@@ -2,15 +2,15 @@
 
 Information for Farset Labs members and visitors during the Coronavirus pandemic, in line with [government guidelines](https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/execoffice/our-approach-to-decision-making-summary-120520.pdf).
 
-### Status
+### Status: 'Step 2'
 
-**The space is closed aside from maintenance visits by the management team, and all events are remote.**
+**The space is open to members that went through COVID-19 onboarding, but not visitors and all events are remote.**
 
 * **❌ Visitors: No**
-* **❌ Members: No**
+* **✅ Members: Yes, after going through COVID-19 onboarding.**
 * **💻 Events and meetings: Remote**
 
-_Last reviewed on the 1st of June 2020._
+_Last reviewed on the 22th of June 2020._
 
 ---
 
@@ -27,7 +27,8 @@ Ask questions and we will add answers here. Get in touch on [Slack] or through [
 
 Farset Labs will reopen access to the space in steps aligned with government guidance.
 
-Given the several months of activity in the space prior to the lockdown, we estimate that there will be a small number of people (less than 10) in the space at any time, even with visitors.
+[Our return policy is detailed here](/about/coronavirus_return_policy)
+
 However, we will phase in reopening access for **members** first, then **visitors** and later to small **events** to be safe.
 
 **Social distancing** remains important so please give each other a respectful amount of space when choosing an area
@@ -35,21 +36,21 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 
 **Sanitising products** and **personal protective equipment** will be made available to everyone in the space.
 
-#### Lockdown
+#### ~~Lockdown~~
 
-The space is closed aside from maintenance visits by the management team, and all events are remote.
+~~The space is closed aside from maintenance visits by the management team, and all events are remote.~~
 
-* ❌ Visitors:               No
-* ❌ Members:                No
-* 💻 Events and meetings:    Remote
+* ~~❌ Visitors:               No~~
+* ~~❌ Members:                No~~
+* ~~💻 Events and meetings:    Remote~~
 
-#### Step 1
+#### ~~Step 1~~
 
-The space is closed aside from maintenance visits by the management team, and all events are remote.
+~~The space is closed aside from maintenance visits by the management team, and all events are remote.~~
 
-* ❌ Visitors:               No
-* ❌ Members:                No
-* 💻 Events and meetings:    Remote
+* ~~❌ Visitors:               No~~
+* ~~❌ Members:                No~~
+* ~~💻 Events and meetings:    Remote~~
 
 #### Step 2
 
