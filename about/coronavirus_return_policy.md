@@ -39,7 +39,7 @@ Should Art be unable to fulfil this role for any reason Colin Mitchell will depu
 
 ## Guidelines for Reopening of Farset Labs
 
-Farset Labs will begin a phased reopening on 22/06/20 at 10am. The reopening will proceed based on the following guidance:
+Farset Labs will begin a phased reopening on 24/06/20 at 10am. The reopening will proceed based on the following guidance:
 
 - Upon reopening we will request that our members continue to work from home if they can, in line with the [guidance from the NI Executive](https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/execoffice/execuitveour-approach-to-decision-making.pdf). 
 - Access to the building will be subject to these new guidelines.
