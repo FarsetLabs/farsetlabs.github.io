@@ -6,6 +6,11 @@ weight: 5
 redirect_from:
   - /calendar
 haschildren: True
+image: /assets/img/events-1.jpeg
+carousel:
+   - image: /assets/img/events-1.jpeg
+   - image: /assets/img/events-2.jpeg
+   - image: /assets/img/events-3.jpeg
 ---
 # Booking an Event
 
