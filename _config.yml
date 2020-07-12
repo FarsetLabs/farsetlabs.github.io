@@ -26,19 +26,6 @@ social:
 links:
   - name: Blog
     url: "https://blog.farsetlabs.org.uk/"
-  - name: Social
-    url: ""
-    list:
-    - name: Facebook
-      url: "https://facebook.com/FarsetLabs"
-    - name: Twitter
-      url: "https://twitter.com/FarsetLabs"
-    - name: Slack
-      url: "https://farsetlabs.org.uk/slack"
-    - name: Blog
-      url: "https://blog.farsetlabs.org.uk/"
-    - name: Flickr
-      url: "https://www.flickr.com/groups/farset_labs"
 officers:
   - name: Andrew Bolster
     username: bolster
