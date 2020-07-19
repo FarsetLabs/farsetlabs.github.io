@@ -21,6 +21,7 @@ The table below outlines the number of directors required to approve any given t
 | Greater than £100, less than or equal to £250 | 3                         |
 | Greater than £250                             | Unanimous                 |
 
+For significant purchases (~£500 or more), or parts of systems that may be considered as a single purchase, it is advised that directors prepare a justification document for discussion and approval. This should include at least one alternative system/option. This document should be linked to and included in the next Directors Meeting agenda, whether is was approved or not.
 
 Exceptions to approval limits:
 
@@ -48,6 +49,8 @@ The table below outlines the number of directors required to approve any given t
 | Greater than £50, less than or equal to £100  | 2                         |
 | Greater than £100, less than or equal to £250 | 3                         |
 | Greater than £250                             | Unanimous                 |
+
+For significant purchases (~£500 or more), or parts of systems that may be considered as a single purchase, it is advised that NEMs work with a sponsoring Director to prepare a justification document for discussion and approval. This should include at least one alternative system/option. This document should be linked to and included in the next Management Meeting / Town Hall agenda, whether is was approved or not.
 
 # Travel Expenses
 Expenses for travel may be reclaimed if the travel is company related, and pre-approved before being undertaken. Approval must be obtained prior to travel otherwise expenses are incurred at the traveller’s risk. 
