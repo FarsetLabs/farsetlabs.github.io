@@ -9,7 +9,7 @@ tags : []
 
 This document contains the expected behaviours and obligations that members of Farset Labs are associated with, in addition to a list of banned behaviour and materials. This document references itself as “the Code”, the “Code of Conduct”, and “the Code of Conduct for Members”. The primary location of Farset Labs is referred to as “the space”, “Farset Labs”, and “Farset Labs property”.
 
-A summary of this code is integrated as part of the general [Rules](rules_and_policies) page
+A summary of this code is integrated as part of the general [Rules](rules_and_policies.html) page
 
 ### 1.1 Who the Code applies to
 
@@ -109,7 +109,7 @@ Members must be aware that they are responsible for the storage and handling of 
 
 Expensive, irreplaceable, sensitive or sentimental items should not be stored at Farset Labs, as their security cannot be guaranteed. Secure storage may be available for some smaller items required for projects; members should inquire about secure storage if they are bringing such equipment to Farset Labs.
 
-Failure to store property correctly may make it liable for abandoned status, giving other members free access to use it after a period of time. See [Section 2.9](#29-provision-of-abandoned--donated-property) for more information on abandoned property.
+Failure to store property correctly may make it liable for abandoned status, giving other members free access to use it after a period of time. See Section 2.9 for more information on abandoned property.
 
 ### 2.3 Banned Materials and Equipment
 
@@ -275,19 +275,19 @@ Farset Labs agrees to make this Code available on demand, in a variety of conven
 
 ### 3.2 Notices
 
-This Code of Conduct for Members is subject to change as per the terms outlined in [Section 1.3 (Changes to the Code)](code_of_conduct#13-changes-to-the-code).
+This Code of Conduct for Members is subject to change as per the terms outlined in section 1.3 (Changes to the Code).
 
 It should be noted that this document should not serve as the dominant set of rules for the space; community input and common sense need to be higher than rules and regulations in order to maintain an open and enjoyable environment. This Code is intended as a documented list of guideline regulations, common to most organisations, which is to serve as _notice_, not _enforcement_ of house rules.
 
 #### 3.2.1 Contacting Farset Labs
 
-Questions and comments should be directed towards the Board of Directors, or via email to admin@farsetlabs.org.uk. Postal correspondence should be sent to:
+Questions and comments should be directed towards the Farset Labs Advisory Board, or via email to admin@farsetlabs.org.uk. Postal correspondence should be sent to:
 
-Farset Labs,  
-1 Weavers Court Business Park,  
-Linfield Road,  
-Belfast,  
-BT12 5GH.  
+Farset Labs,
+1 Weavers Court Business Park,
+Linfield Road,
+Belfast,
+BT12 5GH.
 
 #### 3.2.2 Other Formats
 
