@@ -2,16 +2,15 @@
 layout: default
 title: Join
 category: nav
-weight: 1
-haschildren: true
+weight: 2
 image: /membership/membership_800.jpg
 ---
 Membership Benefits
 ===================
 
-We’re funded by those that use the space every day for their ideas, experiments, and projects. 
+We’re funded by those that use the space every day for their ideas, experiments, and projects.
 
-Every member has a say in what goes on and has voting powers in decisions made at Town Hall meetings. 
+Every member has a say in what goes on and has voting powers in decisions made at Town Hall meetings.
 They also get access to all of our equipment and events, as well as the affiliation with great like-minded people.
 
 -   **Hot-desking** and access to the space anytime
@@ -29,7 +28,7 @@ They also get access to all of our equipment and events, as well as the affiliat
 Membership Types {#membership-dues}
 ================
 
-There are three Individual Membership rates to match the most common uses of the space
+There are three Individual Membership rates to match the most common uses of the space:
 
 -   **Students** (£15pm); occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^2]
 -   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
@@ -55,7 +54,7 @@ If you're not sure what category you fall in to, give us a shout on <join@farset
       <option value="Student (Annual)">Student (Annual) : £165.00 GBP</option>
       <option value="Enthusiast (Annual)">Enthusiast (Annual) : £275.00 GBP</option>
       <option value="Freelancer (Annual)">Freelancer (Annual) : £385.00 GBP</option>
-    </select> 
+    </select>
   </td>
   <td>
     <input type="hidden" name="currency_code" value="GBP">
@@ -63,9 +62,9 @@ If you're not sure what category you fall in to, give us a shout on <join@farset
     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
   </td>
 </tr>
-<tr>
-  <td colspan="2">
-    <p>All Membership Dues go toward core operating costs</p>
+<tr style="background: #ffd411;">
+  <td colspan="3" class="text-center">
+  <a href="/coronavirus">The space is closed aside from maintenance visits by the management team, and all events are remote.</a>
   </td>
 </tr>
 </table>
@@ -77,11 +76,11 @@ If you don’t wish to use PayPal, contact us on <join@farsetlabs.org.uk> to dis
 
 Desk Rental {#deskrental}
 =========================
-If you'd like a more permenant base and additional storage onsite, individual desks are available for long term rental for £100pm in addition to standard membership dues. 
+If you'd like a more permenant base and additional storage onsite, individual desks are available for long term rental for £100pm in addition to standard membership dues.
 
 Please contact us on <join@farsetlabs.org.uk> to check availability, arrange payment or just to ask any more questions about our desk rental facility.
 
-<a href="mailto:join@farsetlabs.org.uk" class="button expand round">Enquire now</a>
+<a href="mailto:join@farsetlabs.org.uk" class="large button expand round">Enquire now</a>
 -----------------------------------------------------------------------
 
 Day Passes {#daypass}
@@ -95,7 +94,7 @@ If you're just popping through the area or occasionally looking for a city-pad f
 Friends of Farset {#friend-of-farset}
 =================
 
-If you're not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset. 
+If you're not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset.
 Your donations will go towards the upkeep of the space and it's community and if you want to support anything in particular, you can say so in the form!
 
 <form class="text-center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -113,16 +112,16 @@ Sponsored Memberships
 
 You may be eligible for sponsored membership if you're a member / employee / student of the following organisations:
 
-* Queen's University Belfast Students Union- [Apply here](http://www.qubsu.org/EnterpriseSU/Opportunities/FarsetLabs/)
+* Queen's University Belfast Students Union
 
 If your [company](/about/corporates), organisation or institution is interested in sponsoring memberships to Farset Labs for your community, as prizes, opportunities
 or otherwise, please review our [Sponsored Membership Policy](/about/sponsored_membership_policy.html) and contact us on <join@farsetlabs.org.uk>
 
 ------------------------------------------------------------------------
 
-[^1]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate
+[^1]: Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate.
 
-[^2]: All student members must hold current, valid, student ID’s for the duration of their membership at that level
+[^2]: All student members must hold current, valid, student ID’s for the duration of their membership at that level.
 
-[^3]: Freelancers get room booking priority for the lounge and can book the lounge as a meeting room for external guests
+[^3]: Freelancers get room booking priority for the lounge and can book the lounge as a meeting room for external guests.
 

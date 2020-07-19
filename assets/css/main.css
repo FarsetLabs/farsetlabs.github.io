@@ -83,6 +83,17 @@ a {
       } 
       .carousel-post p { line-height:125% !important;}
 
+.carousel {
+  margin-bottom: 1.25rem;
+}
+
+.carousel-slider-overrides {
+  padding: 0;
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
 .directors {
 
   }
@@ -90,3 +101,85 @@ a {
     padding-bottom: 20px;
   }
 
+@media screen and (max-width: 992px) {
+ #forkMeButton {
+   display: none;
+  }
+}
+
+#contributors__overview {
+  text-align: center;
+}
+
+#contributors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+}
+
+.contributor {
+  list-style: none;
+}
+
+.contributor__link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+
+.contributor__avatar {
+  width: 100px;
+}
+
+.contributor__name {
+  max-width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+#farset-labs-footer {
+  color: #efefef;
+  background-color: #3e3e3e;
+}
+#farset-labs-footer a {
+  color: #99ca3c;
+}
+
+#farset-labs-footer a:hover {
+  color: #b1d76a;
+}
+
+.information {
+  padding: 12px 0;
+}
+
+.attribution-and-copyright {
+  padding: 12px 0;
+  background-color: #333333;
+}
+
+#copyright p {
+  margin: 0;
+}
+
+#attribution p {
+  margin: 0;
+}
+
+#fundraising-regulator-badge {
+  background: white;
+  border-radius: 3px;
+  border: 2px solid #99ca3c;
+}
+
+#header-logo {
+  height: 40px;
+}
+
+#social-media-icons {
+  margin-bottom: 15px !important;
+  padding-top: 5px !important;
+}

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Hot-Desk
-parent: "Join"
-weight: 2
+title: Visit
+category: nav
+weight: 1
 image: /hotdesk/Coworking_pano_800.jpg
 ---
 <div class="small-12 columns">
@@ -15,7 +15,7 @@ image: /hotdesk/Coworking_pano_800.jpg
   <hr>
 
   <p>Farset Labs is a great place to get some work done in the city, or a place to meet up with colleagues and friends, and with on site tea/coffee facilities, 150Mbps fibre internet, and access to our prototyping workshops, Farset Labs is a great place to develop, create, and collaborate.</p>
-  
+
   <form class="center small-8" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="VN7JQEFMYQ3F8">
@@ -23,22 +23,24 @@ image: /hotdesk/Coworking_pano_800.jpg
       <tr>
         <td><input type="hidden" name="on0" value="Day Pass"></td>
         <td style="vertical-align:middle">
-          <select name="os0">
+          <select name="os0" disabled="true">
             <option value="Day Pass">Day Pass £5.00 GBP</option>
             <option value="Evening Pass (After 5pm)">Evening Pass (After 5pm) £3.00 GBP</option>
-        </select> </td>
-        <td style="vertical-align:middle">
-          <input type="hidden" name="currency_code" value="GBP">
-          <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-        </td>
+          </select> </td>
+          <td style="vertical-align:middle">
+            <input type="hidden" name="currency_code" value="GBP">
+            <input disabled="true" type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+          </td>
       </tr>
-      <tr>
-        <td colspan="3" class="text-center">Please sign the guestbook at reception when you come in!</td>
+      <tr style="background: #ffd411;">
+        <td colspan="3" class="text-center">
+          <a href="/coronavirus">The space is closed aside from maintenance visits by the management team, and all events are remote.</a>
+        </td>
       </tr>
     </table>
   </form>
-                  
-<p class="center"><strong>All Day Pass dues go towards the core operation of the space; events and projects are normally funded by additional donations / sponsorships</strong></p>
+
+  <p class="center"><strong>All Day Pass dues go towards the core operation of the space; events and projects are normally funded by additional donations / sponsorships.</strong></p>
 
 </div>

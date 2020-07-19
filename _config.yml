@@ -1,4 +1,4 @@
-name: Farset Labs
+title: Farset Labs
 description: "Northern Ireland's Hackerspace"
 tags: "hackerspace, makerspace, belfast, technology, maker movement"
 markdown: kramdown
@@ -15,34 +15,23 @@ paginate_path: "news/page:num"
 paginate: 5
 url: "https://www.farsetlabs.org.uk"
 social:
-  github: FarsetLabs
-  facebook: FarsetLabs
-  twitter: FarsetLabs
-  flickr: groups/farset_labs
+  github: "https://www.github.com/FarsetLabs"
+  facebook: "https://www.facebook.com/FarsetLabs"
+  twitter: "https://www.twitter.com/FarsetLabs"
+  flickr: "https://www.flickr.com/groups/farset_labs"
   blogfeed: "https://blog.farsetlabs.org.uk/feed/"
-  chat: "https://slackin.farsetlabs.org.uk/"
+  slack: "http://slackin.farsetlabs.org.uk/"
+  twitch: "https://www.twitch.tv/farsetlabs"
+  instagram: "https://www.instagram.com/farsetlabs"
 links:
   - name: Blog
     url: "https://blog.farsetlabs.org.uk/"
-  - name: Social
-    url: ""
-    list:
-    - name: Facebook
-      url: "https://facebook.com/FarsetLabs"
-    - name: Twitter
-      url: "https://twitter.com/FarsetLabs"
-    - name: Slack
-      url: "https://slackin.farsetlabs.org.uk/"
-    - name: Blog
-      url: "https://blog.farsetlabs.org.uk/feed/"
-    - name: Flickr
-      url: "https://www.flickr.com/groups/farset_labs"
 officers:
   - name: Andrew Bolster
     username: bolster
     year: 2011 -
     title: "Director/Founder"
-    blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](https://andrewbolster.info)"
+    blurb: "Autonomous Systems Researcher, Consultant, Speaker, and Enfant Terrible. You can see some of his work over on [his website](https://andrewbolster.info)."
     email: "bolster@farsetlabs.org.uk"
     twitter: "bolster"
     website: "https://andrewbolster.info"
@@ -50,15 +39,6 @@ officers:
     linkedin: "andrewbolster"
     github: "andrewbolster"
     discourse: "bolster"
-
-  - name: David Kane
-    username: kane
-    year: 2011 -
-    title: "Director/Founder"
-    blurb: "Postgraduate researcher specialising in condensed matter physics, embedded developer and all round good guy."
-    email: "david@farsetlabs.org.uk"
-    twitter: "dsrkane"
-    discourse: "kane"
 
   - name: Dylan Wylie
     username: wylie
@@ -73,7 +53,7 @@ officers:
     username: pixelpage
     year: 2016 -
     title: "Director"
-    blurb: "Business Technology Advisor, interim CTO & troubleshooter/causer, hands-on code-tweaker, occasional blues guitarist"
+    blurb: "Business Technology Advisor, interim CTO & troubleshooter/causer, hands-on code-tweaker, occasional blues guitarist."
     email: "colin.mitchell@farsetlabs.org.uk"
     twitter: "pixelpage"
     linkedin: "colinmitch"
@@ -94,7 +74,7 @@ officers:
     title: "Digital Infrastructure NEM"
     email: "digitalinfrastructure@farsetlabs.org.uk"
     discourse: "stealthii"
-    blurb: "Daniel makes the bits go around"
+    blurb: "Daniel makes the bits go around."
     twitter: "stealthii"
     github: "stealthii"
 
@@ -102,7 +82,7 @@ officers:
     username: davidson
     year: 2014 -
     title: "Events NEM"
-    blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](https://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics"
+    blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](https://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics."
     email: "events@farsetlabs.org.uk"
     discourse: "panloaf"
     twitter: "glenndavidson"
@@ -118,16 +98,6 @@ officers:
     email: "community@farsetlabs.org.uk"
     discourse: "clairebones"
     twitter: "clairedotw"
-
-  - name: Zoe Gadon-Thompson
-    username: zgt
-    year: 2018 -
-    title: "Outreach NEM"
-    email: "outreach@farsetlabs.org.uk"
-    blurb: "Zoe wants to make sure everyone has access to a safe space to learn about something they love"
-    twitter: "gingerzoealex"
-    website: "https://gingerzoealex.dev/"
-    github: "gingerzoealex"
 
   - name: Phil Weir
     username: philtweir

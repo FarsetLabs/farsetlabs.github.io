@@ -2,7 +2,8 @@
 layout: default
 title: Support
 category: nav
-weight: 2
+weight: 3
+redirect_from: /donate
 haschildren: True
 ---
 
@@ -42,7 +43,7 @@ Please [contact us](mailto:donate@farsetlabs.org.uk) if you'd like to make a BAC
 <div class="footnotes">
   <ol>
     <li id="fn:events">
-    <p>Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate <a href="#fnref:events" class="reversefootnote">↩</a></p>
+    <p>Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate. <a href="#fnref:events" class="reversefootnote">↩</a></p>
     </li>
   </ol>
 </div>

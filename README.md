@@ -22,12 +22,6 @@ development. To work with this site using Docker first ensure that Docker is
 installed on your machine, and then run
 
 ```
-make docker
-```
-
-If `make` is not installed the following two commands should be executed
-
-```
 docker build -t farsetlabs-site .
 docker run -p 4000:4000 -v `pwd`:/app farsetlabs-site
 ```

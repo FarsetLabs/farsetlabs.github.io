@@ -96,12 +96,12 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
 
 ## The Very Much Longer Rules
-* [Code of Conduct](code_of_conduct)
-* [Operations Manual](ops_manual)
-* [Expenses and Purchasing](expenses_purchasing)
-* [Reserves Policy](reserves_policy)
-* [Child Protection Policy](child_protection)
-* [Equality Policy](equality)
-* [Hardware Donation License](hardware_donation_license)
-* [Sponsored Membership Policy](sponsored_membership_policy)
-* [Property Clearance](clearance)
+* [Code of Conduct](code_of_conduct.html)
+* [Operations Manual](ops_manual.html)
+* [Expenses and Purchasing](expenses_purchasing.html)
+* [Child Protection Policy](child_protection.html)
+* [Equality Policy](equality.html)
+* [Hardware Donation License](hardware_donation_license.html)
+* [Sponsored Membership Policy](sponsored_membership_policy.html)
+* [Property Clearance](clearance.html)
+* [CCTV Policy](CCTV)

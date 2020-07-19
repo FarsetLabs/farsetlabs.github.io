@@ -1,0 +1,21 @@
+---
+layout: default
+title: Contributors
+parent: About
+---
+{% comment %}Using the jekyll-github-metadata plugin included with github-pages.{% endcomment %}
+{% comment %}These assignments will randomise the order of listing contributors on deployment.{% endcomment %}
+{% assign number_of_contributors = site.github.contributors | size %}
+{% assign contributors = site.github.contributors | sample: number_of_contributors %}
+
+<p id="contributors__overview">Our website is open source and we welcome contributions from everyone. It is built by a whole lot of wonderful people.</p>
+<ul id="contributors">
+  {% for contributor in contributors %}
+    <li class="contributor">
+      <a href="{{contributor.html_url}}" class="contributor__link">
+        <img src="{{contributor.avatar_url}}" class="contributor__avatar">
+        <span class="contributor__name">{{ contributor.login }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
