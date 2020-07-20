@@ -63,7 +63,7 @@ If you're not sure what category you fall in to, give us a shout on <join@farset
 </tr>
 <tr style="background: #ffd411;">
   <td colspan="3" class="text-center">
-  <a href="/coronavirus">The space is closed aside from maintenance visits by the management team, and all events are remote.</a>
+  <a href="/coronavirus">The space is open to members that went through COVID-19 onboarding, but not visitors or public events, and all events are remote.</a>
   </td>
 </tr>
 </table>
