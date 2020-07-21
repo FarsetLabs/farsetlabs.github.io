@@ -1,0 +1,38 @@
+{
+    "api": "0.13",
+    "botname": "FarBot",
+    "spacefed": {
+        "spacenet": false,
+        "spacesaml": false,
+        "spacephone": false
+    },
+    "contact": {
+        "email": "admin@farsetlabs.org.uk",
+        "github":"https://github.com/FarsetLabs",
+        "twitter": "@farsetlabs",
+        "facebook": "https://www.facebook.com/FarsetLabs",
+        "slack": "http://slackin.farsetlabs.org.uk/",
+        "flickr": "http://www.flickr.com/groups/farset_labs",
+        "instagram":"https://www.instagram.com/farsetlabs",
+        "irc": "irc://irc.freenode.net/#farsetlabs",
+        "phone": "+448458694619",
+        "discourse":"https://discourse.farsetlabs.org.uk"
+    },
+    "issue_report_channels": [
+        "email",
+        "twitter"
+    ],
+    "location": {
+        "address": "Weavers Court, Linfield Industrial Estate, Belfast, BT125GH, UK",
+        "lon": -5.94068,
+        "lat": 54.592813
+    },
+    "logo": "http://unit1.farsetlabs.org.uk/img/logo.png",
+    "state": {
+        "lastchange": 1333824073,
+        "open": true
+    },
+    "space": "Farset Labs",
+    "status": "Open",
+    "url": "http://www.farsetlabs.org.uk"
+}
