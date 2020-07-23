@@ -5,8 +5,6 @@ weight: 1
 layout: default
 ---
 
-![Ben Shadow Speaking at Create](/assets/img/benb_shadow.jpg)
-
 # Booking for a private event
 
 The [Events Room](/about/facility.html#events-room) and the [Project Room](/about/facility.html#project-room) can be booked for private events, and the lounge may be booked for private meetings.

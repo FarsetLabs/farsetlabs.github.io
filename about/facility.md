@@ -3,7 +3,7 @@ layout: default
 title: Facilities
 parent: "About"
 weight: 3
-image: /about/event_space_pano.jpg
+image: /about/space/workshop-1.jpg
 toc: False
 ---
 # Facilities & Resources
@@ -38,8 +38,6 @@ We provide space, tools and community. Members can come as little or as often as
 
 # The Space
 
-[![](/about/floor_plan.png)](/about/floor_plan.png)
-
 Farset Labs has capacity for most projects, big or small. Three main rooms cover a total of 2000ft<sup>2</sup> (190m<sup>2</sup>), providing co-working, events, and project hacking space, as well as a kitchen and lounge. The building is situated on the [Weavers Court](http://www.weaverscourt.com/) business park, with ample parking, 24/7 security, and access to further office and warehousing space, all five mins' walk from Belfast city centre.
 
 Farset Labs operates a clear desk policy on (and under) non-[rented](/membership/index#deskrental) desks (coloured in Blue or Green in the above floor plan); All hot-desks must be cleared of all equipment before leaving the space. 
@@ -53,8 +51,6 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
 
 ## Co-Working Room
 
-![](/about/Coworking_pano_800.jpg)
-
   * Flexible hot-desking and several computers, all on first-come-first-served basis
   * Desks to hire from £100 per month
   * Printing, photocopying and other office facilities
@@ -62,13 +58,10 @@ Unless authorisation has been sought from the [Events NEM](/about/index.html) an
 
 ## Events Room
 
-![](/about/event_space_pano.jpg)
-
   * Multipurpose venue for approx 50 standing / 35 seated.
   * Comprehensive AV setup, including projector, 5:1 surround sound speakers, and PA system
 
 ## Project Room
-![](/about/workshop.jpg)
 
   * 3D printer and vinyl cutter
   * Electronic test equipment and soldering irons

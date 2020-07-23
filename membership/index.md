@@ -3,7 +3,11 @@ layout: default
 title: Join
 category: nav
 weight: 2
-image: /membership/membership_800.jpg
+image: /assets/img/space/first-floor-1.jpg
+carousel:
+  - image: /assets/img/space/first-floor-1.jpg
+  - image: /assets/img/space/first-floor-2.jpg
+  - image: /assets/img/space/meeting-room-1.jpg
 ---
 Membership Benefits
 ===================
@@ -22,8 +26,6 @@ They also get access to all of our equipment and events, as well as the affiliat
 -   **Networking** with the best and brightest innovators and creators in Belfast
 -   **Belonging** to an accepting and creative community
 -   **Escaping** to an inspiring space
-
-![Membership](/membership/membership_800.jpg)
 
 Membership Types {#membership-dues}
 ================
