@@ -18,7 +18,7 @@
         "discourse":"https://discourse.farsetlabs.org.uk"
     },
     "issue_report_channels": [
-        "email",
+        "email"
     ],
     "location": {
         "address": "1 Weavers Court, Linfield Industrial Estate, Belfast, BT125GH, UK",
