@@ -1,6 +1,5 @@
 {
     "api": "0.13",
-    "botname": "FarBot",
     "spacefed": {
         "spacenet": false,
         "spacesaml": false,
@@ -20,7 +19,6 @@
     },
     "issue_report_channels": [
         "email",
-        "twitter"
     ],
     "location": {
         "address": "1 Weavers Court, Linfield Industrial Estate, Belfast, BT125GH, UK",
