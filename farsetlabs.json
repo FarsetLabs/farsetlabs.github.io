@@ -17,9 +17,9 @@
         "phone": "+448458694619",
         "discourse":"https://discourse.farsetlabs.org.uk"
     },
-    "issue_report_channels": [
-        "email",
-    ],
+    "issue_report_channels": {
+        "email"
+    },
     "location": {
         "address": "1 Weavers Court, Linfield Industrial Estate, Belfast, BT125GH, UK",
         "lon": -5.94068,
