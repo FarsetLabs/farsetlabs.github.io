@@ -68,16 +68,6 @@ officers:
     linkedin: "artemiy-kondratiev"
     github: "awflwafl"
 
-  - name: Daniel Porter
-    username: porter
-    year: 2014 -
-    title: "Digital Infrastructure NEM"
-    email: "digitalinfrastructure@farsetlabs.org.uk"
-    discourse: "stealthii"
-    blurb: "Daniel makes the bits go around."
-    twitter: "stealthii"
-    github: "stealthii"
-
   - name: Glenn Davidson
     username: davidson
     year: 2014 -
@@ -89,15 +79,6 @@ officers:
     facebook: "panloaf"
     website: "https://blitter.co.uk"
     linkedin: "glennrdavidson"
-
-  - name: Claire Wilgar
-    username: wilgar
-    year: 2015 -
-    title: "Community NEM"
-    blurb: "Claire is a senior frontend developer and organiser of Girl Geeks Belfast and co-organiser of Global Game Jam and BelfastJS, and is the point of contact for member and community issues and queries in Farset Labs."
-    email: "community@farsetlabs.org.uk"
-    discourse: "clairebones"
-    twitter: "clairedotw"
 
   - name: Phil Weir
     username: philtweir
