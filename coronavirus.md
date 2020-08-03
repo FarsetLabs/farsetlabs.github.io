@@ -78,7 +78,7 @@ The space is open to members and visitors that went through COVID-19 onboarding,
 
 Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
 
-* ✅ Visitors: No
+* ❌ Visitors: No
 * ✅ Members: Yes
 * ❌ Public events: No
 * 💻 Hackerspace meetings (eg: town hall): Remote
@@ -89,7 +89,7 @@ The space is open to members and visitors that went through COVID-19 onboarding,
 
 Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
 
-* ✅ Visitors: No
+* ❌ Visitors: No
 * ✅ Members: Yes
 * ❌ Public events: No
 * 💻 Hackerspace meetings (eg: town hall): Yes, remote
