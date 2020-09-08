@@ -74,35 +74,35 @@ Coming in to the space is conditional on attending COVID-19 onboarding and agree
 
 #### Step 3
 
-The space is open to members and visitors that went through COVID-19 onboarding, but not public events, and all hackerspace meetings are remote.
+The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.
 
 Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
 
-* ❌ Visitors: No
+* ✅ Visitors: Yes, members can bring up to 4 guests under their supervision.
 * ✅ Members: Yes
 * ❌ Public events: No
 * 💻 Hackerspace meetings (eg: town hall): Remote
 
 #### Step 4
 
-The space is open to members and visitors that went through COVID-19 onboarding, but not public events, and all hackerspace meetings are remote.
+The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.
 
 Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
 
-* ❌ Visitors: No
+* ✅ Visitors: Yes, members can bring up to 4 guests under their supervision.
 * ✅ Members: Yes
 * ❌ Public events: No
 * 💻 Hackerspace meetings (eg: town hall): Yes, remote
 
 #### Step 5
 
-The space is open to members,  visitors and smal public events that went through COVID-19 onboarding, and all hackerspace meetings are back in the space with remote participation supported.
+The space is open to members and small public events with organisers that went through COVID-19 onboarding who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.
 
 Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
 
 Guidance for running events and setting up remote participation will be available closer to step 5.
 
-* ✅ Visitors:                                Yes
+* ✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.
 * ✅ Members:                                 Yes
 * ✅ Public events:                           Yes, small in person public events with remote participation support
 * 😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support
