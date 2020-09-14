@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 250 249.99998"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="FSL_17_CMYK_LogoOnly.svg"
+   width="250"
+   height="250"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\me\Documents\PlatformIO\Projects\farsetlabs.github.io\assets\img\FSL_17_CMYK_LogoOnly.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Asset 3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview98"
+     showgrid="false"
+     showborder="true"
+     fit-margin-top="0"
+     fit-margin-left="100"
+     fit-margin-right="0"
+     fit-margin-bottom="100"
+     inkscape:zoom="2.4224264"
+     inkscape:cx="190.43301"
+     inkscape:cy="159.14415"
+     inkscape:window-x="1042"
+     inkscape:window-y="280"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg96">
+    <inkscape:grid
+       type="xygrid"
+       id="grid102"
+       originx="-146.6127"
+       originy="-137.72917" />
+  </sodipodi:namedview>
+  <defs
+     id="defs34">
+    <style
+       id="style2">.cls-1{isolation:isolate;}.cls-2,.cls-3{fill:none;}.cls-3{stroke:#392d87;stroke-miterlimit:10;stroke-width:6px;}.cls-4,.cls-5{mix-blend-mode:multiply;}.cls-4{fill:url(#linear-gradient);}.cls-5{fill:url(#linear-gradient-2);}.cls-6{fill:#8376b5;}.cls-7{fill:#9e94c7;}.cls-8{fill:#392d87;}.cls-9{fill:#d9e5a6;}.cls-10{fill:#b9d154;}.cls-11{fill:#a2c617;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="227.67"
+       y1="388.01001"
+       x2="278.23001"
+       y2="300.42999"
+       gradientTransform="matrix(0.86,0.5,-0.5,0.86,206.94,-76.61)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.42"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop4" />
+      <stop
+         offset="0.81"
+         stop-color="#b2b2b2"
+         id="stop6" />
+      <stop
+         offset="0.83"
+         stop-color="#afb0ac"
+         id="stop8" />
+      <stop
+         offset="0.87"
+         stop-color="#a6aa9a"
+         id="stop10" />
+      <stop
+         offset="0.9"
+         stop-color="#98a07d"
+         id="stop12" />
+      <stop
+         offset="0.94"
+         stop-color="#849255"
+         id="stop14" />
+      <stop
+         offset="0.99"
+         stop-color="#6c8122"
+         id="stop16" />
+      <stop
+         offset="1"
+         stop-color="#627a0f"
+         id="stop18" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="171.46001"
+       y1="357.23001"
+       x2="222.02"
+       y2="269.64999"
+       gradientTransform="matrix(0.87,0.5,-0.5,0.87,184.46,-58.28)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.43"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop21" />
+      <stop
+         offset="0.47"
+         stop-color="#f6f6f6"
+         stop-opacity="0.11"
+         id="stop23" />
+      <stop
+         offset="0.67"
+         stop-color="#d2d2d2"
+         stop-opacity="0.59"
+         id="stop25" />
+      <stop
+         offset="0.8"
+         stop-color="#bbb"
+         stop-opacity="0.88"
+         id="stop27" />
+      <stop
+         offset="0.87"
+         stop-color="#b2b2b2"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#251854"
+         id="stop31" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title36">Asset 3</title>
+  <g
+     class="cls-1"
+     id="g94"
+     style="isolation:isolate"
+     transform="translate(-163.9507,-130.23492)">
+    <g
+       id="Layer_2"
+       data-name="Layer 2"
+       transform="translate(2.8519076,2.4503949)">
+      <g
+         id="Layer_1-2"
+         data-name="Layer 1">
+        <rect
+           class="cls-2"
+           width="947.81"
+           height="515.90002"
+           id="rect38"
+           x="0"
+           y="0"
+           style="fill:none" />
+        <rect
+           class="cls-4"
+           x="199.57001"
+           y="335.04001"
+           width="106.03"
+           height="17.700001"
+           transform="rotate(-30.16,252.57381,343.88203)"
+           id="rect42"
+           style="mix-blend-mode:multiply;fill:url(#linear-gradient)" />
+        <rect
+           class="cls-5"
+           x="143.92"
+           y="304.48001"
+           width="106.42"
+           height="17.969999"
+           transform="rotate(-30.16,197.10132,313.45001)"
+           id="rect44"
+           style="mix-blend-mode:multiply;fill:url(#linear-gradient-2)" />
+        <g
+           class="cls-1"
+           id="g60"
+           style="isolation:isolate">
+          <polygon
+             class="cls-6"
+             points="247.48,251.27 265.2,240.97 265.08,284.37 247.35,294.67 "
+             id="polygon46"
+             style="fill:#8376b5" />
+          <polygon
+             class="cls-7"
+             points="247.53,234 265.25,223.7 282.28,233.53 264.55,243.83 "
+             id="polygon48"
+             style="fill:#9e94c7" />
+          <polygon
+             class="cls-6"
+             points="264.55,243.83 282.28,233.53 282.23,250.8 264.5,261.1 "
+             id="polygon50"
+             style="fill:#8376b5" />
+          <polygon
+             class="cls-6"
+             points="247.59,209.82 265.32,199.52 265.25,223.7 247.53,234 "
+             id="polygon52"
+             style="fill:#8376b5" />
+          <polygon
+             class="cls-8"
+             points="290.62,217.37 290.57,234.64 247.59,209.82 247.53,234 264.55,243.83 264.5,261.1 247.48,251.27 247.35,294.67 229.41,284.31 229.7,182.19 "
+             id="polygon54"
+             style="fill:#392d87" />
+          <polygon
+             class="cls-7"
+             points="229.7,182.19 247.43,171.89 308.35,207.07 290.62,217.37 "
+             id="polygon56"
+             style="fill:#9e94c7" />
+          <polygon
+             class="cls-6"
+             points="290.62,217.37 308.35,207.07 308.3,224.34 290.57,234.64 "
+             id="polygon58"
+             style="fill:#8376b5" />
+        </g>
+        <g
+           class="cls-1"
+           id="g70"
+           style="isolation:isolate">
+          <polygon
+             class="cls-9"
+             points="320.63,297.54 303.02,287.3 342.57,264.46 360.19,274.7 "
+             id="polygon62"
+             style="fill:#d9e5a6" />
+          <polygon
+             class="cls-10"
+             points="302.87,324.91 302.58,224.35 320.4,214.06 320.63,297.54 360.19,274.7 369.46,286.46 "
+             id="polygon64"
+             style="fill:#b9d154" />
+          <polygon
+             class="cls-11"
+             points="302.87,324.91 285.25,314.67 284.96,214.11 302.58,224.35 "
+             id="polygon66"
+             style="fill:#a2c617" />
+          <polygon
+             class="cls-9"
+             points="302.58,224.35 284.96,214.11 302.78,203.82 320.4,214.06 "
+             id="polygon68"
+             style="fill:#d9e5a6" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
