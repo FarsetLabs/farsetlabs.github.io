@@ -2,18 +2,18 @@
 
 Information for Farset Labs members and visitors during the Coronavirus pandemic, in line with [government guidelines](https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/execoffice/our-approach-to-decision-making-summary-120520.pdf).
 
-#### **Status: Step 3**
+#### **Status: Step 2**
 
-**The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.**
+**The space is open to members that went through COVID-19 onboarding, but not visitors or public events, and all hackerspace meetings are remote.**
 
 **Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].**
 
-* **✅ Visitors: Yes, members can bring up to 4 guests under their supervision.**
+* **❌ Visitors: No**
 * **✅ Members: Yes**
 * **❌ Public events: No**
 * **💻 Hackerspace meetings (eg: town hall): Remote**
 
-_Last reviewed on the 7th of September 2020._
+_Last reviewed on the 30th of November 2020._
 
 ---
 
