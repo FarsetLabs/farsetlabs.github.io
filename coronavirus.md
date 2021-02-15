@@ -13,7 +13,7 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 * **❌ Public events: No**
 * **💻 Hackerspace meetings (eg: town hall): Remote**
 
-_Last reviewed on the 30th of November 2020._
+_Last reviewed on the 15th of February 2021._
 
 ---
 
