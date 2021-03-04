@@ -36,6 +36,6 @@ Pricing:
 
 
   [Club-mate]: http://www.clubmate.de/
-  [fuel-of-choice]: http://motherboard.vice.com/blog/how-a-german-soda-became-hackers-fuel-of-choice
+  [fuel-of-choice]: https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice
   [form]: https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform
   [mailing list]: https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform
