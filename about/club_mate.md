@@ -16,23 +16,26 @@ sub-communities.
 ## How to get
 
 Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
-tuckshop on-site! 
+tuckshop on-site (recommended donation; £2/btl)
 
 We also sell by the crate for larger orders, and are happy to sell onto the
-public! If you would like to order (for collection only), please email <info@farsetlabs.org.uk>.
+public! 
+
+If you would like to order (for collection only), please order here!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTU5Dc9sMwnOOe9YWhicr_QUQqcehFibH_AYe7SmlSVVYP3A/viewform?embedded=true" width="640" height="2161" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 We stock; 
 
 * Regular (330/500ml)
-* Cola (330/500ml)
+* Cola (330ml)
 * IceT (500ml)
 * Granat (500ml)
-* Winter (500ml) **limited stock unlikely to be restocked**
 
 Pricing: 
 
-* 24x330ml - £33
-* 20x500ml - £35
+* 24x330ml - £35
+* 20x500ml - £37
 
 
   [Club-mate]: http://www.clubmate.de/
