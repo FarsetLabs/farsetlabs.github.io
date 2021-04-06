@@ -33,7 +33,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
 
 ### Handling of Complaints and Breaches
 [Full Policy](code_of_conduct#15-handling-of-complaints-and-breaches)
- * Technical issues related to the space may be raised through our [Issue Tracker](https://jira.farsetlabs.org.uk)
+ * Technical issues related to the space may be raised on Slack.
  * All members should endeavour to resolve minor personal issues directly with the persons involved;
  * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](ops_manual.html));
     * Raise a complaint to either the [Directors](mailto:admin@farsetlabs.org.uk) or [NEMs](mailto:management@farsetlabs.org.uk) detailing the issue and the persons involved. Reports may be anonymously filed but this will slow the response, as the management board[^1] will first have to corroborate the claims raised.
