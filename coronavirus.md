@@ -2,18 +2,20 @@
 
 Information for Farset Labs members and visitors during the Coronavirus pandemic, in line with [government guidelines](https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/execoffice/our-approach-to-decision-making-summary-120520.pdf).
 
-#### **Status: Step 3**
+#### **Status: Step 5**
 
-**The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.**
+**The space is open to members and small public events with organisers that went through COVID-19 onboarding who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.**
 
 **Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].**
 
-* **✅ Visitors: Yes, members can bring up to 4 guests under their supervision.**
-* **✅ Members: Yes**
-* **❌ Public events: No**
-* **💻 Hackerspace meetings (eg: town hall): Remote**
+**Guidance for running events and setting up remote participation will be available closer to step 5.**
 
-_Last reviewed on the 10th of May 2021._
+* **✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.**
+* **✅ Members:                                 Yes**
+* **✅ Public events:                           Yes, small in person public events with remote participation support**
+* **😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support**
+
+_Last reviewed on the 24th of May 2021._
 
 ---
 
@@ -76,27 +78,27 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 * ~~❌ Public events: No~~
 * ~~💻 Hackerspace meetings (eg: town hall): Remote~~
 
-#### Step 3
+#### ~Step 3~
 
-The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.
+~The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.~
 
-Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
+~Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].~
 
-* ✅ Visitors: Yes, members can bring up to 4 guests under their supervision.
-* ✅ Members: Yes
-* ❌ Public events: No
-* 💻 Hackerspace meetings (eg: town hall): Remote
+* ~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~
+* ~✅ Members: Yes~
+* ~❌ Public events: No~
+* ~💻 Hackerspace meetings (eg: town hall): Remote~
 
 #### Step 4
 
-The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.
+~The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.~
 
-Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
+~Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].~
 
-* ✅ Visitors: Yes, members can bring up to 4 guests under their supervision.
-* ✅ Members: Yes
-* ❌ Public events: No
-* 💻 Hackerspace meetings (eg: town hall): Yes, remote
+* ~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~
+* ~✅ Members: Yes~
+* ~❌ Public events: No~
+* ~💻 Hackerspace meetings (eg: town hall): Yes, remote~
 
 #### Step 5
 
