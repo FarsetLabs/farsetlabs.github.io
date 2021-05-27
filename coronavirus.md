@@ -12,7 +12,7 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 
 * **✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.**
 * **✅ Members:                                 Yes**
-* **✅ Public events:                           Yes, small in person public events with remote participation support**
+* **✅ Public events:                           Yes, small in person public events up to 15 people with remote participation support**
 * **😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support**
 
 _Last reviewed on the 24th of May 2021._
@@ -33,6 +33,10 @@ No, they are available but not mandatory while you are in the space as of 13th o
 #### Where is the form I need to submit before going to the space?
 
 Here you go, it's available online: [Farset Labs COVID-19 Policy Agreement](https://docs.google.com/forms/d/e/1FAIpQLSdnoNQBvJ5xRm75cpybzPVDQOLN389tQhX1Kmv7kCnF2bgI6g/viewform?usp=sf_link).
+
+#### Can I run an event with more than 15 people?
+
+Yes, but an additional step is required. Contact us on [Slack] (preferred) or through [info@farsetlabs.org.uk] and we'll complete a risk assessment for your event, which is required for indoor events of more than 15 people.
 
 ---
 
@@ -110,7 +114,7 @@ Guidance for running events and setting up remote participation will be availabl
 
 * ✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.
 * ✅ Members:                                 Yes
-* ✅ Public events:                           Yes, small in person public events with remote participation support
+* ✅ Public events:                           Yes, small in person public events up to 15 people with remote participation support
 * 😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support
 
 [return policy]:/about/coronavirus_return_policy
