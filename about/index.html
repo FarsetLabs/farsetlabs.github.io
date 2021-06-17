@@ -33,7 +33,8 @@ haschildren: True
 
         </div>
         <div class="small-9 columns">
-            <h4>{{officer.name}}</h4>
+            <h4 style="margin-bottom: 0">{{officer.name}}</h4>
+            <p>{{officer.pronouns}}</p>
             <h5 class="subheader">{{officer.title}} ({{officer.year}} )</h5>
             {{ officer.blurb | unindent | markdownify }}
             <ul class="small button-group round right">
@@ -63,7 +64,8 @@ haschildren: True
 
       </div>
         <div class="small-9 columns">
-            <h4>{{officer.name}}</h4>
+            <h4 style="margin-bottom: 0">{{officer.name}}</h4>
+            <p>{{officer.pronouns}}</p>
             <h5 class="subheader">{{officer.title}} ({{officer.year}} )</h5>
             {% if officer.blurb %}
               {{ officer.blurb | unindent | markdownify }}
