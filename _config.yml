@@ -28,6 +28,7 @@ links:
     url: "https://blog.farsetlabs.org.uk/"
 officers:
   - name: Andrew Bolster
+    pronouns: "he/him"
     username: bolster
     year: 2011 -
     title: "Director/Founder"
@@ -41,6 +42,7 @@ officers:
     discourse: "bolster"
 
   - name: Dylan Wylie
+    pronouns: "he/him"
     username: wylie
     year: 2013 -
     title: "Director"
@@ -50,6 +52,7 @@ officers:
     discourse: "dylan"
 
   - name: Colin Mitchell
+    pronouns: "he/him"
     username: pixelpage
     year: 2016 -
     title: "Director"
@@ -59,6 +62,7 @@ officers:
     linkedin: "colinmitch"
 
   - name: Artemiy Kondratiev
+    pronouns: "he/him"
     username: art
     year: 2018 -
     title: "Director"
@@ -69,6 +73,7 @@ officers:
     github: "awflwafl"
 
   - name: Glenn Davidson
+    pronouns: "he/him"
     username: davidson
     year: 2014 -
     title: "Events NEM"
@@ -81,6 +86,7 @@ officers:
     linkedin: "glennrdavidson"
 
   - name: Phil Weir
+    pronouns: "they/them"
     username: philtweir
     year: 2018 -
     title: "Co-Working NEM"
