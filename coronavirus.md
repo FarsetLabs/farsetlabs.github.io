@@ -4,9 +4,9 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 
 #### **Status: Step 5**
 
-**The space is open to members and small public events with organisers that went through COVID-19 onboarding who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.**
+**The space is open to members and small public events with organisers that completed the [Farset Labs COVID-19 Policy Agreement] who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.**
 
-**Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].**
+**Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].**
 
 * **✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.**
 * **✅ Members:                                 Yes**
@@ -30,7 +30,7 @@ No, they are available but not mandatory while you are in the space as of 13th o
 
 #### Where is the form I need to submit before going to the space?
 
-Here you go, it's available online: [Farset Labs COVID-19 Policy Agreement](https://docs.google.com/forms/d/e/1FAIpQLSdnoNQBvJ5xRm75cpybzPVDQOLN389tQhX1Kmv7kCnF2bgI6g/viewform?usp=sf_link).
+Here you go, it's available online: [Farset Labs COVID-19 Policy Agreement].
 
 #### Can I run an event with more than 15 people?
 
@@ -71,9 +71,9 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 
 #### ~~Step 2~~
 
-~~The space is open to members that went through COVID-19 onboarding, but not visitors or public events, and all hackerspace meetings are remote.~~
+~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement], but not visitors or public events, and all hackerspace meetings are remote.~~
 
-~~Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].~~
+~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
 
 * ~~❌ Visitors: No~~
 * ~~✅ Members: Yes~~
@@ -82,9 +82,9 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 
 #### ~~Step 3~~
 
-~~The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
+~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement] and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
 
-~~Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].~~
+~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
 
 * ~~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~~
 * ~~✅ Members: Yes~~
@@ -93,9 +93,9 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 
 #### ~~Step 4~~
 
-~~The space is open to members that went through COVID-19 onboarding and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
+~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement] and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
 
-~~Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].~~
+~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
 
 * ~~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~~
 * ~~✅ Members: Yes~~
@@ -104,9 +104,9 @@ to work and using shared facilities. **Signage and sectioning** will be in place
 
 #### Step 5
 
-The space is open to members and small public events with organisers that went through COVID-19 onboarding who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.
+The space is open to members and small public events with organisers that completed the [Farset Labs COVID-19 Policy Agreement] who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.
 
-Coming in to the space is conditional on attending COVID-19 onboarding and agreeing to our [return policy].
+Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].
 
 * ✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.
 * ✅ Members:                                 Yes
@@ -114,3 +114,4 @@ Coming in to the space is conditional on attending COVID-19 onboarding and agree
 * 😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support
 
 [return policy]:/about/coronavirus_return_policy
+[Farset Labs COVID-19 Policy Agreement]:https://docs.google.com/forms/d/e/1FAIpQLSdnoNQBvJ5xRm75cpybzPVDQOLN389tQhX1Kmv7kCnF2bgI6g/viewform?usp=sf_link
