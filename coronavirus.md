@@ -19,13 +19,12 @@ _Last reviewed on the 24th of May 2021._
 
 ### Frequently Asked Questions (FAQs)
 
-Ask questions and we will add answers here. Get in touch on [Slack] or through [info@farsetlabs.org.uk].
+Ask questions and we will add answers here. Get in touch on Slack or through [info@farsetlabs.org.uk].
 
 #### Do I have to wear a mask in the space?
 
 No, they are available but not mandatory while you are in the space as of 13th of July. Government guidelines may change.
 
-[Slack]:{{site.social.slack}}
 [info@farsetlabs.org.uk]:mailto:info@farsetlabs.org.uk
 
 #### Where is the form I need to submit before going to the space?
@@ -34,7 +33,7 @@ Here you go, it's available online: [Farset Labs COVID-19 Policy Agreement].
 
 #### Can I run an event with more than 15 people?
 
-Yes, but an additional step is required. Contact us on [Slack] (preferred) or through [info@farsetlabs.org.uk] and we'll complete a risk assessment for your event, which is required for indoor events of more than 15 people.
+Yes, but an additional step is required. Contact us on Slack (preferred) or through [info@farsetlabs.org.uk] and we'll complete a risk assessment for your event, which is required for indoor events of more than 15 people.
 
 ---
 
