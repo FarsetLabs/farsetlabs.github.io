@@ -8,6 +8,8 @@ toc: False
 ---
 # Facilities & Resources
 
+<iframe width="750" height="480" src="https://my.matterport.com/show/?m=FF6T3aJ7eHL&sm=2&sr=-2.74,-.47,-2.95&sp=4.8,7,-11.4" frameborder="0" allowfullscreen allow="xr-spatial-tracking"></iframe>
+
 Farset Labs is a [makerspace](https://en.wikipedia.org/wiki/Hackerspace) that
 provides a place for creativity and technological tinkering. Membership is open to
 everyone, no matter what you want to do, and we welcome people from all walks
