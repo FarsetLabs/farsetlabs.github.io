@@ -23,7 +23,7 @@ All members have voting and room booking[^3] privileges regardless of level.
 
 If you're not sure what category you fall in to, give us a shout on <join@farsetlabs.org.uk> and we'll talk it through.
 
-<a href="https://farsetlabs.spaces.nexudus.com/" class="large button expand round">Sing Up on Nexudus</a>
+<a href="https://farsetlabs.spaces.nexudus.com/" class="large button expand round">Sign up on Nexudus</a>
 
 If you wish, you can contact us on <join@farsetlabs.org.uk> to discuss alternative payment schemes such as Invoicing, BACS, Standing Orders, or Cash balances.
 
