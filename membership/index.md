@@ -9,6 +9,24 @@ carousel:
   - image: /assets/img/space/first-floor-2.jpg
   - image: /assets/img/space/meeting-room-1.jpg
 ---
+Join the Hackerspace {#join-the-hackerspace}
+=========================
+
+There are four Individual Membership rates to match the most common uses of the space:
+
+-   **Students** (£15pm); occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^2]
+-   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
+-   **Freelancers** (£35pm); consistently in the space, regularly hot-desking with ongoing long term projects
+-   **Angels** (£75pm); kind people who support the space, regardless of their usage level
+
+All members have voting and room booking[^3] privileges regardless of level.
+
+If you're not sure what category you fall in to, give us a shout on <join@farsetlabs.org.uk> and we'll talk it through.
+
+<a href="https://farsetlabs.spaces.nexudus.com/" class="large button expand round">Sign up on Nexudus</a>
+
+If you wish, you can contact us on <join@farsetlabs.org.uk> to discuss alternative payment schemes such as Invoicing, BACS, Standing Orders, or Cash balances.
+
 Membership Benefits
 ===================
 
@@ -26,53 +44,6 @@ They also get access to all of our equipment and events, as well as the affiliat
 -   **Networking** with the best and brightest innovators and creators in Belfast
 -   **Belonging** to an accepting and creative community
 -   **Escaping** to an inspiring space
-
-Membership Types {#membership-dues}
-================
-
-There are three Individual Membership rates to match the most common uses of the space:
-
--   **Students** (£15pm); occasionally in the space during the day, mostly experiment in the evenings, and are strapped for cash [^2]
--   **Enthusiasts** (£25pm); regularly use the space in the evenings and make regular use of the equipment and space
--   **Freelancers** (£35pm); consistently in the space, regularly hot-desking with ongoing long term projects
--   **Angels** (£75pm); kind people who support the space, regardless of their usage level
-
-All members have voting and room booking[^3] privileges regardless of level.
-
-If you're not sure what category you fall in to, give us a shout on <join@farsetlabs.org.uk> and we'll talk it through.
-
-<form class="center small-8" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="on0" value="">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="XJ9H6BLXWWYXL">
-<table>
-<tr>
-  <td>
-    <select name="os0">
-      <option value="Student (Monthly)">Student (Monthly) : £15.00 GBP</option>
-      <option value="Enthusiast (Monthly)">Enthusiast (Monthly) : £25.00 GBP</option>
-      <option value="Freelancer (Monthly)">Freelancer (Monthly) : £35.00 GBP</option>
-      <option value="Angel (Monthly)">Angel (Monthly) : £75.00 GBP</option>
-      <option value="Student (Annual)">Student (Annual) : £165.00 GBP</option>
-      <option value="Enthusiast (Annual)">Enthusiast (Annual) : £275.00 GBP</option>
-      <option value="Freelancer (Annual)">Freelancer (Annual) : £385.00 GBP</option>
-    </select>
-  </td>
-  <td>
-    <input type="hidden" name="currency_code" value="GBP">
-    <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_subscribe_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-  </td>
-</tr>
-<tr style="background: #ffd411;">
-  <td colspan="3" class="text-center">
-  <a href="/coronavirus">The space is open to members that went through COVID-19 onboarding, but not visitors or public events, and all events are remote.</a>
-  </td>
-</tr>
-</table>
-</form>
-
-If you don’t wish to use PayPal, contact us on <join@farsetlabs.org.uk> to discuss alternative payment schemes such as Invoicing, BACS, Standing Orders, or Cash balances.
 
 -----------------------------------------------------------------------
 
