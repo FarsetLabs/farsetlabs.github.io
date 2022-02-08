@@ -70,30 +70,3 @@ officers:
     twitter: "awflwafl"
     linkedin: "artemiy-kondratiev"
     github: "awflwafl"
-
-  - name: Glenn Davidson
-    pronouns: "he/him"
-    username: davidson
-    year: 2014 -
-    title: "Events NEM"
-    blurb: "Glenn is an enthusiastic software engineer with 10 years experience in business problem analysis, enterprise systems, and mobile technology.  While currently working on cutting-edge start-up and mobile projects as part of [Coding Fury Ltd](https://www.codingfury.com/), he also organises local events for Ireland's independent game industry. Glenn is the central point of contact for Farsets event scheduling and logistics."
-    email: "events@farsetlabs.org.uk"
-    discourse: "panloaf"
-    twitter: "glenndavidson"
-    facebook: "panloaf"
-    website: "https://blitter.co.uk"
-    linkedin: "glennrdavidson"
-
-  - name: Phil Weir
-    pronouns: "they/them"
-    username: philtweir
-    year: 2018 -
-    title: "Co-Working NEM"
-    email: coworking@farsetlabs.org.uk
-    twitter: "phil_t_weir"
-    github: "philtweir"
-    website: "https://flaxandteal.co.uk"
-    linkedin: "phil-weir-033b5a62"
-    blurb: "Focused on open technology and its ability to transform business and society, through efficiency and interlinking. Development experience in web technologies and numerical simulation, primarily with backend services, alongside cloud (AWS) and systems administration."
-
-
