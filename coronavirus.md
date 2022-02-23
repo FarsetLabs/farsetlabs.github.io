@@ -13,7 +13,7 @@ Information for Farset Labs members and visitors during the Coronavirus pandemic
 * **✅ Public events:                           Yes, small in person public events up to 15 people with remote participation support**
 * **😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support**
 
-_Last reviewed on the 23rd Feb 2022_
+_Last reviewed on the 22rd Feb 2022_
 
 ---
 
