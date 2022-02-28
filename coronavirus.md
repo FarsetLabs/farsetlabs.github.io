@@ -4,13 +4,13 @@ The NI Health Minister has announced that all Covid legal restrictions be replac
 
 See here: 
 
-https://www.health-ni.gov.uk/news/minister-swann-announces-easing-covid-regulations
+[https://www.health-ni.gov.uk/news/minister-swann-announces-easing-covid-regulations](https://www.health-ni.gov.uk/news/minister-swann-announces-easing-covid-regulations)
 
 In addition, we would draw members’ attention to the current NI Direct guidelines on staying safe and preventing the spread of Covid.
 
 See here:
 
-https://www.nidirect.gov.uk/articles/coronavirus-covid-19-how-stay-safe-and-help-prevent-spread
+[https://www.nidirect.gov.uk/articles/coronavirus-covid-19-how-stay-safe-and-help-prevent-spread](https://www.nidirect.gov.uk/articles/coronavirus-covid-19-how-stay-safe-and-help-prevent-spread)
 
 Subsequently, Farset Labs have amended our current status as follows:
 
