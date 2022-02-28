@@ -1,116 +1,54 @@
 ## Coronavirus (COVID-19)
 
-Information for Farset Labs members and visitors during the Coronavirus pandemic, in line with [government guidelines](https://www.executiveoffice-ni.gov.uk/sites/default/files/publications/execoffice/our-approach-to-decision-making-summary-120520.pdf).
+The NI Health Minister has announced that all Covid legal restrictions be replaced by guidelines effective from Feb 15th 2022.
 
-#### **Status: Step 5**
+See here: 
 
-**The space is open to members and small public events with organisers that completed the [Farset Labs COVID-19 Policy Agreement] who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.**
+https://www.health-ni.gov.uk/news/minister-swann-announces-easing-covid-regulations
 
-**Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].**
+In addition, we would draw members’ attention to the current NI Direct guidelines on staying safe and preventing the spread of Covid.
 
-* **✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.**
+See here:
+
+https://www.nidirect.gov.uk/articles/coronavirus-covid-19-how-stay-safe-and-help-prevent-spread
+
+Subsequently, Farset Labs have amended our current status as follows:
+
+#### **Status:**
+
+**The space is now fully open to members, visitors and events.**
+
 * **✅ Members:                                 Yes**
-* **✅ Public events:                           Yes, small in person public events up to 15 people with remote participation support**
+* **✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision**
+* **✅ Public events:                           Yes, with no restrictions on numbers other than what the space can reasonably cope with (as before)**
 * **😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support**
 
-_Last reviewed on the 24th of May 2021._
+_Last reviewed on the 27th of February 2022._
 
 ---
 
-### Frequently Asked Questions (FAQs)
+#### **Guidelines**
 
-Ask questions and we will add answers here. Get in touch on Slack or through [info@farsetlabs.org.uk].
+We would ask members to respect the fact that not everyone is comfortable with the easing of restrictions, for various reasons, and therefore to be sensitive to the wishes of others.
 
-#### Do I have to wear a mask in the space?
+Please do not come into the space if you are symptomatic - that is anything that resembles Covid, seasonal influenza or heavy colds or coughs. Nobody wants any of these things.
 
-No, they are available but not mandatory while you are in the space as of 13th of July. Government guidelines may change.
+#### **Masks**
 
-[info@farsetlabs.org.uk]:mailto:info@farsetlabs.org.uk
+Wearing of masks in the space is not mandatory but remains an individual choice. We will continue to make masks available in the hallway for the foreseeable future.
 
-#### Where is the form I need to submit before going to the space?
+#### **Social Distancing**
 
-Here you go, it's available online: [Farset Labs COVID-19 Policy Agreement].
+The 2 metre social distance rule is no longer mandatory but we would ask members to respect the fact that others may have different preferences to your own.
 
-#### Can I run an event with more than 15 people?
+#### **Ventilation**
 
-Yes, but an additional step is required. Contact us on Slack (preferred) or through [info@farsetlabs.org.uk] and we'll complete a risk assessment for your event, which is required for indoor events of more than 15 people.
+We would ask that members running events or meetings be aware of the benefits of ventilation in the space.
 
----
+For meetings in the event space, open windows periodically and as often as outside temperatures permit.
 
-### Plan for Easing out of Lockdown
+In the upstairs meeting room, prop the door open after meetings and leave the window open for a short period afterwards if possible.
 
-Farset Labs will reopen access to the space in steps aligned with government guidance.
-
-However, we will phase in reopening access for **members** first, then **visitors** and later to small **events** to be safe.
-
-**Social distancing** remains important so please give each other a respectful amount of space when choosing an area
-to work and using shared facilities. **Signage and sectioning** will be in place to help.
-
-**Sanitising products** and **personal protective equipment** will be made available to everyone in the space.
-
-[Our return policy is detailed here](/about/coronavirus_return_policy).
-
-#### ~~Lockdown~~
-
-~~The space is closed aside from maintenance visits by the management team, and all hackerspace meetings are remote.~~
-
-* ~~❌ Visitors: No~~
-* ~~❌ Members: No~~
-* ~~❌ Public events: No~~
-* ~~💻 Hackerspace meetings (eg: town hall): Remote~~
-
-#### ~~Step 1~~
-
-~~The space is closed aside from maintenance visits by the management team, and all hackerspace meetings are remote.~~
-
-* ~~❌ Visitors: No~~
-* ~~❌ Members: No~~
-* ~~❌ Public events: No~~
-* ~~💻 Hackerspace meetings (eg: town hall): Remote~~
-
-#### ~~Step 2~~
-
-~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement], but not visitors or public events, and all hackerspace meetings are remote.~~
-
-~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
-
-* ~~❌ Visitors: No~~
-* ~~✅ Members: Yes~~
-* ~~❌ Public events: No~~
-* ~~💻 Hackerspace meetings (eg: town hall): Remote~~
-
-#### ~~Step 3~~
-
-~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement] and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
-
-~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
-
-* ~~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~~
-* ~~✅ Members: Yes~~
-* ~~❌ Public events: No~~
-* ~~💻 Hackerspace meetings (eg: town hall): Remote~~
-
-#### ~~Step 4~~
-
-~~The space is open to members that completed the [Farset Labs COVID-19 Policy Agreement] and guests under their supervision, but not public events, and all hackerspace meetings are remote.~~
-
-~~Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].~~
-
-* ~~✅ Visitors: Yes, members can bring up to 4 guests under their supervision.~~
-* ~~✅ Members: Yes~~
-* ~~❌ Public events: No~~
-* ~~💻 Hackerspace meetings (eg: town hall): Yes, remote~~
-
-#### Step 5
-
-The space is open to members and small public events with organisers that completed the [Farset Labs COVID-19 Policy Agreement] who can bring in guests under their supervision, and all hackerspace meetings are back in the space with remote participation supported.
-
-Coming in to the space is conditional on completing the [Farset Labs COVID-19 Policy Agreement].
-
-* ✅ Visitors:                                Yes, members can bring up to 4 guests under their supervision.
-* ✅ Members:                                 Yes
-* ✅ Public events:                           Yes, small in person public events up to 15 people with remote participation support
-* 😷 Hackerspace meetings (eg: town hall):    Yes, in person with remote participation support
 
 [return policy]:/about/coronavirus_return_policy
 [Farset Labs COVID-19 Policy Agreement]:https://docs.google.com/forms/d/e/1FAIpQLSdnoNQBvJ5xRm75cpybzPVDQOLN389tQhX1Kmv7kCnF2bgI6g/viewform?usp=sf_link
