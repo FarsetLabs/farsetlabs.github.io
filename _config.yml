@@ -4,6 +4,7 @@ tags: "hackerspace, makerspace, belfast, technology, maker movement"
 markdown: kramdown
 exclude: [README.md, _scripts, Gemfile, Gemfile.lock, etc, bin, makefile, buildout.cfg, bootstrap.py, requirements.txt]
 plugins_dir: ./_plugins
+repository: FarsetLabs/farsetlabs.github.io
 base: ""
 plugins:
   - jekyll-mentions
