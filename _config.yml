@@ -26,12 +26,12 @@ links:
   - name: Blog
     url: "https://blog.farsetlabs.org.uk/"
 officers:
-  - name: Andrew Bolster, Secretary
+  - name: Andrew Bolster, Treasurer 
     pronouns: "he/him"
     username: bolster
     year: 2011 -
     title: "Director/Founder"
-    blurb: "Head of Data Science @ [WhiteHat Security](https://www.whitehatsec.com), Trustee @ [Vault Artist Studios](https://www.vaultartiststudios.com/), and overall trouble maker. You can see some of his work over on [his website](https://andrewbolster.info)."
+    blurb: "Head of Data Science @ [WhiteHat Security](https://www.whitehatsec.com); You can see some of his work over on [his website](https://andrewbolster.info)."
     email: "bolster@farsetlabs.org.uk"
     twitter: "bolster"
     website: "https://andrewbolster.info"
@@ -40,17 +40,7 @@ officers:
     github: "andrewbolster"
     discourse: "bolster"
 
-  - name: Dylan Wylie, Treasurer
-    pronouns: "he/him"
-    username: wylie
-    year: 2013 -
-    title: "Director"
-    blurb: "Co-founder of rapidly growing health consultancy startup,  [We Slim Together](https://www.weslimtogether.co.uk), physicist, developer & technologist."
-    email: "dylan@farsetlabs.org.uk"
-    twitter: "dylwylie"
-    discourse: "dylan"
-
-  - name: Colin Mitchell
+  - name: Colin Mitchell, Secretary
     pronouns: "he/him"
     username: pixelpage
     year: 2016 -
