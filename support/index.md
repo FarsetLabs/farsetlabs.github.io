@@ -23,8 +23,6 @@ For larger donations, it may be easier to [contact us](mailto:donate@farsetlabs.
 
 If you're not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset! Your donations will go towards the upkeep of the space and it's community and if you want to support anything in particular, you can say so in the form!
 
-Friends of Farset are welcome to attend most Farset events <sup id="fnref:events"><a href="#fn:events" class="footnote">1</a></sup> and can always avail of the [£5 day passes](/hotdesk) if they find themselves in need of workspace! If you are coming down, please remember to sign the Guestbook at reception when you come in!
-
 <div class="btn-group" role="group" aria-label="support-group" style="text-align:center">
 <a class="large button round expand" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
 <form class="text-center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -34,17 +32,6 @@ Friends of Farset are welcome to attend most Farset events <sup id="fnref:events
   <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
   <input type="submit" name="submit" class="large button round expand" value="Support us via PayPal">
 </form>
-<a class="large button round expand" type="burron" href="https://smile.amazon.co.uk/ch/102754-0">Support us via Amazon Smile</a>
 </div>
 
 Please [contact us](mailto:donate@farsetlabs.org.uk) if you'd like to make a BACS donation.
-
-
-<div class="footnotes">
-  <ol>
-    <li id="fn:events">
-    <p>Some events requiring the purchase of specialised equipment and/or parts may require a supplementary fee to participate. <a href="#fnref:events" class="reversefootnote">↩</a></p>
-    </li>
-  </ol>
-</div>
-
