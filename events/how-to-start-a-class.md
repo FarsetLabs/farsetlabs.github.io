@@ -13,9 +13,9 @@ If you'd like to book any of these spaces, first check the [room availability ca
 
 Guide Prices:
 
-* £25/hr - Event Space - 2hr min
-* £15/hr - Project Room - 2hr min
-* £10/hr - Lounge - 1hr min
+* £30/hr - Event Space - 2hr min
+* £20/hr - Workshop - 2hr min
+* £20/hr - McKee Meeting Room
 
 Discounts may be available for voluntary organisations, charities, and community groups operating in the South Belfast area depending on the relevance of the activity to the objects of Farset Labs.
 
@@ -35,7 +35,7 @@ Equipment provided:
 
 Guide Prices: 
 
-* £200/Day - Event space - 8hr 
+* £240/Day - Event space - 8hr 
 
 If you are are interested in running a course on our premises then contact [events@farsetlabs.org.uk](mailto:events@farsetlabs.org.uk) to discuss dates and fees.
 
