@@ -19,6 +19,13 @@ If you'd like to support our work in this way, follow the link below! Thanks!
 
 For larger donations, it may be easier to [contact us](mailto:donate@farsetlabs.org.uk) to arrange a BACS payment and requisite [Gift Aid](https://www.gov.uk/donating-to-charity/gift-aid) paperwork.
 
+## Corporate Giving Programmes
+
+Benevity is a social enterprise software company that provides corporate social responsibility and workplace giving solutions. Benevity provides donation and volunteer matching services for employees of over 600 enterprise clients, including many of the world's largest companies such as Microsoft, Coca-Cola, and Google. If your employer is one of them, you can support the work of the charity below.
+
+<a class="large button round expand" type="button" href="https://causes.benevity.org/causes/826-NI_102754">Support us via Benevity</a>
+
+
 ## Friends of Farset
 
 If you're not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset! Your donations will go towards the upkeep of the space and it's community and if you want to support anything in particular, you can say so in the form!
