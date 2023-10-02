@@ -21,21 +21,14 @@ tuckshop on-site (recommended donation; £2/btl)
 We also sell by the crate for larger orders, and are happy to sell onto the
 public! 
 
-If you would like to order (for collection only), please order here!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfTU5Dc9sMwnOOe9YWhicr_QUQqcehFibH_AYe7SmlSVVYP3A/viewform?embedded=true" width="640" height="2161" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 We stock; 
 
-* Regular (330/500ml)
-* Cola (330ml)
-* IceT (500ml)
-* Granat (500ml)
+* Regular (330ml) - £35
+* Cola (330ml) - £35
 
-Pricing: 
+If you would like to order (for collection only), please order here!
 
-* 24x330ml - £35
-* 20x500ml - £37
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOy9bXEpTl5UowpSB1ubudoWwwCY1HTwvpQGr9xuEI_NY-Xg/viewform?embedded=true" width="640" height="854" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
   [Club-mate]: http://www.clubmate.de/
