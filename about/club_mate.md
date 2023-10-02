@@ -24,7 +24,7 @@ public!
 We stock; 
 
 * Regular (330ml) - £35
-* Cola (330ml) - £37
+* Cola (330ml) - £35
 
 If you would like to order (for collection only), please order here!
 
