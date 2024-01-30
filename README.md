@@ -4,8 +4,6 @@ A [Jekyll][jekyll] and [Bootstrap][bootstrap] based informational website for
 [Farset Labs][farsetlabs], a hackerspace and charity located in Belfast,
 Northern Ireland.
 
-![FarsetLabs](assets/img/website_render.png "FarsetLabs")
-
 ## Quickstart
 
 Install the [prerequisites][prerequisites] needed for Jekyll. This includes a
