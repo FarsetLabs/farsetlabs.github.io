@@ -2,10 +2,10 @@
 layout: default
 title: Supporters
 parent: "Support"
-category: pages
+weight: 3
 ---
 
-For companies that think what we're doing is great, we offer them a way to help us financially and contribute to the direction of the community. 
+For companies that think what we're doing is great, we offer them a way to help us financially and contribute to the direction of the community.
 
 # Benefits of Supporting Us
 
@@ -36,7 +36,7 @@ across North America and Europe, providing a multi-gigabit L2 connection that
 puts Northern Ireland business on to a level playing-field with the global
 internet marketplace.
 
-## Weavers Court Business Park 
+## Weavers Court Business Park
 
 <div style="float: right"><a href="http://www.weaverscourt.com"><img src="{{site.base}}/assets/img/corp_logos/weavers-court.png"/></a></div>
 

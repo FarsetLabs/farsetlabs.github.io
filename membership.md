@@ -1,6 +1,6 @@
 ---
 title: Join
 category: nav
-weight: 2
+weight: 1
 redirect_to: https://farsetlabs.spaces.nexudus.com/
 ---
