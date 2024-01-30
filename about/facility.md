@@ -2,7 +2,7 @@
 layout: default
 title: Facilities
 parent: "About"
-weight: 3
+weight: 1
 image: /about/space/workshop-1.jpg
 toc: False
 ---

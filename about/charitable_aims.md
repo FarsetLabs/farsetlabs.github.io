@@ -1,10 +1,10 @@
 ---
-title: Charitable Aims
 layout: default
-category : pages
-parent : About
-toc : True
-tags : []
+title: Charitable Aims
+parent: About
+weight: 4
+toc: True
+tags: []
 ---
 
 # {{ page.title }}
