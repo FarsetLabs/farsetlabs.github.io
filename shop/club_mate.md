@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Club-Mate
-parent: "About"
+parent: "Shop"
+weight: 2
 ---
 
 # Club-Mate
 
-[![clubmate](clubmate.jpg)]()
+![clubmate](clubmate.jpg)
 
 [Club-Mate] is the refreshing hacker drink originating from Germany. It uses
 an extract from the Yerba-tea plant native to South America.
@@ -19,16 +20,16 @@ Farset Labs imports Club-Mate for its members, it is sold by the bottle at the
 tuckshop on-site (recommended donation; £2/btl)
 
 We also sell by the crate for larger orders, and are happy to sell onto the
-public! 
+public!
 
-We stock; 
+We stock;
 
 * Regular (330ml) - £35
 * Cola (330ml) - £35
 
 If you would like to order (for collection only), please order here!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOy9bXEpTl5UowpSB1ubudoWwwCY1HTwvpQGr9xuEI_NY-Xg/viewform?embedded=true" width="640" height="854" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOy9bXEpTl5UowpSB1ubudoWwwCY1HTwvpQGr9xuEI_NY-Xg/viewform?embedded=true" width="100%" height="854" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
   [Club-mate]: http://www.clubmate.de/
