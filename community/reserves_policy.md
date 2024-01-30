@@ -4,6 +4,7 @@ layout: default
 category: pages
 toc: True
 tags: []
+redirect_from: /about/reserves_policy
 permalink: /community/reserves_policy
 ---
 

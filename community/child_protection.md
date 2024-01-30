@@ -4,6 +4,7 @@ layout: default
 category: pages
 toc: True
 tags: []
+redirect_from: /about/child_protection
 permalink: /community/child_protection
 ---
 

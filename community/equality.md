@@ -4,6 +4,7 @@ layout: default
 category: pages
 toc: True
 tags: []
+redirect_from: /about/equality
 permalink: /community/equality
 ---
 
@@ -105,6 +106,6 @@ For further information please contact:
 >
 > Email: [information@equalityni.org](mailto:information@equalityni.org)
 >
-> [Website](www.equalityni.org)
+> [https://www.equalityni.org](https://www.equalityni.org)
 
 

@@ -2,6 +2,7 @@
 title: Clearance Guidelines
 layout: default
 toc: False
+redirect_from: /about/clearance
 permalink: /community/clearance
 ---
 

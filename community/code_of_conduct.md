@@ -4,6 +4,7 @@ layout: default
 parent: "Community"
 toc: True
 weight: 3
+redirect_from: /about/code_of_conduct
 permalink: /community/code_of_conduct
 ---
 

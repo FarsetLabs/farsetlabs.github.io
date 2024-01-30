@@ -1,6 +1,7 @@
 ---
 title: Network Configuration
 layout: default
+redirect_from: /about/net_conf
 permalink: /community/net_conf
 ---
 

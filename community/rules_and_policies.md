@@ -4,6 +4,7 @@ layout: default
 parent: "Community"
 toc: False
 weight: 2
+redirect_from: /about/rules_and_policies
 permalink: /community/rules_and_policies
 ---
 
@@ -30,7 +31,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * [Intolerance will not be tolerated](/community/equality).
 
 ### Handling of Complaints and Breaches
-[Full Policy](code_of_conduct#15-handling-of-complaints-and-breaches)
+[Full Policy](/community/code_of_conduct#15-handling-of-complaints-and-breaches)
  * Technical issues related to the space may be raised on Slack.
  * All members should endeavour to resolve minor personal issues directly with the persons involved;
  * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](/community/ops_manual));

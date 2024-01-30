@@ -7,6 +7,7 @@ haschildren: False
 toc: False
 weight: 4
 tags: []
+redirect_from: /about/sponsored_membership_policy
 permalink: /community/sponsored_membership_policy
 ---
 

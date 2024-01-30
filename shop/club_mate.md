@@ -3,6 +3,7 @@ layout: default
 title: Club-Mate
 parent: "Shop"
 weight: 2
+redirect_from: /about/club_mate
 permalink: /shop/club_mate
 ---
 

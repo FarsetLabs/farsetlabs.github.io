@@ -4,6 +4,7 @@ layout: default
 category: pages
 toc: True
 tags: []
+redirect_from: /about/hardware_donation_license
 permalink: /community/hardware_donation_license
 ---
 
