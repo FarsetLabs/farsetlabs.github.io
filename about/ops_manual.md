@@ -15,30 +15,30 @@ These roles are:
 * Members
 
 # Company Role
-Farset Labs, is a registered company limited by guarantee (NI611278) is an CCNI Registered Charity (NIC102754). It is the holding entity of the lease contract with Weavers Court and the relevant bills associated with the maintenance of the building itself (Electricity, Gas, Networking). 
+Farset Labs, is a registered company limited by guarantee (NI611278) is an CCNI Registered Charity (NIC102754). It is the holding entity of the lease contract with Weavers Court and the relevant bills associated with the maintenance of the building itself (Electricity, Gas, Networking).
 
 From an organisational perspective, ‘the Company’ consists of the named Directors, who are legally responsible for it’s long term sustainability and operation.
 
 # Director Role
 
 ## Summary
-Directors are legally, fiscally, and socially responsible for the strategic health and operation of Farset Labs (the Company). 
+Directors are legally, fiscally, and socially responsible for the strategic health and operation of Farset Labs (the Company).
 
 ## Collective Role
 They are collectively, ultimately responsible for the growth and health of the organisation and it’s community, but are primarily concerned with the financial, legal and strategic running of the organisation.
 
 ## Individual Role
-Individually, they are representatives of the company as an entity and have a wide level of autonomy in terms of financial, policy, and operational decision making. 
+Individually, they are representatives of the company as an entity and have a wide level of autonomy in terms of financial, policy, and operational decision making.
 
 ## Appointment
 Director elections for vacated roles will normally be launched within 30 days of the registered departure date of the outgoing director. Nominations for Directorship will be open for 14 days. Applicants must self nominate with a ‘pitch’, having been a member for at least three months.
 
 Existing directors have a Director-Majority veto on applicants, in addition to normal HMRC/Fraud/Criminal record conditions for Director applicability.
 
-Directors will only be ratified by a ranked Instant Runoff election with a majority of the current membership voting. Sitting directors cannot veto the vote after elections have been opened, and the election period will be at least 2 weeks. 
+Directors will only be ratified by a ranked Instant Runoff election with a majority of the current membership voting. Sitting directors cannot veto the vote after elections have been opened, and the election period will be at least 2 weeks.
 
 ## Removal/Complaints
-Directors can only be countermanded by a majority vote of the other Directors. 
+Directors can only be countermanded by a majority vote of the other Directors.
 
 Likewise, Directors can be removed from their position by a majority vote of no confidence by the other Directors. Members can propose a vote of no confidence take place and, if seconded by another member, then the Directors will vote regarding the matter.
 
@@ -51,7 +51,7 @@ Complaints of a serious nature about the actions of a Director can and should be
 # Non-Executive Manager Role
 
 ## Summary
-Non-Executive Managers (NEMs) are the primary Points of Contact (PoC) for certain areas, equipment, and activities within the day-to-day operation of the space. 
+Non-Executive Managers (NEMs) are the primary Points of Contact (PoC) for certain areas, equipment, and activities within the day-to-day operation of the space.
 
 ## Collective Role
 NEMs represent a limited, non-executive, role in Farset Labs, with no special legal responsibilities or liabilities with respect to the Company. See below for specific responsibilities.
@@ -75,14 +75,14 @@ Complaints about the actions of a NEM can and should be raised as per the genera
 * Events:
   * Co-ordinating with Directors to handle Events and Event-space related communications.
   * Managing scheduling conflicts and availability for Farset Labs Events proposals, from members and non-members.
-  * Co-ordinating Event promotion through all Farset Labs current online media - Blog, Twitter, Facebook pages, Facebook group, and Discourse. This may require creation of online promotion materials where necessary, but it is the responsibility of Event organisers to create and/or provide promotion materials for their own event. 
-* Community: 
+  * Co-ordinating Event promotion through all Farset Labs current online media - Blog, Twitter, Facebook pages, Facebook group, and Discourse. This may require creation of online promotion materials where necessary, but it is the responsibility of Event organisers to create and/or provide promotion materials for their own event.
+* Community:
   * PoC for internal community engagement
   * Responsible for internal social events and member relations
   * PoC for member induction and 'soft landing' discussions
 * Project-Room:
   * Management and monitoring of Project equipment and resources including but not limited to 3D printer.
-  * Attempting to prevent conflict between member project resource requirements.  
+  * Attempting to prevent conflict between member project resource requirements.
   * Coordinates Project Room changes
   * Along with the Projects NEM, rives the function and layout of the Project Room to suit the needs of the Farset Community.
 * Digital Infrastructure:
@@ -101,5 +101,5 @@ Complaints about the actions of a NEM can and should be raised as per the genera
 Members of the hackerspace are permitted access and use of the resources controlled by and shared within the space. This includes both equipment and resources directly owned and operated by Farset Labs the company, and equipment and resources donated by members (with per-donation terms attached to each item, primarily covered under the [Hardware Donation Licence](hardware_donation_license.html).
 
 ## Membership Types
-There are currently four operational types of membership of the space. The lines between the levels are intentionally blurred to allow a common-sense assessment on the part of the member/prospective member of how much they are going to use the resources of the space. These levels are not there to restrict use of the space, but to provide a reasonable revenue stream for the ongoing growth of the Labs within the bounds of fair and reasonable use. More info on the levels of membership can be found [here](https://farsetlabs.spaces.nexudus.com/?public&#priceplans).
+There are currently four operational types of membership of the space. The lines between the levels are intentionally blurred to allow a common-sense assessment on the part of the member/prospective member of how much they are going to use the resources of the space. These levels are not there to restrict use of the space, but to provide a reasonable revenue stream for the ongoing growth of the Labs within the bounds of fair and reasonable use. [More info on the levels of membership](/membership).
 

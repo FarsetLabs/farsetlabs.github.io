@@ -13,7 +13,7 @@ provides a place for creativity and technological tinkering. Membership is open 
 everyone, no matter what you want to do, and we welcome people from all walks
 of life to use our space, come to our events, get involved and foster the maker community in Northern Ireland.
 
-For a low [membership fee](https://farsetlabs.spaces.nexudus.com/?public&), students, hobbyists, and all members of the local community will be able to come together, hack at projects, build stuff and bring some life to Belfast!
+For a low [membership fee](/membership), students, hobbyists, and all members of the local community will be able to come together, hack at projects, build stuff and bring some life to Belfast!
 
 Farset Labs provides members with a wide range of communal resources, so members can play and build as you wish. These include:
 
@@ -40,7 +40,7 @@ We provide space, tools and community. Members can come as little or as often as
 
 Farset Labs has capacity for most projects, big or small. Three main rooms cover a total of 2000ft<sup>2</sup> (190m<sup>2</sup>), providing co-working, events, and project hacking space, as well as a kitchen and lounge. The building is situated on the [Weavers Court](http://www.weaverscourt.com/) business park, with ample parking, 24/7 security, and access to further office and warehousing space, all five mins' walk from Belfast city centre.
 
-Farset Labs operates a clear desk policy on (and under) non-[rented](https://farsetlabs.spaces.nexudus.com/?public&) desks (coloured in Blue or Green in the above floor plan); All hot-desks must be cleared of all equipment before leaving the space. 
+Farset Labs operates a clear desk policy on (and under) non-[rented](/membership) desks (coloured in Blue or Green in the above floor plan); All hot-desks must be cleared of all equipment before leaving the space.
 Equipment left unattended at non-rented desks is subject to being moved by *any* member to common storage facilities.
 
 Any communal equipment such as monitors/keyboards/mice etc. should be returned to appropriate storage locations (available in the workshop and coworking space) for others to use.
@@ -74,7 +74,7 @@ Two workbenches at the back of the space are available for hire on the same basi
 
 # Hiring the Space
 
-The unique and inspiring events room can be booked for private functions for outside organisations, companies, and individuals, including break out access to the rest of the space, projector and AV facilities, etc. 
+The unique and inspiring events room can be booked for private functions for outside organisations, companies, and individuals, including break out access to the rest of the space, projector and AV facilities, etc.
 
 See [here](/events/how-to-start-a-class.html) for details of how to book the space.
 
