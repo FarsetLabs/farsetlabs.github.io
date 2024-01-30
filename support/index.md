@@ -1,7 +1,7 @@
 ---
 title: Support
 category: nav
-weight: 2
+weight: 3
 redirect_to: /support/donate
 haschildren: True
 ---
