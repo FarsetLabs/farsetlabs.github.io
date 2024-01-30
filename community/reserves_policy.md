@@ -1,9 +1,10 @@
 ---
 title: Charity Reserves Policy
 layout: default
-category : pages
-toc : True
-tags : []
+category: pages
+toc: True
+tags: []
+permalink: /community/reserves_policy
 ---
 
 # {{ page.title }}

@@ -1,7 +1,8 @@
 ---
 title: Clearance Guidelines
 layout: default
-toc : False
+toc: False
+permalink: /community/clearance
 ---
 
 A single "Ticket List" Google Doc will be kept in Slack to record any items that have been ticketed, with 24h of ticketing, and to record any items agreed with Directors not to be moved (these should also be appropriately labeled).

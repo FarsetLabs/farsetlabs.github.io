@@ -1,21 +1,22 @@
 ---
 title: Child Protection Policy and Procedures
 layout: default
-category : pages
-toc : True
-tags : []
+category: pages
+toc: True
+tags: []
+permalink: /community/child_protection
 ---
 
 # {{ page.title }}
 Farset Labs (FSL) is committed to a practice which promotes the welfare of children and protects them from harm.  We wish to ensure that all children and young people can participate in an enjoyable and safe environment in which they can have fun, learn, and feel valued.
- 
+
 Directors, Managers, Members and Volunteers (agents) within this organisation accept and recognise our responsibilities to develop awareness of the issues which may cause harm, and to establish and maintain a safe environment for children and young people.
- 
-Farset Labs will review its policy, procedures and practice in this regard at regular intervals, at least every 3 years. 
- 
+
+Farset Labs will review its policy, procedures and practice in this regard at regular intervals, at least every 3 years.
+
 Farset Labs recognises the [Children Order (Northern Ireland) (1995)](https://www.legislation.gov.uk/nisi/1995/755/contents/made), the [Safeguarding Vulnerable Groups (SVG) Act 2006]( https://www.legislation.gov.uk/ukpga/2006/47/contents) and the [Safeguarding Vulnerable Groups (Northern Ireland) Order (SVG(NI)) 2007](https://www.legislation.gov.uk/nisi/2007/1351/contents) and incorporates their principles into its Child Protection Policy and Procedures.
 
-Under the SVG (NI) Order 2007 FSL is aware that it is a criminal offence to employ someone who is disqualified from working with children and young people in a regulated position.  It is a criminal offence not to dismiss a person who is disqualified from holding a regulated position.  
+Under the SVG (NI) Order 2007 FSL is aware that it is a criminal offence to employ someone who is disqualified from working with children and young people in a regulated position.  It is a criminal offence not to dismiss a person who is disqualified from holding a regulated position.
 
 # What to know about Child Membership of Farset Labs
 No Under-18’s are permitted to join FSL as members.
@@ -23,12 +24,12 @@ No Under-18’s are permitted to join FSL as members.
 Exceptions may be made in the case of student placement or for specific projects, however these exceptions will require signed Parental Consent notifications to the Directors, naming an adult who will accompany the young person and act in loco parentis while the child is in the space. Notices of consent will be stored and locked on site, accessible only to FSL Directors and designated agents.
 
 # What to know about events at Farset Labs involving Children
- 
+
 In order to safeguard children during mixed-group FSL events:-
 
 * At least two agents remain in the event area at all times
 
-* No unidentified individuals will be permitted in the event area 
+* No unidentified individuals will be permitted in the event area
 
 * All Under 14’s are accompanied by their parent or guardian or a named agent operating in loco parentis
 

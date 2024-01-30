@@ -3,6 +3,7 @@ layout: default
 title: Location
 parent: "About"
 weight: 2
+permalink: /about/getting_here
 ---
 
 # How to Find Farset Labs

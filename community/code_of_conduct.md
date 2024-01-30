@@ -2,9 +2,11 @@
 title: Code Of Conduct
 layout: default
 parent: "Community"
-toc : True
+toc: True
 weight: 3
+permalink: /community/code_of_conduct
 ---
+
 ## Code of Conduct for Members
 
 This document contains the expected behaviours and obligations that members of Farset Labs are associated with, in addition to a list of banned behaviour and materials. This document references itself as “the Code”, the “Code of Conduct”, and “the Code of Conduct for Members”. The primary location of Farset Labs is referred to as “the space”, “Farset Labs”, and “Farset Labs property”.

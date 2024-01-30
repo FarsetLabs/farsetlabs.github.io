@@ -3,6 +3,7 @@ layout: default
 title: Club-Mate
 parent: "Shop"
 weight: 2
+permalink: /shop/club_mate
 ---
 
 # Club-Mate

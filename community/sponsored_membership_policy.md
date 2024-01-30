@@ -1,12 +1,13 @@
 ---
 title: Sponsored Memberships
 layout: default
-category : pages
-parent : False
+category: pages
+parent: False
 haschildren: False
-toc : False
+toc: False
 weight: 4
-tags : []
+tags: []
+permalink: /community/sponsored_membership_policy
 ---
 
 # Sponsored Membership Policy

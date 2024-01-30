@@ -4,6 +4,7 @@ layout: default
 parent: "Community"
 toc: False
 weight: 2
+permalink: /community/rules_and_policies
 ---
 
 # The Short Rules
@@ -26,7 +27,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
  * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
- * [Intolerance will not be tolerated](/about/equality).
+ * [Intolerance will not be tolerated](/community/equality).
 
 ### Handling of Complaints and Breaches
 [Full Policy](code_of_conduct#15-handling-of-complaints-and-breaches)

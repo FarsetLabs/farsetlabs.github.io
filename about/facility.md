@@ -3,9 +3,11 @@ layout: default
 title: Facilities
 parent: "About"
 weight: 1
-image: /about/space/workshop-1.jpg
+image: /assets/img/space/workshop-1.jpg
 toc: False
+permalink: /about/facility
 ---
+
 # Facilities & Resources
 
 Farset Labs is a [makerspace](https://en.wikipedia.org/wiki/Hackerspace) that
@@ -33,7 +35,7 @@ Typical projects and events include:
   * Art, music & sculpture
   * Local user & interest groups
 
-We provide space, tools and community. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please (within reason!). Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a [Code of Conduct](/about/code_of_conduct) to avoid injury, upset... and fires.
+We provide space, tools and community. Members can come as little or as often as they like, 24 hours a day, and can use as many of the resources as they please (within reason!). Farset doesn't ask for anything extra, and we don't take any stake in your wildly successful ideas. However, we ask members to adhere to a [Code of Conduct](/community/code_of_conduct) to avoid injury, upset... and fires.
 
 
 # The Space

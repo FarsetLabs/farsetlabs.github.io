@@ -3,6 +3,7 @@ layout: default
 title: Donate Equipment
 parent: "Support"
 weight: 2
+permalink: /support/equipment
 ---
 
 # Equipment/Materiel Donations
@@ -13,7 +14,7 @@ Farset Labs gladly accepts donations of interesting and useful equipment, howeve
 
 This process generally consists of three (or four) stages:
 
-1. Read the [Hardware Donation Licence](/about/hardware_donation_license) and decide what restrictions if any you would like to put on your donations. This ranges from "Do what thou wilt" to "Do not disassemble, only to be used on [project], must be returned with 30 days notice"
+1. Read the [Hardware Donation Licence](/community/hardware_donation_license) and decide what restrictions if any you would like to put on your donations. This ranges from "Do what thou wilt" to "Do not disassemble, only to be used on [project], must be returned with 30 days notice"
 1. (Optional) Post on the `#equipment-donations` Slack channel to gauge the demand for particular items
 1. Email [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) with a list of what you would like to donate
 1. A decision will be taken by the Directors and the Project / Facilities NEMs whether to accept or reject your donation, and arrangements will be made to collect / store the equipment

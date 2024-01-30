@@ -1,10 +1,12 @@
 ---
 title: Operations Manual
 layout: default
-category : pages
-toc : False
-tags : []
+category: pages
+toc: False
+tags: []
+permalink: /community/ops_manual
 ---
+
 # {{ page.title }}
 Within the community of Farset Labs, there are four organisational roles. The relationship between these roles forms the core functionality of the hackerspace as a continuing entity.
 These roles are:

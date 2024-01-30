@@ -1,9 +1,10 @@
 ---
 title: Hardware Donation License
 layout: default
-category : pages
-toc : True
-tags : []
+category: pages
+toc: True
+tags: []
+permalink: /community/hardware_donation_license
 ---
 
 # Extendible Hardware Donation License v1.0

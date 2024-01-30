@@ -3,6 +3,7 @@ layout: default
 title: Supporters
 parent: "Support"
 weight: 3
+permalink: /support/corporates
 ---
 
 For companies that think what we're doing is great, we offer them a way to help us financially and contribute to the direction of the community.
@@ -20,7 +21,7 @@ For companies that think what we're doing is great, we offer them a way to help 
 
 If you are interested in becoming a Corporate Member or supporting one or more of our programmes, please get in touch at [supportus@farsetlabs.org.uk](mailto:supportus@farsetlabs.org.uk) to discuss your requirements.
 
-------------------------------------------------------------------------
+---
 
 # Corporate Members
 

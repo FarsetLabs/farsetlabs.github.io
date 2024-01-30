@@ -4,6 +4,7 @@ title: Book a Room
 parent: "Events"
 weight: 2
 redirect_from: /events/how-to-start-a-class
+permalink: /events/book_a_room
 ---
 
 # Room Availability
@@ -14,7 +15,7 @@ Use the dropdown button on the right to check the availability of specific booka
 
 # Booking for a private event
 
-The [Event Space](/about/facilit#event-space) and the [Workshop](/about/facilit#workshop) can be booked for private events, and the lounge may be booked for private meetings. If you'd like to book any of these spaces, first check the room availability calendar above to make sure they're not in use.
+The [Event Space](/about/facility#event-space) and the [Workshop](/about/facility#workshop) can be booked for private events, and the lounge may be booked for private meetings. If you'd like to book any of these spaces, first check the room availability calendar above to make sure they're not in use.
 
 Guide Prices:
 

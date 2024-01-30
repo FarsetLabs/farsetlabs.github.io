@@ -1,7 +1,9 @@
 ---
 title: Network Configuration
 layout: default
+permalink: /community/net_conf
 ---
+
 # Network Configuration
 
 ## DNS Record Sets

@@ -4,9 +4,8 @@ title: Donations
 parent: "Support"
 weight: 1
 redirect_from: /donate
+permalink: /support/donate
 ---
-
-# Donations
 
 ## One Off Donations
 

@@ -5,6 +5,7 @@ parent: About
 weight: 4
 toc: True
 tags: []
+permalink: /about/charitable_aims
 ---
 
 # {{ page.title }}
