@@ -69,7 +69,7 @@ In any but the most extreme cases, it is expected that difficulties can be resol
 
 Removal of NEMs from their positions is a Directorship-level decision. A vote of no confidence motion can be raised by any NEM to the Directors, or by the general membership via a proposer and seconder.
 
-Complaints about the actions of a NEM can and should be raised as per the general procedures as set out in the [Code of Conduct](code_of_conduct.html)
+Complaints about the actions of a NEM can and should be raised as per the general procedures as set out in the [Code of Conduct](/community/code_of_conduct)
 
 ## Fields and Responsibilities
 * Events:
@@ -80,11 +80,11 @@ Complaints about the actions of a NEM can and should be raised as per the genera
   * PoC for internal community engagement
   * Responsible for internal social events and member relations
   * PoC for member induction and 'soft landing' discussions
-* Project-Room:
+* Workshop:
   * Management and monitoring of Project equipment and resources including but not limited to 3D printer.
   * Attempting to prevent conflict between member project resource requirements.
-  * Coordinates Project Room changes
-  * Along with the Projects NEM, rives the function and layout of the Project Room to suit the needs of the Farset Community.
+  * Coordinates Workshop changes
+  * Along with the Projects NEM, rives the function and layout of the Workshop to suit the needs of the Farset Community.
 * Digital Infrastructure:
   * Comms, CCTV, Network, maintenance of online presences.
   * Maintenance of Documentation on the networks and systems of the space including authentication procedures for all core systems within the space.

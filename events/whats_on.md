@@ -8,7 +8,7 @@ carousel:
   - image: /assets/img/space/event-space-1.jpg
 ---
 
-Looking to book an event? See [booking a room](/events/book-a-room) for details and any incurrable charges.
+Looking to book an event? See [booking a room](/events/book_a_room) for details and any incurrable charges.
 
 # Upcoming Events
 

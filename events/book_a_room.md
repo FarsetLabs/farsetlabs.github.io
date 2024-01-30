@@ -14,7 +14,7 @@ Use the dropdown button on the right to check the availability of specific booka
 
 # Booking for a private event
 
-The [Events Room](/about/facilit#events-room) and the [Project Room](/about/facilit#project-room) can be booked for private events, and the lounge may be booked for private meetings. If you'd like to book any of these spaces, first check the room availability calendar above to make sure they're not in use.
+The [Event Space](/about/facilit#event-space) and the [Workshop](/about/facilit#workshop) can be booked for private events, and the lounge may be booked for private meetings. If you'd like to book any of these spaces, first check the room availability calendar above to make sure they're not in use.
 
 Guide Prices:
 
