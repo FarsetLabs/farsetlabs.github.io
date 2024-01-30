@@ -1,10 +1,11 @@
 ---
 layout: default
 title: CCTV Policy
-parent: "About"
+parent: "Community"
+weight: 4
 ---
 
-# CCTV Policy and Procedures    
+# CCTV Policy and Procedures
 
 ## Introduction
 
@@ -14,7 +15,7 @@ CCTV monitoring and recording systems will only be installed in the building whe
 
 The system comprises a number of fixed cameras located within the Unit 1/1A building.
 
-The CCTV policy will be registered with the Information Commissioner under the terms of the Data Protection Act 2018. Farset Labs’ use of CCTV complies with the requirements of the[ Data Protection Act](https://ico.org.uk/media/for-organisations/documents/1542/cctv-code-of-practice.pdf) and, where applicable, the Regulation of Investigatory Powers Act 2000. You can find more information[ here](https://ico.org.uk/media/for-organisations/documents/1064/the_employment_practices_code.pdf).
+The CCTV policy will be registered with the Information Commissioner under the terms of the Data Protection Act 2018. Farset Labs’ use of CCTV complies with the requirements of the [Data Protection Act](https://ico.org.uk/media/for-organisations/documents/1542/cctv-code-of-practice.pdf) and, where applicable, the [Regulation of Investigatory Powers Act 2000](https://ico.org.uk/media/for-organisations/documents/1064/the_employment_practices_code.pdf).
 
 This policy document will be subject to review annually to include consultation as appropriate with interested parties.
 

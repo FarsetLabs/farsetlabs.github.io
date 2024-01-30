@@ -1,7 +1,6 @@
 ---
 title: Member Handbook
-category: pages
-parent: About
-weight: 7
+parent: Community
+weight: 1
 redirect_to: https://www.farsetlabs.org.uk/member-handbook
 ---

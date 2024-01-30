@@ -1,3 +1,9 @@
+---
+title: Clearance Guidelines
+layout: default
+toc : False
+---
+
 A single "Ticket List" Google Doc will be kept in Slack to record any items that have been ticketed, with 24h of ticketing, and to record any items agreed with Directors not to be moved (these should also be appropriately labeled).
 
 Items will not normally be considered to have a Known Owner (and eligible for 60 day terms) unless they are clearly individually labeled, _with name and Slack handle_. While some members or Directors may be aware of ownership of unlabeled items, there is no necessity for those handling this process to ask. Please note that Slack notifications to a personal handle will be considered sufficient notification under the abandonment rules.

@@ -98,7 +98,7 @@ Complaints about the actions of a NEM can and should be raised as per the genera
 # Member Role
 
 ## Summary
-Members of the hackerspace are permitted access and use of the resources controlled by and shared within the space. This includes both equipment and resources directly owned and operated by Farset Labs the company, and equipment and resources donated by members (with per-donation terms attached to each item, primarily covered under the [Hardware Donation Licence](hardware_donation_license.html).
+Members of the hackerspace are permitted access and use of the resources controlled by and shared within the space. This includes both equipment and resources directly owned and operated by Farset Labs the company, and equipment and resources donated by members (with per-donation terms attached to each item, primarily covered under the [Hardware Donation Licence](/community/hardware_donation_license).
 
 ## Membership Types
 There are currently four operational types of membership of the space. The lines between the levels are intentionally blurred to allow a common-sense assessment on the part of the member/prospective member of how much they are going to use the resources of the space. These levels are not there to restrict use of the space, but to provide a reasonable revenue stream for the ongoing growth of the Labs within the bounds of fair and reasonable use. [More info on the levels of membership](/membership).

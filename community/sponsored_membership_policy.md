@@ -89,5 +89,5 @@ renegotiation of the sponsorship agreement.
 
 ## Contact
 
-For any enquiries about sponsoring memberships to Farset Labs, please 
+For any enquiries about sponsoring memberships to Farset Labs, please
 contact [join@farsetlabs.org.uk](mailto:join@farsetlabs.org.uk)

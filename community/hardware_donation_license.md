@@ -26,7 +26,7 @@ This license provides granularity to owners and allows them to pick a middle gro
 
 This license may be adopted by any hackerspace or equivalent community organisation that accepts donations or loans of equipment, parts or other items from members or outsiders. If a community agrees to adopt this license, all equipment donated to that community is assumed to be licensed under XHDL v1.0 or a later version.
 
-Any organisations adopting this license for their use should make it clear to donators where applicable that the license exists, and should explain how it works. It should also be provided in plain and full forms on request. In storage areas, a notice should be posted outlining that the community is operating under the XHDL v1.0 
+Any organisations adopting this license for their use should make it clear to donators where applicable that the license exists, and should explain how it works. It should also be provided in plain and full forms on request. In storage areas, a notice should be posted outlining that the community is operating under the XHDL v1.0
 
 ### Assumptions
 
@@ -45,10 +45,10 @@ When communities agree to adopt XHDL, it should be made clear that updates to th
 With the mentality that donations are assumedly liberally-licensed unless otherwise specified, XHDL v1.0 starts as entirely no-strings-attached donation, and adds specific restrictions, just like the Creative Commons license.
 
  ![CC](/assets/img/cc.png)
- 
+
 For example, the image above is a Creative Commons license badge. With just the “CC” marker, the license is most liberal, but with the added BY, NC and SA terms, it becomes more restrictive by adding conditions of use. The license version above states that work may be used for any purpose except commercial uses, as long as it is attributed to the licensor and shared using the same license.
 
-## Assumed Limitations of Application 
+## Assumed Limitations of Application
 
 The Restrictions on Use listed in Section 7 serve to protect the donator’s wishes for their equipment. This license does not cover restrictions on community projects or items bought collectively by the community, unless the community explicitly agrees to adopt XHDL v1.0 as a method of licensing these items.
 
@@ -71,18 +71,18 @@ Restrictions of Use which imply or claim Intellectual Property (IP) rights or co
 Restrictions of Use which imply or claim to take rights, benefits, property or copyright to ideas, projects or inventions from their rightful owners to a community, company or person(s) are also not acceptable under this license. Such schemes may be illegal in many jurisdictions, including the United Kingdom and Ireland, unless express permission is obtained from rights holders.
 
 ### Liability for Restrictions of Use (Extended)
- 
+
 Any Restrictions adopted by the community outside the core set provided by this license are the sole liability of that community. Liability of those who violate additional Restrictions is to be decided by the adopting community.
 
 By default, it is assumed that the individual(s) who violate the Restrictions are responsible for their actions.
-  
+
 # Exemplar of Restrictions on Use
 
-These are not exclusive; feel free to make up your own when [donating equipment](donations.html), but all non-standard licence clauses must be confirmed by officers of the adopting community via email before completion of donations.
+These are not exclusive; feel free to make up your own when [donating equipment](/support/equipment), but all non-standard licence clauses must be confirmed by officers of the adopting community via email before completion of donations.
 
 ## Give Back (GB) clause
 
-The GB clause states that it is expected that donated equipment be returned to the donor on request given a notice period, no questions asked. 
+The GB clause states that it is expected that donated equipment be returned to the donor on request given a notice period, no questions asked.
 
 Notice periods are not governed or restricted, but most often, these are 30-day terms. Best efforts will be made to return equipment before that term.
 
@@ -92,7 +92,7 @@ The Adopting community is not responsible for the removal or delivery of a donat
 
 ## Do Not Disassemble/Destroy (DND) clause
 
-The DND clause states that donated equipment / consumables cannot be taken apart, used for spare parts, exploded, or blasted into the sun. 
+The DND clause states that donated equipment / consumables cannot be taken apart, used for spare parts, exploded, or blasted into the sun.
 
 This does not in any way exclude or reduce the possibility of accidental damage through reasonable use.
 
@@ -102,7 +102,7 @@ The DNR clause states that equipment may not be removed from the adopting commun
 
 ## Advance Training Required (ATR) clause
 
-The ATR clause states that prior to the use of the donated equipment, any potential user must be trained in its operation. 
+The ATR clause states that prior to the use of the donated equipment, any potential user must be trained in its operation.
 
 The ATR clause must be associated with at least two current members of the adopting community who the donor deems compotent to conduct training.
 

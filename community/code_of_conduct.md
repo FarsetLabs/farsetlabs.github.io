@@ -1,15 +1,15 @@
 ---
 title: Code Of Conduct
 layout: default
-category : pages
+parent: "Community"
 toc : True
-tags : []
+weight: 3
 ---
 ## Code of Conduct for Members
 
 This document contains the expected behaviours and obligations that members of Farset Labs are associated with, in addition to a list of banned behaviour and materials. This document references itself as “the Code”, the “Code of Conduct”, and “the Code of Conduct for Members”. The primary location of Farset Labs is referred to as “the space”, “Farset Labs”, and “Farset Labs property”.
 
-A summary of this code is integrated as part of the general [Rules](rules_and_policies) page
+A summary of this code is integrated as part of the general [Rules](/community/rules_and_policies) page
 
 ### 1.1 Who the Code applies to
 
@@ -31,11 +31,11 @@ Farset Labs is not to be a pasture for red tape, and so this document should alw
 
 ### 1.5 Handling of Complaints and Breaches
 
-It is expected that for minor complaints or concerns that Members and Directors should be capable of settling differences of opinion directly, and it is expected that this direct resolution is the ‘normal operation’ of the space. 
+It is expected that for minor complaints or concerns that Members and Directors should be capable of settling differences of opinion directly, and it is expected that this direct resolution is the ‘normal operation’ of the space.
 
 However, in the event that a more formalised approach is required, the procedure is:
 
-1. Issue an on-the-record complaint to one or all of the [directors](../about) (via either their individual Farset Labs email addresses or the [blanket address](mailto:admin@farsetlabs.org.uk))
+1. Issue an on-the-record complaint to one or all of the [directors](/about/who_we_are) (via either their individual Farset Labs email addresses or the [blanket address](mailto:admin@farsetlabs.org.uk))
 
 1. The Directors will, at their discretion, query if the matter has been discussed with the people involved directly.
 
@@ -137,19 +137,19 @@ Certain situations will allow normally disallowed materials & equipment to be br
 
 **As a default position, no chemicals that have a hazard marking as per [Classification, Labelling and Packaging of Substances Regulation (CE) 1272/2008](https://echa.europa.eu/documents/10162/13643/questions_and_answers_clp_20090526_en.pdf) or an equivalent system may be brought into Farset Labs. You are welcome to ask a member of the management team for permission to bring a chemical in, but you must first complete and submit a Control of Substances Hazardous to Health (COSHH) form to [admin@farsetlabs.org.uk](mailto:admin@farsetlabs.org.uk).**
 
-If your request is granted, it will likely be with a restriction on volume, usage, storage, and disposal - you must follow this and report any breaches or incidents immediately to a member of the management team. If the incident is serious, you must contact the relevant emergency service immediately, then make every available effort to inform a member of the management team in real-time, rather than leaving a message. 
+If your request is granted, it will likely be with a restriction on volume, usage, storage, and disposal - you must follow this and report any breaches or incidents immediately to a member of the management team. If the incident is serious, you must contact the relevant emergency service immediately, then make every available effort to inform a member of the management team in real-time, rather than leaving a message.
 
 Members engaging in any activity are solely responsible for considering the safety of all others in the space. This explicitly includes, but is not limited to, avoiding exposure to any and all hazardous chemicals, ensuring adequate ventilation for any process undertaken and clearly labelling and supervising any hazardous material and/or process while onsite and/or underway.
 
 Provision of appropriate safety and personal protective equipment (PPE) is solely the member's responsibility. Where necessary the member must be prepared to give a full account of all chemicals and other hazards present to Farset Labs, Weavers Court management, PSNI, NIFRS, NIAS, NIHSE, and/or any other body with relevant authority.
 
-At current, certain CLP hazard marked chemicals are permitted to be brought in the space by members. The list below indicates these (and is subject to change at any time by Farset management), along with the volume permitted IN TOTAL. In other words, all member stocks of the chemical MUST add up to less than or equal to the overall total specified. 
+At current, certain CLP hazard marked chemicals are permitted to be brought in the space by members. The list below indicates these (and is subject to change at any time by Farset management), along with the volume permitted IN TOTAL. In other words, all member stocks of the chemical MUST add up to less than or equal to the overall total specified.
 
 * Isopropyl alcohol 	-	one litre total
 
-* WD-40 		- 	one litre total 
+* WD-40 		- 	one litre total
 
-Each container of the chemical must be less than or equal to 500ml in capacity, be approved for storage of the chemical, and clearly marked in chemical-resistant ink with the member's contact details, the contents, and any CLP hazard marking symbols applicable. 
+Each container of the chemical must be less than or equal to 500ml in capacity, be approved for storage of the chemical, and clearly marked in chemical-resistant ink with the member's contact details, the contents, and any CLP hazard marking symbols applicable.
 
 Members are responsible for the safe, legal and appropriate disposal of all used and/or unneeded wastes. You must inform the Farset Labs management team when you dispose of or finish the stock you have previously requested to use and/or keep in Farset Labs. Sensitising materials including - but not limited to - resins can be used onsite under certain limited conditions but never stored onsite when the member is not present.
 
@@ -283,11 +283,11 @@ It should be noted that this document should not serve as the dominant set of ru
 
 Questions and comments should be directed towards the Board of Directors, or via email to admin@farsetlabs.org.uk. Postal correspondence should be sent to:
 
-Farset Labs,  
-1 Weavers Court Business Park,  
-Linfield Road,  
-Belfast,  
-BT12 5GH.  
+Farset Labs,
+1 Weavers Court Business Park,
+Linfield Road,
+Belfast,
+BT12 5GH.
 
 #### 3.2.2 Other Formats
 

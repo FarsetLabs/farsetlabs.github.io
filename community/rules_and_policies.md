@@ -1,17 +1,14 @@
 ---
 title: Rules
 layout: default
-category : pages
-parent : "About"
-haschildren: True
-toc : False
-weight: 4
-tags : []
+parent: "Community"
+toc: False
+weight: 2
 ---
 
-# The Short Rules 
+# The Short Rules
 
-Any community needs a few rules to stay safe and fun, and we don't like making more than we have to. 
+Any community needs a few rules to stay safe and fun, and we don't like making more than we have to.
 
 These can be summarised in two statements:
 
@@ -29,13 +26,13 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Be Excellent to each other;
  * Don't disturb those who do not want to be disturbed;
  * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
- * [Intolerance will not be tolerated](equality).
+ * [Intolerance will not be tolerated](/about/equality).
 
 ### Handling of Complaints and Breaches
 [Full Policy](code_of_conduct#15-handling-of-complaints-and-breaches)
  * Technical issues related to the space may be raised on Slack.
  * All members should endeavour to resolve minor personal issues directly with the persons involved;
- * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](ops_manual.html));
+ * If this is not possible, the following general approach is to be applied (with exceptions for complaints towards office holders outlined in the [Ops Manual](/community/ops_manual));
     * Raise a complaint to either the [Directors](mailto:admin@farsetlabs.org.uk) or [NEMs](mailto:management@farsetlabs.org.uk) detailing the issue and the persons involved. Reports may be anonymously filed but this will slow the response, as the management board[^1] will first have to corroborate the claims raised.
     * The issue will be raised at the next appropriate management meeting and, at that boards discretion, directly with the persons involved as part of a fair and impartial investigation.
     * After at most one bi-weekly management meeting, a response will be issued by a member of the management board[^1] that may result in a warning or subsequent expulsion of those involved.
@@ -60,7 +57,7 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Do not bring or use banned or unsafe materials or equipment;
  * All hot-desks must be cleared of all equipment (including the area under such desks) before leaving the space. Equipment left unattended at non-rented desks is subject to being moved by *any* member to common storage facilities;
  * All personal equipment being left or stored in communal areas of the space must be clearly labeled with the owners contact details;
- * Any equipment brought to the space with the intention of being [donated](/about/donations.html) for communal use must be labelled as such as per the [HDL](hardware_donation_license.html), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble);
+ * Any equipment brought to the space with the intention of being [donated](/support/equipment) for communal use must be labelled as such as per the [HDL](hardware_donation_license), and confirmed via [donate@farsetlabs.org.uk](mailto:donate@farsetlabs.org.uk) in advance. Such equipment will be labeled with, at least, the owners contact details and a "GB DND" clause (Give Back, Do Not Disassemble);
  * Equipment not otherwise clearly labeled is assumed to have been abandoned and will eventually be relabeled as Farset communal equipment;
 
 [^2]: Equipment left or stored in the space is done so at the owners own risk. Farset Labs will make all reasonable efforts to secure the space, but is not liable for loss or damage.
@@ -83,25 +80,25 @@ While in Farset Labs, you, the members and visitors, are expected to comply to t
  * Report and repair any accidents or damage;
 
 ### Child Protection
-[Full Policy](child_protection)
+[Full Policy](/community/child_protection)
 
  * No Under 18's may join Farset Labs as members;
  * No unaccompanied[^3] under 18's are permitted in the building after 8pm;
  * No unaccompanied[^3] under 14's are permitted in the building;
  * No unidentified individuals are permitted in mixed-age-group events;
  * At least two agents of Farset Labs must remain with any mixed-age-group event at all times;
- * Agents and Officers cannot engage in any Regulated Activity as defined in the [CPP](child_protection) unless they are Access NI Cleared as part of a Farset Labs project or programme.
+ * Agents and Officers cannot engage in any Regulated Activity as defined in the [CPP](/community/child_protection) unless they are Access NI Cleared as part of a Farset Labs project or programme.
 
 [^3]: Within Farset Labs, "unaccompanied" means a young person without an attending parent, guardian, or agent of Farset Labs operating in loco parentis by prior agreement
 
 
 ## The Very Much Longer Rules
-* [Code of Conduct](code_of_conduct.html)
-* [Operations Manual](ops_manual.html)
-* [Expenses and Purchasing](expenses_purchasing.html)
-* [Child Protection Policy](child_protection.html)
-* [Equality Policy](equality.html)
-* [Hardware Donation License](hardware_donation_license.html)
-* [Sponsored Membership Policy](sponsored_membership_policy.html)
-* [Property Clearance](clearance.html)
-* [CCTV Policy](cctv)
+* [Code of Conduct](/community/code_of_conduct)
+* [Operations Manual](/community/ops_manual)
+* [Expenses and Purchasing](/community/expenses_purchasing)
+* [Child Protection Policy](/community/child_protection)
+* [Equality Policy](/community/equality)
+* [Hardware Donation License](/community/hardware_donation_license)
+* [Sponsored Membership Policy](/community/sponsored_membership_policy)
+* [Property Clearance](/community/clearance)
+* [CCTV Policy](/community/cctv)

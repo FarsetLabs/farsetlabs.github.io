@@ -10,7 +10,7 @@ tags : []
 
 ## Our Beneficiaries
 
-The Objects and Beneficiaries of Farset Labs are codified in our [Charitable Aims](charitable_aims), however, so summarise.
+The Objects and Beneficiaries of Farset Labs are codified in our [Charitable Aims](/about/charitable_aims), however, so summarise.
 
 The objects of Farset Labs are the education of the public in STEAM (Science, Technology, Engineering, Arts and Mathematics) and the provision of community accessible workspaces to facilitate STEAM outreach and education in Northern Ireland, primarily focused in the Belfast area.
 
@@ -36,12 +36,12 @@ The board of trustees reserves the right to modify this reserve in the event of 
 
 The organisation should retain at least £3,000 for unexpected repairs, like-for-like replacements and consumable costs for maintaining capital investments (core infrastructure, security, and workshop equipment in particular)
 
-Drawdown from this fund will follow the same conditions as the [Expenses and Purchases Policy](expenses_purchasing).
+Drawdown from this fund will follow the same conditions as the [Expenses and Purchases Policy](/community/expenses_purchasing).
 
 This valuation is based on the current asset base of approximately £6,000, and assuming that no more than half of the assets will require replacement within one reporting period.
 
 ## Monitoring of Reserves
 
-A multi-annual financial summary will be available to trustees at all trustees' meetings. 
+A multi-annual financial summary will be available to trustees at all trustees' meetings.
 
 All trustees are responsible for monitoring for breaches, or risks of breaches to, this reserves policy, and should both take measures to remediate this breach, and to record the observation and response, and any further action/monitoring to be completed.
