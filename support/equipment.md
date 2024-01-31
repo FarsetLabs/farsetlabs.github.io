@@ -39,7 +39,7 @@ This decision will be made with the following factors in mind:
 If a piece of equipment is being brought into the space for use by a particular
 member or on a particular project temporarily and is not being donated to Farset
 Labs itself, this process can be reduced to posting on Slack and looking for
-someone to take responsibility for the equipment and it's storage in their own
+someone to take responsibility for the equipment and its storage in their own
 personal project storage space.
 
 _Unless Farset Labs' Directors and/or Project / Facilities NEMs directly
