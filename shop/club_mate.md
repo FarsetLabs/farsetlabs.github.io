@@ -34,9 +34,6 @@ If you would like to order (for collection only), please order here!
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOy9bXEpTl5UowpSB1ubudoWwwCY1HTwvpQGr9xuEI_NY-Xg/viewform?embedded=true" width="100%" height="854" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 [Club-mate]: http://www.clubmate.de/
-[fuel-of-choice]:
-  https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice
-[form]:
-  https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform
-[mailing list]:
-  https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform
+[fuel-of-choice]: https://www.vice.com/en/article/xywxm7/how-a-german-soda-became-hackers-fuel-of-choice
+[form]: https://docs.google.com/forms/d/1fUgrvDnktPW1WM3YsBpFMWUZP5qGrD7Ktu1vsmCVp4s/closedform
+[mailing list]: https://docs.google.com/forms/d/1rRXpidMTPJrlrwpWK2t31LoedhtMy41OJRMjZA9ok_c/viewform
