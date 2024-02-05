@@ -13,8 +13,7 @@
         "flickr": "http://www.flickr.com/groups/farset_labs",
         "instagram":"https://www.instagram.com/farsetlabs",
         "irc": "irc://irc.freenode.net/#farsetlabs",
-        "phone": "+448458694619",
-        "discourse":"https://discourse.farsetlabs.org.uk"
+        "phone": "+448458694619"
     },
     "issue_report_channels": [
         "email"

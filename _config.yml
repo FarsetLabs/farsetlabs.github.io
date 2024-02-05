@@ -20,16 +20,10 @@ social:
   facebook: "https://www.facebook.com/FarsetLabs"
   twitter: "https://www.twitter.com/FarsetLabs"
   flickr: "https://www.flickr.com/groups/farset_labs"
-  blogfeed: "https://blog.farsetlabs.org.uk/feed/"
   twitch: "https://www.twitch.tv/farsetlabs"
   instagram: "https://www.instagram.com/farsetlabs"
-links:
-  - name: Blog
-    url: "https://blog.farsetlabs.org.uk/"
-  - name: Shop
-    url: "https://farset-labs.myspreadshop.co.uk"
 officers:
-  - name: Andrew Bolster, Treasurer 
+  - name: Andrew Bolster, Treasurer
     pronouns: "he/him"
     username: bolster
     year: 2011 -
@@ -41,7 +35,6 @@ officers:
     facebook: "andrewbolster"
     linkedin: "andrewbolster"
     github: "andrewbolster"
-    discourse: "bolster"
 
   - name: Colin Mitchell, Secretary
     pronouns: "he/him"
