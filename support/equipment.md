@@ -3,7 +3,7 @@ layout: default
 title: Donate Equipment
 parent: "Support"
 weight: 2
-permalink: /support/equipment
+permalink: /support/equipment/
 ---
 
 # Equipment/Materiel Donations

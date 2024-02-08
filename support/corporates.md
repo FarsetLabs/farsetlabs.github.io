@@ -3,7 +3,7 @@ layout: default
 title: Supporters
 parent: "Support"
 weight: 3
-permalink: /support/corporates
+permalink: /support/corporates/
 ---
 
 For companies that think what we're doing is great, we offer them a way to help

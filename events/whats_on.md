@@ -6,7 +6,7 @@ weight: 1
 image: /assets/img/space/event-space-1.jpg
 carousel:
   - image: /assets/img/space/event-space-1.jpg
-permalink: /events/whats_on
+permalink: /events/whats_on/
 ---
 
 Looking to book an event? See [booking a room](/events/book_a_room) for details

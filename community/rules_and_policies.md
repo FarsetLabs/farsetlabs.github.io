@@ -4,8 +4,8 @@ layout: default
 parent: "Community"
 toc: False
 weight: 2
-redirect_from: /about/rules_and_policies
-permalink: /community/rules_and_policies
+redirect_from: /about/rules_and_policies/
+permalink: /community/rules_and_policies/
 ---
 
 # The Short Rules
