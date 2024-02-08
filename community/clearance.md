@@ -2,8 +2,8 @@
 title: Clearance Guidelines
 layout: default
 toc: False
-redirect_from: /about/clearance
-permalink: /community/clearance
+redirect_from: /about/clearance/
+permalink: /community/clearance/
 ---
 
 A single "Ticket List" Google Doc will be kept in Slack to record any items that

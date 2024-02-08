@@ -4,9 +4,9 @@ title: Book a Room
 parent: "Events"
 weight: 2
 redirect_from:
-  - /events/how-to-start-a-class
-  - /events/room_availability
-permalink: /events/book_a_room
+  - /events/how-to-start-a-class/
+  - /events/room_availability/
+permalink: /events/book_a_room/
 ---
 
 # Room Availability

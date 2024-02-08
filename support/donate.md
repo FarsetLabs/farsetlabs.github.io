@@ -3,8 +3,8 @@ layout: default
 title: Donations
 parent: "Support"
 weight: 1
-redirect_from: /donate
-permalink: /support/donate
+redirect_from: /donate/
+permalink: /support/donate/
 ---
 
 ## One Off Donations

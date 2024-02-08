@@ -4,8 +4,8 @@ layout: default
 category: pages
 toc: True
 tags: []
-redirect_from: /about/expenses_purchasing
-permalink: /community/expenses_purchasing
+redirect_from: /about/expenses_purchasing/
+permalink: /community/expenses_purchasing/
 ---
 
 # Purpose

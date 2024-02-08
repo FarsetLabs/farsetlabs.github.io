@@ -4,8 +4,8 @@ layout: default
 category: pages
 toc: True
 tags: []
-redirect_from: /about/equality
-permalink: /community/equality
+redirect_from: /about/equality/
+permalink: /community/equality/
 ---
 
 # Statement of {{ page.title }}

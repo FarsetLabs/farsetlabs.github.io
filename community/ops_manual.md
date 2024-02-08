@@ -4,8 +4,8 @@ layout: default
 category: pages
 toc: False
 tags: []
-redirect_from: /about/ops_manual
-permalink: /community/ops_manual
+redirect_from: /about/ops_manual/
+permalink: /community/ops_manual/
 ---
 
 # {{ page.title }}

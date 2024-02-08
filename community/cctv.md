@@ -3,8 +3,8 @@ layout: default
 title: CCTV Policy
 parent: "Community"
 weight: 4
-redirect_from: /about/cctv
-permalink: /community/cctv
+redirect_from: /about/cctv/
+permalink: /community/cctv/
 ---
 
 # CCTV Policy and Procedures

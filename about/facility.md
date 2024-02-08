@@ -5,7 +5,7 @@ parent: "About"
 weight: 1
 image: /assets/img/space/workshop-1.jpg
 toc: False
-permalink: /about/facility
+permalink: /about/facility/
 ---
 
 # Facilities & Resources
