@@ -23,6 +23,35 @@ social:
   twitch: "https://www.twitch.tv/farsetlabs"
   instagram: "https://www.instagram.com/farsetlabs"
   linkedin: "https://uk.linkedin.com/company/farset-labs"
+membership_tiers:
+  monthly:
+    - name: Casual
+      description: For students and those who are occasionally in the space.
+      benefits:
+        - 🏪 24/7 access
+        - 🤖 Fair use of workshop facilities (training may be required)
+        - 🎟️ Free entry to Farset Labs events
+      url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=2bbe61f6-f61c-43ae-955b-447d3f5694a4"
+      price: 20
+    - name: Standard
+      description: For those who regularly use the space.
+      benefits:
+        - 🏪 24/7 access
+        - 🤖 Fair use of workshop facilities (training may be required)
+        - 🎟️ Free entry to Farset Labs events
+      url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=19b169ca-f352-46fb-9b6c-d7c0c5b00385"
+      price: 35
+    - name: Professional
+      description: For those consistently in the space with ongoing long term projects.
+      benefits:
+        - 🏪 24/7 access
+        - 🤖 Fair use of workshop facilities (training may be required)
+        - 🎟️ Free entry to Farset Labs events
+      url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=ec3a5718-ab0d-4814-b276-9a637b0e9468"
+      price: 50
+    # casual: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=2bbe61f6-f61c-43ae-955b-447d3f5694a4"
+    # standard: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=19b169ca-f352-46fb-9b6c-d7c0c5b00385"
+    # professional: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=ec3a5718-ab0d-4814-b276-9a637b0e9468"
 officers:
   - name: Colin Mitchell, Secretary
     pronouns: "he/him"

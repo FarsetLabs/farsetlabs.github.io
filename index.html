@@ -21,16 +21,46 @@ carousel:
   <div class="small-12 columns">
     <fieldset class="block">
       <legend>
-        <h4>Get Involved</h4>
+        <h4>Sign Up</h4>
       </legend>
-      <div class="text-center">
-        <p>Becoming a member of the Labs
+      <div>
+        <p class="text-center">Becoming a member of the Labs
           <a href="/about/facility">opens the doors to our resources and space</a>
           any time, as well as
           <a href="/events">free access to events</a>.
           Long-term desk rental is also available for members.
         </p>
-        <a class="button expand round" href="/membership">Join as a Member</a>
+      </div>
+      <div class="membership-carousel" style="display: flex;">
+        {% for tier in site.membership_tiers.monthly %}
+          <div class="membership-tier" style="flex: 1; display: flex; flex-direction: column; padding-left: 0.5rem; padding-right: 0.5rem;">
+            <div style="margin-bottom: 0.5rem;">
+              <h3 style="margin-bottom: 0;">
+                {{ tier.name }}
+              </h3>
+              <sub>
+                £{{ tier.price }} per month
+              </sub>
+            </div>
+            <div style="flex: 1;">
+              <p style="margin-bottom: 1rem;">
+                {{ tier.description }}
+              </p>
+            </div>
+            <div>
+              <ul>
+                {% for benefit in tier.benefits %}
+                  <li style="font-size: 0.95rem;">{{ benefit }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div>
+              <a href="" class="button expand round">
+                <span style="font-weight: 700;">Join</span><br />
+              </a>
+            </div>
+          </div>
+        {% endfor %}
       </div>
     </fieldset>
     <fieldset class="block">
@@ -39,7 +69,7 @@ carousel:
       </legend>
       <div>
         <p>If you’re not in a position to make regular use of the space but still want to support us, consider signing up as a Friend of Farset! Your donations will go towards the upkeep of the space and its community and if you want to support anything in particular, you can say so in the form!</p>
-        <div class="small-12 medium-6 columns">
+        <div class="columns">
           <form class="text-center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin: 0;">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="6E5VFUY63DKLS">
@@ -48,9 +78,9 @@ carousel:
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" style="float: right;">
           </form>
         </div>
-        <div class="small-12 medium-6 columns">
+        <!-- <div class="small-12 medium-6 columns">
           <a class="button round expand" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
-        </div>
+        </div> -->
       </div>
     </fieldset>
   </div>

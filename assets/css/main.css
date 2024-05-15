@@ -217,3 +217,25 @@ a:hover {
   margin-right: auto;
   margin-left: auto;
 }
+
+.membership-carousel {
+  flex-direction: column;
+}
+
+@media screen and (min-width: 640px) {
+  .membership-carousel {
+    flex-direction: row;
+  }
+
+  .membership-carousel > .membership-tier:nth-child(0) {
+    border: 1px solid #353895;
+  }
+
+  .membership-carousel > .membership-tier:nth-of-type(even) {
+    background-color: #add169;
+  }
+
+  .membership-carousel > .membership-tier:nth-of-type(odd) {
+    background-color: #e3e3e3;
+  }
+}
