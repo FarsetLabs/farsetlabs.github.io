@@ -1,7 +1,7 @@
 ---
 title: Room Hire
 category: nav
-weight: 2
+weight: 3
 haschildren: true
 redirect_from:
   - /events/how-to-start-a-class/
