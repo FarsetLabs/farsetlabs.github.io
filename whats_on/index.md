@@ -12,7 +12,7 @@ permalink: /whats-on/
 ---
 
 Looking to book an event? See [booking a room](/book-a-room) for details
-and any incurrable charges. Hello
+and any incurrable charges.
 
 # Upcoming Events
 
