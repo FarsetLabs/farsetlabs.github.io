@@ -6,6 +6,7 @@ image: /assets/img/space/event-space-1.jpg
 carousel:
   - image: /assets/img/space/event-space-1.jpg
 redirect_from:
+  - /events/
   - /events/whats_on/
   - /calendar/
 permalink: /whats-on/
