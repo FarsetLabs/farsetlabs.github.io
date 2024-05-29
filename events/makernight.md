@@ -1,6 +1,5 @@
 ---
 title: Maker Night
-parent: "Events & Classes"
 image: /events/makernight.jpg
 layout: default
 permalink: /events/makernight/
