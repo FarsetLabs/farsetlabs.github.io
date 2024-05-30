@@ -21,7 +21,7 @@ carousel:
   <div class="small-12 columns">
     <fieldset class="block">
       <legend>
-        <h4>Sign Up</h4>
+        <h4>Member Sign Up</h4>
       </legend>
       <div>
         <p class="text-center">Becoming a member of the Labs
@@ -31,14 +31,14 @@ carousel:
           Long-term desk rental is also available for members.
         </p>
       </div>
-      <div class="membership-carousel" style="display: flex;">
+      <div class="membership-carousel">
         {% for tier in site.membership_tiers.monthly %}
-          <div class="membership-tier" style="flex: 1; display: flex; flex-direction: column; padding-left: 0.5rem; padding-right: 0.5rem;">
-            <div style="margin-bottom: 0.5rem;">
+          <div class="membership-tier">
+            <div style="margin-bottom: 0.75rem;">
               <h3 style="margin-bottom: 0;">
                 {{ tier.name }}
               </h3>
-              <sub>
+              <sub style="font-size: 85%;">
                 £{{ tier.price }} per month
               </sub>
             </div>
@@ -55,7 +55,47 @@ carousel:
               </ul>
             </div>
             <div>
-              <a href="" class="button expand round">
+              <a href="{{ tier.url }}" class="button expand round">
+                <span style="font-weight: 700;">Join</span><br />
+              </a>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div style="font-size: 1.2em; padding: 20px; text-align: center;">
+        Click <a href="https://farsetlabs.spaces.nexudus.com">here</a> to check out annual plans
+      </div>
+    </fieldset>
+
+    <fieldset class="block">
+      <legend>
+        <h4>Desk Rental</h4>
+      </legend>
+      <div class="membership-carousel">
+        {% for tier in site.desk_rental_tiers %}
+          <div class="membership-tier">
+            <div style="margin-bottom: 0.75rem;">
+              <h3 style="margin-bottom: 0;">
+                {{ tier.name }}
+              </h3>
+              <sub style="font-size: 85%;">
+                £{{ tier.price }} per {% if tier.period == "monthly" %} month {% else %} year {% endif %}
+              </sub>
+            </div>
+            <div style="flex: 1;">
+              <p style="margin-bottom: 1rem;">
+                {{ tier.description }}
+              </p>
+            </div>
+            <div>
+              <ul>
+                {% for benefit in tier.benefits %}
+                  <li style="font-size: 0.95rem;">{{ benefit }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div>
+              <a href="{{ tier.url }}" class="button expand round">
                 <span style="font-weight: 700;">Join</span><br />
               </a>
             </div>
@@ -63,6 +103,7 @@ carousel:
         {% endfor %}
       </div>
     </fieldset>
+
     <fieldset class="block">
       <legend>
         <h4>Support Us</h4>
@@ -78,9 +119,6 @@ carousel:
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" style="float: right;">
           </form>
         </div>
-        <!-- <div class="small-12 medium-6 columns">
-          <a class="button round expand" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
-        </div> -->
       </div>
     </fieldset>
   </div>

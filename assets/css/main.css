@@ -224,7 +224,17 @@ a:hover {
 }
 
 .membership-carousel {
+  display: flex;
   flex-direction: column;
+}
+
+.membership-carousel .membership-tier {
+  display: flex;
+  flex: 1;
+  flex-basis: 30%;
+  flex-direction: column;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 @media screen and (min-width: 640px) {
@@ -232,15 +242,11 @@ a:hover {
     flex-direction: row;
   }
 
-  .membership-carousel > .membership-tier:nth-child(0) {
-    border: 1px solid #353895;
+  .membership-carousel > .membership-tier {
+    border-right: 1px solid lightgrey;
   }
 
-  .membership-carousel > .membership-tier:nth-of-type(even) {
-    background-color: #add169;
-  }
-
-  .membership-carousel > .membership-tier:nth-of-type(odd) {
-    background-color: #e3e3e3;
+  .membership-carousel > .membership-tier:last-child {
+    border-right: none;
   }
 }

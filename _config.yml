@@ -27,31 +27,51 @@ membership_tiers:
   monthly:
     - name: Casual
       description: For students and those who are occasionally in the space.
+      price: 20
       benefits:
         - 🏪 24/7 access
         - 🤖 Fair use of workshop facilities (training may be required)
         - 🎟️ Free entry to Farset Labs events
       url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=2bbe61f6-f61c-43ae-955b-447d3f5694a4"
-      price: 20
     - name: Standard
       description: For those who regularly use the space.
+      price: 35
       benefits:
         - 🏪 24/7 access
         - 🤖 Fair use of workshop facilities (training may be required)
         - 🎟️ Free entry to Farset Labs events
       url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=19b169ca-f352-46fb-9b6c-d7c0c5b00385"
-      price: 35
     - name: Professional
       description: For those consistently in the space with ongoing long term projects.
+      price: 50
       benefits:
         - 🏪 24/7 access
         - 🤖 Fair use of workshop facilities (training may be required)
         - 🎟️ Free entry to Farset Labs events
       url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=ec3a5718-ab0d-4814-b276-9a637b0e9468"
-      price: 50
-    # casual: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=2bbe61f6-f61c-43ae-955b-447d3f5694a4"
-    # standard: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=19b169ca-f352-46fb-9b6c-d7c0c5b00385"
-    # professional: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=ec3a5718-ab0d-4814-b276-9a637b0e9468"
+desk_rental_tiers:
+  - name: Standard + Desk
+    description: For those who regularly use the space and want a dedicated desk to work from.
+    price: 135
+    period: monthly
+    benefits:
+      - 🖥️ Dedicated desk rental
+      - 🏪 24/7 access
+      - 🤖 Fair use of workshop facilities (training may be required)
+      - 🎟️ Free entry to Farset Labs events
+    url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=02662296-c46f-49fd-b3ed-0dd0e0f01c92"
+  - name: Standard + Desk (Annual)
+    description: For those who regularly use the space and want a dedicated desk to work from.
+    price: 1,485
+    period: annual
+    benefits:
+      - 🆓 1 Month Free
+      - 🖥️ Dedicated desk rental
+      - 🏪 24/7 access
+      - 🤖 Fair use of workshop facilities (training may be required)
+      - 🎟️ Free entry to Farset Labs events
+    url: "https://farsetlabs.spaces.nexudus.com/signup?tariff_guid=bd6e3095-6286-4ae9-b9d4-2e28a21bd8d9"
+
 officers:
   - name: Colin Mitchell, Secretary
     pronouns: "he/him"
