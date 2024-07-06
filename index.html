@@ -18,92 +18,26 @@ carousel:
 </div>
 
 <div class="row">
-  <div class="small-12 columns">
+  <div class=" columns">
     <fieldset class="block">
       <legend>
         <h4>Get Involved</h4>
       </legend>
       <div>
-        <p class="text-center">Becoming a member of the Labs
+        <p class="">Becoming a member of the Labs
           <a href="/about/facility">opens the doors to our resources and space</a>
           any time, as well as
           <a href="/events">free access to events</a>.
           Long-term desk rental is also available for members.
         </p>
       </div>
-      <div class="membership-carousel">
-        {% for tier in site.membership_tiers.monthly %}
-          <div class="membership-tier">
-            <div class="header">
-              <h3>
-                {{ tier.name }}
-              </h3>
-              <sub>
-                £{{ tier.price }} per month
-              </sub>
-            </div>
-            <div class="description-box">
-              <p>
-                {{ tier.description }}
-              </p>
-            </div>
-            <div class="benefits-list">
-              <ul>
-                {% for benefit in tier.benefits %}
-                  <li>{{ benefit }}</li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div>
-              <a href="{{ tier.url }}" class="button expand round">
-                <b>Join</b>
-              </a>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-      <div style="font-size: 1.2rem; padding: 1.25rem; text-align: center;">
-        Click <a href="https://farsetlabs.spaces.nexudus.com">here</a> to check out annual plans
-      </div>
+      <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+      <stripe-pricing-table
+        pricing-table-id="prctbl_1PZ0c9HVcZRgX183kprpwXUW"
+        publishable-key="pk_test_9dkmuy8HPCFSagCYIsN5yA3M"
+      >
+      </stripe-pricing-table>
     </fieldset>
-
-    <fieldset class="block">
-      <legend>
-        <h4>Desk Rental</h4>
-      </legend>
-      <div class="membership-carousel">
-        {% for tier in site.desk_rental_tiers %}
-          <div class="membership-tier">
-            <div class="header">
-              <h3>
-                {{ tier.name }}
-              </h3>
-              <sub>
-                £{{ tier.price }} per {% if tier.period == "monthly" %} month {% else %} year {% endif %}
-              </sub>
-            </div>
-            <div class="description-box">
-              <p>
-                {{ tier.description }}
-              </p>
-            </div>
-            <div class="benefits-list">
-              <ul>
-                {% for benefit in tier.benefits %}
-                  <li>{{ benefit }}</li>
-                {% endfor %}
-              </ul>
-            </div>
-            <div>
-              <a href="{{ tier.url }}" class="button expand round">
-                <b>Join</b>
-              </a>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </fieldset>
-
     <fieldset class="block">
       <legend>
         <h4>Support Us</h4>
