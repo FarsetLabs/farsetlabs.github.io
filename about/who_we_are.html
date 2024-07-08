@@ -37,8 +37,8 @@ permalink: /about/who_we_are/
             <p>{{officer.pronouns}}</p>
             <h5 class="subheader">{{officer.title}} ({{officer.year}} )</h5>
             {{ officer.blurb | unindent | markdownify }}
-            <ul class="small button-group right">
-              {% if officer.email %}<li><a class="small button round" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
+            <ul class="small button-group round right">
+              {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
             </ul>
         </div>
     </div>
@@ -70,8 +70,8 @@ permalink: /about/who_we_are/
             {% if officer.blurb %}
               {{ officer.blurb | unindent | markdownify }}
             {% endif %}
-            <ul class="small button-group right">
-              {% if officer.email %}<li><a class="small button round" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
+            <ul class="small button-group round right">
+              {% if officer.email %}<li><a class="small button" href="mailto:{{officer.email}}">{{officer.email}} <i class="general foundicon-mail"></i></a></li>{% endif %}
             </ul>
 
         </div>
@@ -122,3 +122,4 @@ permalink: /about/who_we_are/
       <p>We would like to thank our <a href="/support/corporates">corporate members</a>, who are actively encouraging the next generation of experimenters and revolutionaries; Tibus Connect, and Weavers Court Business Park, for believing in us from day one.</p>
     </div>
   </div>
+

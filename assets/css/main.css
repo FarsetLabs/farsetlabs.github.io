@@ -271,11 +271,3 @@ a:hover {
     }
   }
 }
-
-.row {
-  max-width: 65rem;
-}
-
-.button.round {
-  border-radius: 6px;
-}

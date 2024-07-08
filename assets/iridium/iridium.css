@@ -129,7 +129,7 @@ ul.posts li .title {
     color: rgb(100, 10, 100);
 }
 .user-content h3, .user-content h4, .user-content h5, .user-content h6 {
-    font-size: 1.1em;
+    font-size: 1.1em
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -145,3 +145,4 @@ div.block p {
 div.block .th-container {
     padding-top: 10px;
 }
+
