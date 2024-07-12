@@ -17,7 +17,7 @@ for charitable donations.
 If you'd like to support our work in this way, follow the link below! Thanks!
 
 <p style="text-align: center;">
-  <a href="https://www.paypal.com/gb/fundraiser/charity/113209" class="large button expand round" style="max-width: 30rem;">Donate</a>
+  <a href="https://www.paypal.com/gb/fundraiser/charity/113209" class="large button expand round max-w-md">Donate</a>
 </p>
 
 For larger donations, it may be easier to
@@ -34,7 +34,7 @@ and Google. If your employer is one of them, you can support the work of the
 charity below.
 
 <p style="text-align: center;">
-  <a class="large button round expand" style="max-width: 30rem;" type="button" href="https://causes.benevity.org/causes/826-NI_102754">Support
+  <a class="large button round expand max-w-md" type="button" href="https://causes.benevity.org/causes/826-NI_102754">Support
   us via Benevity</a>
 </P>
 
@@ -46,13 +46,13 @@ towards the upkeep of the space and it's community and if you want to support
 anything in particular, you can say so in the form!
 
 <div class="btn-group" role="group" aria-label="support-group" style="text-align:center">
-  <a class="large button round expand" style="max-width: 30rem;" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
+  <a class="large button round expand max-w-md" type="button" href="https://www.patreon.com/bePatron?u=11068558">Support us via Patreon</a>
   <form class="text-center" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="6E5VFUY63DKLS">
     <input type="hidden" src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-    <input type="submit" name="submit" style="max-width: 30rem;" class="large button round expand" value="Support us via PayPal">
+    <input type="submit" name="submit" class="large button round expand max-w-md" value="Support us via PayPal">
   </form>
 </div>
 
