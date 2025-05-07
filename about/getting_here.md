@@ -29,7 +29,7 @@ to get directions from your current location.
 
 - Exit **Belfast Grand Central Station** onto **Glengall Street** and turn **left**, walking towards the tall **Europa Hotel** at the end of the street.
 - Turn **left** onto **Great Victoria Street**, then a **right** onto **Hope Street** and continue straight towards the traffic lights, where [**this mural**](/assets/img/mural.png) will be visible to your left.
-- Cross the road and walk down **Linfield Road** (between the mural and the **Murray & Co Tobacconists** building on the right). Continue along Linfield Road around the bend. A large **“Weavers Court” sign** will be visible.
+- Cross the road and walk down **Linfield Road** (between the mural and the red-brick **Murray's Exchange** building on the right — formerly the Murray & Sons tobacco factory). Continue along Linfield Road around the bend. A large **“Weavers Court” sign** will be visible.
 - Walk through the pedestrian gate and enter Weavers Court. If the gates are closed at night, ring the intercom button beside the pedestrian gate for entry.
 - **Farset Labs** is the building directly behind the main map, opposite the **Security office**, and is marked C. We are **Unit 1**, and are signposted throughout Weavers Court. Our entrance is directly **below and beside the large orange "C" sign** mounted on the corner of the building, [see this photo](/assets/img/door-instruction.png).
 
