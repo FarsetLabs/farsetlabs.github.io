@@ -8,7 +8,7 @@ permalink: /about/getting_here/
 
 # How to Find Farset Labs
 
-**Farset Labs** is located in **Unit 1, Weavers Court Business Park, Belfast,
+**Farset Labs** is located in **Unit 2A-2B, Weavers Court Business Park, Belfast,
 BT12 5GH**, in the centre of Belfast in Northern Ireland. We are a fifteen-minute
 walk from the **Belfast Grand Central train & bus station** and a ten-minute
 drive from **George Best (Belfast City) Airport**.
@@ -31,7 +31,7 @@ to get directions from your current location.
 - Turn **left** onto **Great Victoria Street**, then a **right** onto **Hope Street** and continue straight towards the traffic lights, where [**this mural**](/assets/img/mural.png) will be visible to your left.
 - Cross the road and walk down **Linfield Road** (between the mural and the red-brick **Murray's Exchange** building on the right — formerly the Murray & Sons tobacco factory). Continue along Linfield Road around the bend. A large **“Weavers Court” sign** will be visible.
 - Walk through the pedestrian gate and enter Weavers Court. If the gates are closed at night, ring the intercom button beside the pedestrian gate for entry.
-- **Farset Labs** is the building directly behind the main map, opposite the **Security office**, and is marked C. We are **Unit 1**, and are signposted throughout Weavers Court. Our entrance is directly **below and beside the large orange "C" sign** mounted on the corner of the building, [see this photo](/assets/img/door-instruction.png).
+- **Farset Labs** is the building directly behind the main map. We are **Unit 2**, and are signposted throughout Weavers Court. Our entrance is directly **below and beside the large orange "C" sign** mounted on the corner of the building, [see this photo](/assets/img/door-instruction.png).
 
 # Driving or cycling to Farset Labs
 
@@ -39,7 +39,7 @@ Enter **Weavers Court** by main gate. Follow the road round to the right, then
 take the second left after only about 20m, followed by an immediate right (ie.
 don't go under the archway).
 
-We are Unit 1 of the only building on the right. If the gates are closed at night, ring the intercom button beside the pedestrian gate for entry.
+We are Unit 2 of the only building on the right. If the gates are closed at night, ring the intercom button beside the pedestrian gate for entry.
 
 **Please do not leave bicycles blocking doors or entrances, or in the way of
 equipment or storage areas.**

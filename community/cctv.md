@@ -19,7 +19,7 @@ and well being of the Labs, together with its members and guests.
 CCTV monitoring and recording systems will only be installed in the building
 when this has been reviewed and approved by the Board of Trustees.
 
-The system comprises a number of fixed cameras located within the Unit 1/1A
+The system comprises a number of fixed cameras located within the Unit 2A/2B
 building.
 
 The CCTV policy will be registered with the Information Commissioner under the
