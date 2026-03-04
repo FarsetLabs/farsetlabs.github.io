@@ -488,7 +488,7 @@ rules.
 Questions and comments should be directed towards the Board of Directors, or via
 email to admin@farsetlabs.org.uk. Postal correspondence should be sent to:
 
-Farset Labs, 1 Weavers Court Business Park, Linfield Road, Belfast, BT12 5GH.
+Farset Labs, Unit 2A-2B Weavers Court Business Park, Linfield Road, Belfast, BT12 5GH.
 
 #### 3.2.2 Other Formats
 
