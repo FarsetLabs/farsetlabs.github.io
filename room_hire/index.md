@@ -22,7 +22,7 @@ perfect solution for you.
 Use the dropdown button on the right to check the availability of specific
 bookable areas of the space.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&showPrint=0&hl=en_GB&showTitle=0&title=Room%20Availability&src=ZmFyc2V0bGFicy5vcmcudWtfc3JtcW5rbjM3M2F1cTUxdTAwczJuaWpycThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZmFyc2V0bGFicy5vcmcudWtfMTg4NWpsN2F1dHZjY2lvOGdiMHAzbGpvazU5NHU2Z2I2b3BqMGQ5bDcwcjMyZTlpNmtAcmVzb3VyY2UuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688&color=%23d50000" style="border-width: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&showPrint=0&showTitle=0&hl=en_GB&src=ZmFyc2V0bGFicy5vcmcudWtfMTg4NWpsN2F1dHZjY2lvOGdiMHAzbGpvazU5NHU2Z2I2b3BqMGQ5bDcwcjMyZTlpNmtAcmVzb3VyY2UuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZmFyc2V0bGFicy5vcmcudWtfMzIzMjM3MzgzNjMyMzUzNjM2MzQzMkByZXNvdXJjZS5jYWxlbmRhci5nb29nbGUuY29t&src=ZmFyc2V0bGFicy5vcmcudWtfMzgzMzM3MzUzOTMxMzczNDJkMzYzMjM0QHJlc291cmNlLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23d50000&color=%23c0ca33&color=%23795548" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Booking for a Private Event
 
