@@ -22,7 +22,7 @@ perfect solution for you.
 Use the dropdown button on the right to check the availability of specific
 bookable areas of the space.
 
-<iframe src="https://www.google.com/calendar/embed?title=Room%20Availability&showTitle=0&showPrint=0&showTabs=0&mode=WEEK&height=600&wkst=2&bgcolor=%23FFFFFF&src=farsetlabs.org.uk_3330353438393238353333%40resource.calendar.google.com&color=%230F4B38&src=farsetlabs.org.uk_3232373836323536363432%40resource.calendar.google.com&color=%23B1440E&src=farsetlabs.org.uk_2d3335353138363232343633%40resource.calendar.google.com&color=%23711616&src=farsetlabs.org.uk_38333735393137342d363234%40resource.calendar.google.com&color=%2328754E&ctz=Europe%2FLondon" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLondon&showPrint=0&hl=en_GB&showTitle=0&title=Room%20Availability&src=ZmFyc2V0bGFicy5vcmcudWtfc3JtcW5rbjM3M2F1cTUxdTAwczJuaWpycThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ZmFyc2V0bGFicy5vcmcudWtfMTg4NWpsN2F1dHZjY2lvOGdiMHAzbGpvazU5NHU2Z2I2b3BqMGQ5bDcwcjMyZTlpNmtAcmVzb3VyY2UuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23009688&color=%23d50000" style="border-width: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Booking for a Private Event
 
