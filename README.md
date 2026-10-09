@@ -6,27 +6,30 @@ Northern Ireland.
 
 ## Quickstart
 
-Install the [prerequisites][prerequisites] needed for Jekyll. This includes a
-recent version of Ruby (2.5 or later). We recommend using the latest stable
-version of Ruby that works with Jekyll and your chosen platform. You can check
-your version of Ruby by running:
+The site is built and published by GitHub Pages straight from `main`, using the
+[`github-pages`][pages-versions] gem. `Gemfile.lock` and `.ruby-version` track
+the versions Pages runs, so a local build matches the live one.
+
+Install the [prerequisites][prerequisites] needed for Jekyll, including the Ruby
+version in `.ruby-version`. We suggest [RVM][rvm] or [rbenv][rbenv] to manage
+Ruby versions locally. You can check your version with:
 
 ```sh
 ruby --version
 ```
 
-We suggested that you use [RVM][rvm] or [rbenv][rbenv] to manage different
-versions of Ruby locally.
-
-Once you've installed the prequistes, open the project directory and run:
+Then, from the project directory, run:
 
 ```sh
 gem install bundler
 bundle install
-bundle exec jekyll serve -w
+bundle exec jekyll serve --safe --watch
 ```
 
 Open http://localhost:4000 in a browser to view the site.
+
+`--safe` matches GitHub Pages, which does not run custom plugins from
+`_plugins/`.
 
 ### Building With Docker
 
@@ -34,18 +37,29 @@ Open http://localhost:4000 in a browser to view the site.
 with this site using Docker first ensure that Docker is installed on your
 machine, and then run:
 
-``docker build -t farsetlabs-site .  docker run -p 4000:4000 -v `pwd`:/app farsetlabs-site``
+```sh
+docker build -t farsetlabs-site .
+docker run -p 4000:4000 -v "$(pwd)":/app farsetlabs-site
+```
 
 This will start a container, build the site and then serve it on port 4000.
 Editing files on your machine will cause the container to rebuild the site and
 make the changes available in the browser (wait for the confirmation message of
-the build)
+the build).
+
+### Checks
+
+Every pull request runs a `--safe` production build and the pre-commit hooks in
+GitHub Actions (`.github/workflows/build.yml`). To run the same hooks locally
+before you commit:
 
 ```sh
-Regenerating: 1 file(s) changed at 2019-06-13 09:33:17
-                    index.html
-                    ...done in 10.680932188 seconds.
+pip install pre-commit
+pre-commit install
 ```
+
+Dependabot proposes weekly updates for gems, GitHub Actions and the Docker base
+image.
 
 ## Contributing
 
@@ -67,12 +81,6 @@ your branch through a pull request.
 If you are not a developer, you should raise corrections and content
 improvements as [issues].
 
-### Editing Sidebar Links
-
-Sidebar links are included from `_includes/sidebar-links.md` This is a markdown
-list which is parsed when the jekyll site is built. To update sidebar links just
-edit this file.
-
 ### Submitting your changes
 
 Once you have pushed your changes (either to our repo or your fork as a
@@ -80,13 +88,14 @@ contributor) you should open a [pull request]. Our web team will review it.
 Please leave at least a brief description of what the changes are, and detail
 any changes made to layout or the functionality of the website.
 
-[bootstrap]: http://getbootstrap.com/
+[bootstrap]: https://getbootstrap.com/
 [farsetlabs]: https://www.farsetlabs.org.uk/
-[docker]: https://docker.com/
+[docker]: https://www.docker.com/
 [feature-branch-workflow]:
   https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
 [issues]: https://github.com/FarsetLabs/farsetlabs.github.io/issues
-[jekyll]: http://jekyllrb.com/
+[jekyll]: https://jekyllrb.com/
+[pages-versions]: https://pages.github.com/versions/
 [pull request]: https://github.com/FarsetLabs/farsetlabs.github.io/pulls
 [rvm]: https://rvm.io/
 [rbenv]: https://github.com/rbenv/rbenv
