@@ -1,4 +1,8 @@
 _site
+.jekyll-cache
+.jekyll-metadata
+.bundle
+vendor
 *~
 .DS_Store
 etc

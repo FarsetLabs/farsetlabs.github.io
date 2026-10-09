@@ -4,7 +4,9 @@ layout: default
 parent: "Community"
 toc: False
 weight: 2
-redirect_from: /about/rules_and_policies/
+redirect_from:
+  - /about/rules_and_policies/
+  - /about/rules_and_policies.html
 permalink: /community/rules_and_policies/
 ---
 

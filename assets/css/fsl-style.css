@@ -29,12 +29,12 @@ a:hover{
   color:#b1d76a;
 }
 
-// FLEXSLIDER 
+// FLEXSLIDER
 .flex-container a:active,
 .flexslider a:active,
 .flex-container a:focus,
 .flexslider a:focus  { outline: none; }
- 
+
 .slides,
 .flex-control-nav,
 .flex-direction-nav {
@@ -42,20 +42,20 @@ a:hover{
     padding: 0;
     list-style: none;
 }
- 
+
 .flexslider a img { outline: none; border: none; }
- 
+
 .flexslider {
     margin: 0;
     position: relative;
     zoom: 1;
     padding: 10px;
     background: #ffffff;
- 
+
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
- 
+
     -webkit-box-shadow: 0px 1px 1px rgba(0,0,0, .2);
     -moz-box-shadow: 0px 1px 1px rgba(0,0,0, .2);
     box-shadow: 0px 1px 1px rgba(0,0,0, .2);
@@ -64,11 +64,11 @@ a:hover{
     display: none;
     -webkit-backface-visibility: hidden;
 }
- 
+
 .flexslider .slides img {
     width: 100%;
     display: block;
- 
+
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -93,7 +93,7 @@ a:hover{
     top: 50%;
     cursor: pointer;
     text-indent: -9999px;
- 
+
     background-color: #bfab8b;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#bfab8b), to(#f5e2c1));
   background-image: -webkit-linear-gradient(top, #bfab8b, #f5e2c1);

@@ -1,0 +1,15 @@
+# Vendored libraries and the archived _attachments/ pages are left exactly as
+# published upstream / at the time, so formatting hooks skip them.
+exclude: ^(assets/foundation/|_attachments/|assets/js/(bootstrap|bootstrap-carousel|bootstrap\.min|jquery\.flexslider-min)\.js$)
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: trailing-whitespace
+        # Two trailing spaces are a Markdown hard line break; keep those.
+        args: [--markdown-linebreak-ext=md]
+      - id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-merge-conflict
+      - id: check-added-large-files
