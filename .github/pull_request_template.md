@@ -4,6 +4,8 @@
 
 _Example: Add missing period on equipment donations page._
 
+For visible changes, add before/after screenshots below.
+
 Before | After
 --- | ---
-![placeholder image](https://via.placeholder.com/800) | ![placeholder image](https://via.placeholder.com/800)
+ |

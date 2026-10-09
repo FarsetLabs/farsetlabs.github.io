@@ -10,4 +10,3 @@ $(window).load(function() {
   touch: true
   });
 });
-

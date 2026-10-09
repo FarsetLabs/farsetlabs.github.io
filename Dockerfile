@@ -1,11 +1,15 @@
-FROM            jekyll/jekyll:4
-EXPOSE          4000
+FROM ruby:3.3.4-slim
 
-COPY            Gemfile* /tmp/
-WORKDIR         /tmp
-RUN             bundle install
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends build-essential git \
+    && rm -rf /var/lib/apt/lists/*
 
-COPY            . /app
-WORKDIR         /app
+WORKDIR /app
 
-CMD             ["jekyll", "serve", "--host 0.0.0.0"]
+COPY Gemfile Gemfile.lock ./
+RUN bundle install
+
+COPY . .
+
+EXPOSE 4000
+CMD ["bundle", "exec", "jekyll", "serve", "--safe", "--host", "0.0.0.0", "--force_polling"]

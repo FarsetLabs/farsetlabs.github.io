@@ -184,4 +184,4 @@ on the part of the member/prospective member of how much they are going to use
 the resources of the space. These levels are not there to restrict use of the
 space, but to provide a reasonable revenue stream for the ongoing growth of the
 Labs within the bounds of fair and reasonable use.
-[More info on the levels of membership](/membership).
+[More info on the levels of membership](/#membership).

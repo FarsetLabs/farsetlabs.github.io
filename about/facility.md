@@ -6,6 +6,7 @@ weight: 1
 image: /assets/img/space/workshop-1.jpg
 toc: False
 permalink: /about/facility/
+redirect_from: /about/facility.html
 ---
 
 # Facilities & Resources
@@ -16,7 +17,7 @@ to everyone, no matter what you want to do, and we welcome people from all walks
 of life to use our space, come to our events, get involved and foster the maker
 community in Northern Ireland.
 
-For a low [membership fee](/membership), students, hobbyists, and all members of
+For a low [membership fee](/#membership), students, hobbyists, and all members of
 the local community will be able to come together, hack at projects, build stuff
 and bring some life to Belfast!
 
@@ -59,7 +60,7 @@ with ample parking, 24/7 security, and access to further office and warehousing
 space, all five mins' walk from Belfast city centre.
 
 Farset Labs operates a clear desk policy on (and under)
-non-[rented](/membership) desks; All hot-desks must be cleared of all equipment
+non-[rented](/#membership) desks; All hot-desks must be cleared of all equipment
 before leaving the space. Equipment left unattended at non-rented desks is
 subject to being moved by _any_ member to common storage facilities.
 
