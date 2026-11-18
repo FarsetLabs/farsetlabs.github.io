@@ -1,4 +1,4 @@
-FROM ruby:4.0.0-slim
+FROM ruby:4.0.9-slim
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends build-essential git \
